@@ -31,12 +31,26 @@ We are now ready to dig in, and adjust the wide variety of configuration options
 pandaac is based upon the amazing PHP framework, [Laravel](http://laravel.com/). As time goes by, we will create our own documentation of sort, but as of right now, you'll have to refer to [Laravel's documentation](http://laravel.com/docs).
 
 #### Picking schema
-As of right now, pandaac supports [TFS 1.0](https://github.com/otland/forgottenserver) and [Avesta](https://code.google.com/p/avesta74/).
+As of right now, pandaac only supports [TFS 1.0](https://github.com/otland/forgottenserver) and [Avesta](https://code.google.com/p/avesta74/) officially, any one is obviously free to develop their own distrobution package.
 
-To switch between the two, refer to `pandaac/app/config/packages/pandaac/bamboo/app.php` and change the `distro` value accordingly.
+In order to switch between these distrobution packages, one would refer to the `pandaac/app/config/packages/pandaac/bamboo/app.php` configuration file and change the `distro` value accordingly. Once that is done, you will also need to migrate their database tables.
+
+##### The Forgotten Server 1.0
 ```php
 'distro' => 'pandaac\TFS10\TFS10ServiceProvider', // The Forgotten Server 1.0
+```
+```bash
+cd pandaac/
+php artisan migrate --package=pandaac/tfs10
+```
+
+##### Avesta
+```php
 'distro' => 'pandaac\Avesta\AvestaServiceProvider', // Avesta
+```
+```bash
+cd pandaac/
+php artisan migrate --package=pandaac/avesta
 ```
 
 ### Community Packages
