@@ -35,8 +35,8 @@ As of right now, pandaac supports [TFS 1.0](https://github.com/otland/forgottens
 
 To switch between the two, refer to `pandaac/app/config/packages/pandaac/bamboo/app.php` and change the `distro` value accordingly.
 ```php
-'distro' => 'pandaac\TFS10\TFS10ServiceProvider',
-'distro' => 'pandaac\Avesta\AvestaServiceProvider',
+'distro' => 'pandaac\TFS10\TFS10ServiceProvider', // The Forgotten Server 1.0
+'distro' => 'pandaac\Avesta\AvestaServiceProvider', // Avesta
 ```
 
 ### Community Packages
