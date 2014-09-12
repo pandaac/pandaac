@@ -1,6 +1,8 @@
 # pandaac
 pandaac is currently in active development. Bugs, missing and/or in-progress features are to be expected. It has yet to reach a stable version. Use cautiously.
 
+---
+
 ### Requirements
 The following items are required to install & maintain a working copy of pandaac. It may be subject to change.
 * [Composer](https://getcomposer.org/)
@@ -8,6 +10,8 @@ The following items are required to install & maintain a working copy of pandaac
   * MCrypt Extension
   * CURL Extension
   * GD Extension
+
+---
 
 ### Installation
 Initially, we want to find/create a folder for our project to sit in (e.g. `cd path/to/folder`, from here on forth, we will refer to your root folder as `pandaac/`). Once we're happy with a folder, we execute the following command to install pandaac along with all of its dependencies. Give it a couple of minutes.
@@ -24,6 +28,8 @@ Next, we want to publish the assets that belong to the default theme, and once a
 cd pandaac/ && php artisan asset:publish pandaac/theme-retro
 ```
 We are now ready to dig in, and adjust the wide variety of configuration options that are available through `pandaac/app/config`.
+
+---
 
 ### Documentation
 pandaac is based upon the amazing PHP framework, [Laravel](http://laravel.com/). As time goes by, we will create our own documentation of sort, but as of right now, you'll have to refer to [Laravel's documentation](http://laravel.com/docs).
@@ -48,6 +54,8 @@ cd pandaac/ && php artisan migrate --package=pandaac/tfs10
 ```bash
 cd pandaac/ && php artisan migrate --package=pandaac/avesta
 ```
+
+---
 
 ### Community Packages
 Below is a compiled list of some of the available community-based packages for pandaac. These packages are not maintained and/or officially supported by pandaac. Please refer to their respective repositories for assistance.
