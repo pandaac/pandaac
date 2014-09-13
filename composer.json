@@ -7,8 +7,7 @@
 		"laravel/framework": "4.2.*",
 		"pandaac/bamboo": "dev-master",
 		"pandaac/tfs10": "dev-master",
-		"pandaac/avesta": "dev-master",
-		"pandaac/theme-retro": "dev-master"
+		"pandaac/avesta": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
