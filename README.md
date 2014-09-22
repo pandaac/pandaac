@@ -16,16 +16,18 @@ The following items are required to install & maintain a working copy of pandaac
 ### Installation
 Initially, we want to find/create a folder for our project to sit in (e.g. `cd path/to/folder`, from here on forth, we will refer to your root folder as `pandaac/`). Once we're happy with a folder, we execute the following command to install pandaac along with all of its dependencies. Give it a couple of minutes.
 ```bash
-composer create-project pandaac/pandaac . --stability=dev
+composer create-project pandaac/pandaac . --stability=dev --prefer-dist
 ```
 Once installed, we want to publish the pandaac specified configuration files, as modifying any file within the `vendor/` directory should be avoided at all costs. Any `composer update` will erase your custom modifications within the aforementioned directory.
 To publish the configuration files, we turn to Artisan to do its magic.
 ```bash
-cd pandaac/ && php artisan config:publish pandaac/bamboo
+cd pandaac/
+php artisan config:publish pandaac/bamboo
 ````
 Next, we want to publish the assets that belong to the default theme, and once again, we refer to Artisan.
 ```bash
-cd pandaac/ && php artisan asset:publish pandaac/theme-retro
+cd pandaac/
+php artisan asset:publish pandaac/theme-retro
 ```
 We are now ready to dig in, and adjust the wide variety of configuration options that are available through `pandaac/app/config`.
 
@@ -44,7 +46,8 @@ In order to switch between these distrobution packages, one would refer to the `
 'distro' => 'pandaac\TFS10\TFS10ServiceProvider', // The Forgotten Server 1.0
 ```
 ```bash
-cd pandaac/ && php artisan migrate --package=pandaac/tfs10
+cd pandaac/
+php artisan migrate --package=pandaac/tfs10
 ```
 
 ##### Avesta
@@ -52,7 +55,8 @@ cd pandaac/ && php artisan migrate --package=pandaac/tfs10
 'distro' => 'pandaac\Avesta\AvestaServiceProvider', // Avesta
 ```
 ```bash
-cd pandaac/ && php artisan migrate --package=pandaac/avesta
+cd pandaac/
+php artisan migrate --package=pandaac/avesta
 ```
 
 ---
