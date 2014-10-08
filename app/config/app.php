@@ -118,6 +118,12 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
+
+		#'Illuminate\Hashing\HashServiceProvider',
+		#'Illuminate\Mail\MailServiceProvider',
+		#'Illuminate\Pagination\PaginationServiceProvider',
+		#'Illuminate\Translation\TranslationServiceProvider',
+
 		'pandaac\Bamboo\BambooServiceProvider',
 
 	),

@@ -48,6 +48,8 @@ Log::useFiles(storage_path().'/logs/laravel.log');
 
 App::error(function(Exception $exception, $code)
 {
+	if ($exception instanceof Symfony\Component\HttpKernel\Exception\NotFoundHttpException) return;
+
 	Log::error($exception);
 });
 
