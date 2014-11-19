@@ -1,3 +1,6 @@
+# Please Note!
+This project is not dead, even though it may appear so because of the lack of commits. I am currently in the process of re-writing it for the upcoming release of Laravel 5, as I felt there was no point in continuing development for an older version. It is growing stronger by the day, and once I feel I have a solid enough base for it, I will upload it to a public repository.
+
 # pandaac
 pandaac is currently in active development. Bugs, missing and/or in-progress features are to be expected. It has yet to reach a stable version. Use cautiously.
 
