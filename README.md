@@ -39,6 +39,10 @@ We are now ready to dig in, and adjust the wide variety of configuration options
 ### Documentation
 pandaac is based upon the amazing PHP framework, [Laravel](http://laravel.com/). As time goes by, we will create our own documentation of sort, but as of right now, you'll have to refer to [Laravel's documentation](http://laravel.com/docs).
 
+#### Database connection configuration
+Now you need to set your database connection details, you do it in `pandaac/app/config/database.php`.
+To deeper understand how it works, you can visit [Laravel's documentation](http://laravel.com/docs/4.2/database) 
+
 #### Picking schema
 As of right now, pandaac only supports [TFS 1.0](https://github.com/otland/forgottenserver) and [Avesta](https://code.google.com/p/avesta74/) officially, any one is obviously free to develop their own distrobution package.
 
