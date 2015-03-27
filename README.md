@@ -68,9 +68,5 @@ php artisan migrate --package=pandaac/avesta
 
 ---
 
-### Community Packages
-Below is a compiled list of some of the available community-based packages for pandaac. These packages are not maintained and/or officially supported by pandaac. Please refer to their respective repositories for assistance.
-
-| Package | Author | composer.json require |
-| ------- | ------ | ------- |
-| [Bootstrap Theme](https://github.com/cornex1/pandaac-bootstrap-theme) | [Cornex](https://github.com/cornex1) | `"cornex/pandaac-bootstrap-theme": "dev-master"` |
+### Issues & Feature Requests
+Is something not working as it should? or do you simply want to request a new feature? Use the [pandaac/bamboo issues](https://github.com/pandaac/bamboo/issues).
