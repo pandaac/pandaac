@@ -9,7 +9,8 @@
 		"composer/installers": "~1.0",
 		"filp/whoops": "~1.0",
 		"apolune/core": "dev-master",
-		"pandaac/theme-installer-plugin": "dev-master"
+		"pandaac/theme-installer-plugin": "~1.0",
+		"pandaac/theme": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
@@ -45,10 +46,5 @@
 	},
 	"config": {
 		"preferred-install": "dist"
-	},
-	"extra": {
-		"installer-paths": {
-			"themes/{$name}/": ["type:pandaac-theme"]
-		}
 	}
 }
