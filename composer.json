@@ -6,7 +6,6 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
-		"composer/installers": "~1.0",
 		"filp/whoops": "~1.0",
 		"apolune/core": "dev-master",
 		"pandaac/theme-installer-plugin": "~1.0",
