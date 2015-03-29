@@ -7,6 +7,7 @@
 	"require": {
 		"laravel/framework": "5.0.*",
 		"pandaac/apolune": "dev-master",
+		"pandaac/theme": "dev-master",
 		"filp/whoops": "~1.0"
 	},
 	"require-dev": {
@@ -43,5 +44,10 @@
 	},
 	"config": {
 		"preferred-install": "dist"
+	},
+	"extra": {
+		"installer-paths": {
+			"themes/{$name}/": ["type:pandaac-theme"]
+		}
 	}
 }
