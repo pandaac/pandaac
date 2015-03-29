@@ -69,4 +69,4 @@ php artisan migrate --package=pandaac/avesta
 ---
 
 ### Issues & Feature Requests
-Is something not working as it should? or do you simply want to request a new feature? Use the [pandaac/bamboo issues](https://github.com/pandaac/bamboo/issues).
+Is something not working as it should? or do you simply want to request a new feature? Use the [pandaac/pandaac issues](https://github.com/pandaac/pandaac/issues).
