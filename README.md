@@ -1,7 +1,6 @@
 # Please Note!
+##### (updated 29th of March, 2015)
 As of the 11th of January, 2015, [Cornex](https://github.com/cornex) was appointed as the lead developer for the Laravel 4 version of pandaac (master branch in this repository). I have recently made a few changes to prepare for the new Laravel 5 version of pandaac. If you're interested in following along with the development of this new version, please check out the [Apolune](https://github.com/pandaac/apolune) & [Apolune](https://github.com/apolune) repositories. If you're wondering where the Laravel 4 packages went, they have all been moved over to [this repository](https://github.com/pandaac-laravel4).
-
-This project is not dead, even though it may appear so because of the lack of commits. I am currently in the process of re-writing it for the upcoming release of Laravel 5, as I felt there was no point in continuing development for an older version. It is growing stronger by the day, and once I feel I have a solid enough base for it, I will upload it to a public repository. As of the 11th of January, 2015, I have appointed Cornex as the lead developer of this version of pandaac.
 
 # pandaac
 pandaac is currently in active development. Bugs, missing and/or in-progress features are to be expected. It has yet to reach a stable version. Use cautiously.
