@@ -6,7 +6,7 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
-		"pandaac/apolune": "dev-master",
+		"apolune/core": "dev-master",
 		"pandaac/theme": "dev-master",
 		"filp/whoops": "~1.0"
 	},
