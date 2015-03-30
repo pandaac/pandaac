@@ -1,7 +1,7 @@
 {
 	"name": "laravel/laravel",
 	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"keywords": ["pandaac", "apolune", "laravel"],
 	"license": "MIT",
 	"type": "project",
 	"require": {
