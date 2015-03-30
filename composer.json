@@ -6,9 +6,9 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
+		"pandaac/theme-installer-plugin": "~1.0",
 		"filp/whoops": "~1.0",
 		"apolune/core": "dev-master",
-		"pandaac/theme-installer-plugin": "~1.0",
 		"pandaac/theme": "dev-master"
 	},
 	"require-dev": {
@@ -43,7 +43,5 @@
 			"php artisan pandaac:publish --all"
 		]
 	},
-	"config": {
-		"preferred-install": "dist"
-	}
+	"minimum-stability": "dev"
 }
