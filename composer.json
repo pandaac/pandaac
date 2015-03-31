@@ -6,7 +6,6 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
-		"pandaac/theme-installer-plugin": "~1.0",
 		"filp/whoops": "~1.0",
 		"apolune/core": "dev-master",
 		"pandaac/theme": "dev-master"
@@ -39,8 +38,7 @@
 		],
 		"post-create-project-cmd": [
 			"php -r \"copy('.env.example', '.env');\"",
-			"php artisan key:generate",
-			"php artisan pandaac:publish --all"
+			"php artisan key:generate"
 		]
 	},
 	"minimum-stability": "dev"
