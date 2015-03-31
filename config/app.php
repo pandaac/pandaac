@@ -144,7 +144,7 @@ return [
 		'App\Providers\ConfigServiceProvider',
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
-		'Apolune\Core\Providers\PackageServiceProvider',
+		'Apolune\Core\Providers\CoreServiceProvider',
 
 	],
 

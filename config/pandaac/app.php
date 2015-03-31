@@ -15,7 +15,7 @@ return [
 
 	'providers' => [
 
-		'Apolune\Account\Providers\PackageServiceProvider',
+		'Apolune\Account\Providers\AccountServiceProvider',
 
 	],
 
