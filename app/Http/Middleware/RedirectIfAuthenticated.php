@@ -35,9 +35,7 @@ class RedirectIfAuthenticated {
 	{
 		if ($this->auth->check())
 		{
-			$account = config('pandaac.account.route', '/account');
-
-			return new RedirectResponse(url($account));
+			return new RedirectResponse(url('/account'));
 		}
 
 		return $next($request);

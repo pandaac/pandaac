@@ -40,9 +40,7 @@ class Authenticate {
 			}
 			else
 			{
-				$account = config('pandaac.account.route', '/account');
-
-				return redirect()->guest("${account}/login");
+				return redirect()->guest("/account/login");
 			}
 		}
 
