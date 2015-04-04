@@ -11,8 +11,7 @@
 		"pandaac/theme": "dev-master"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "~4.0",
-		"phpspec/phpspec": "~2.1"
+		"barryvdh/laravel-debugbar": "~2.0"
 	},
 	"autoload": {
 		"classmap": [
@@ -22,11 +21,7 @@
 			"App\\": "app/"
 		}
 	},
-	"autoload-dev": {
-		"classmap": [
-			"tests/TestCase.php"
-		]
-	},
+	"autoload-dev": {},
 	"scripts": {
 		"post-install-cmd": [
 			"php artisan clear-compiled",
