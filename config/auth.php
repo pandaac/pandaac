@@ -28,7 +28,7 @@ return [
 	|
 	*/
 
-	'model' => 'Apolune\Core\Contracts\Account',
+	'model' => 'Apolune\Contracts\Account\Account',
 
 	/*
 	|--------------------------------------------------------------------------
