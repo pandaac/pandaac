@@ -11,10 +11,3 @@ Change `my/path/` to wherever you want to install Apolune & run the command in y
 ```bash
 composer create-project pandaac/pandaac my/path/ dev-apolune
 ```
-
-## Theme
-When you have installed a brand new theme, you'll want to run the following command from your Apolune directory (e.g. `my/path/`).
-
-```bash
-php artisan theme:publish
-```
