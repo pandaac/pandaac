@@ -3,12 +3,22 @@
 	"description": "The Laravel Framework.",
 	"keywords": ["pandaac", "apolune", "laravel"],
 	"license": "MIT",
+	"authors": [
+		{
+			"name": "Christopher Eklund",
+			"email": "eklundchristopher@gmail.com"
+		},
+		{
+			"name": "Kristoffer Eklund",
+			"email": "kristoffereklund1@gmail.com"
+		}
+	],
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
 		"filp/whoops": "~1.0",
 		"apolune/core": "dev-master",
-		"pandaac/theme": "dev-master"
+		"pandaac/theme-tibia": "dev-master"
 	},
 	"require-dev": {
 		"barryvdh/laravel-debugbar": "~2.0"
