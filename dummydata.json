@@ -1,0 +1,24 @@
+{
+	"worlds": [
+		{
+			"id": 0,
+			"name": "Antica",
+			"type": 1
+		},
+		{
+			"id": 1,
+			"name": "Nika",
+			"type": 1
+		},
+		{
+			"id": 2,
+			"name": "Secura",
+			"type": 0
+		},
+		{
+			"id": 3,
+			"name": "Inferna",
+			"type": 2
+		}
+	]
+}
