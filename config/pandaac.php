@@ -28,6 +28,6 @@ return [
 	|
 	*/
 
-	'theme' => 'pandaac\ThemeTibia\ThemeServiceProvider',
+	'theme' => 'pandaac\ThemeTibia\Providers\ThemeServiceProvider',
 
 ];
