@@ -60,12 +60,14 @@
         {
             "id": 0,
             "name": "Antica",
-            "type": 1
+            "type": 1,
+            "flag": "se"
         },
         {
             "id": 1,
             "name": "Nika",
-            "type": 1
+            "type": 1,
+            "flag": "ca"
         },
         {
             "id": 2,
