@@ -1,81 +1,81 @@
 {
-	"genders": [
-		{
-			"id": 1,
-			"name": "Male"
-		},
-		{
-			"id": 0,
-			"name": "Female"
-		}
-	],
-	"vocations": [
-		{
-			"id": 0,
-			"name": "No Vocation",
-			"starter": false
-		},
-		{
-			"id": 1,
-			"name": "Sorcerer",
-			"starter": true
-		},
-		{
-			"id": 2,
-			"name": "Druid",
-			"starter": true
-		},
-		{
-			"id": 3,
-			"name": "Paladin",
-			"starter": true
-		},
-		{
-			"id": 4,
-			"name": "Knight",
-			"starter": true
-		},
-		{
-			"id": 5,
-			"name": "Master Sorcerer",
-			"starter": false
-		},
-		{
-			"id": 6,
-			"name": "Elder Druid",
-			"starter": false
-		},
-		{
-			"id": 7,
-			"name": "Royal Paladin",
-			"starter": false
-		},
-		{
-			"id": 8,
-			"name": "Elite Knight",
-			"starter": false
-		}
-	],
-	"worlds": [
-		{
-			"id": 0,
-			"name": "Antica",
-			"type": 1
-		},
-		{
-			"id": 1,
-			"name": "Nika",
-			"type": 1
-		},
-		{
-			"id": 2,
-			"name": "Secura",
-			"type": 0
-		},
-		{
-			"id": 3,
-			"name": "Inferna",
-			"type": 2
-		}
-	]
+    "genders": [
+        {
+            "id": 1,
+            "name": "Male"
+        },
+        {
+            "id": 0,
+            "name": "Female"
+        }
+    ],
+    "vocations": [
+        {
+            "id": 0,
+            "name": "No Vocation",
+            "starter": false
+        },
+        {
+            "id": 1,
+            "name": "Sorcerer",
+            "starter": true
+        },
+        {
+            "id": 2,
+            "name": "Druid",
+            "starter": true
+        },
+        {
+            "id": 3,
+            "name": "Paladin",
+            "starter": true
+        },
+        {
+            "id": 4,
+            "name": "Knight",
+            "starter": true
+        },
+        {
+            "id": 5,
+            "name": "Master Sorcerer",
+            "starter": false
+        },
+        {
+            "id": 6,
+            "name": "Elder Druid",
+            "starter": false
+        },
+        {
+            "id": 7,
+            "name": "Royal Paladin",
+            "starter": false
+        },
+        {
+            "id": 8,
+            "name": "Elite Knight",
+            "starter": false
+        }
+    ],
+    "worlds": [
+        {
+            "id": 0,
+            "name": "Antica",
+            "type": 1
+        },
+        {
+            "id": 1,
+            "name": "Nika",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "name": "Secura",
+            "type": 0
+        },
+        {
+            "id": 3,
+            "name": "Inferna",
+            "type": 2
+        }
+    ]
 }

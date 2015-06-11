@@ -5,6 +5,9 @@ Apolune is the codename assigned to the version of _pandaac_ that utilises [Lara
 * [Laravel 5.1 Requirements](http://laravel.com/docs/5.1/installation#installation)
 * [Composer](https://getcomposer.org/)
 
+## Coding Standard
+[PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+
 ## Installation
 Change `my/path/` to wherever you want to install Apolune & run the command in your terminal.
 
