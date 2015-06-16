@@ -11,6 +11,7 @@ Apolune is the codename assigned to the version of _pandaac_ that utilises [Lara
 ##### Server Owners
 * Apolune is currently only being tested with [The Forgotten Server 1.1](https://github.com/otland/forgottenserver/tree/1.1).
   * Other server packages (e.g. Avesta, TFS 0.3) are planned for future releases.
+* As a temporary solution, we use the `dummydata.json` file for anything server related.
 
 ##### Developers
 * If you would like to contribute to Apolune, please make sure all of your code is using the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard.
@@ -22,7 +23,7 @@ Change `my/path/` to wherever you want to install Apolune & run the command in y
 composer create-project pandaac/pandaac my/path/ dev-apolune
 ```
 
-Once the installation process is complete, you'll want to edit the `.env` to fit your needs. Run the following command in your terminal to migrate the necessary database tables. You'll need to have an active database set up with the [TFS 1.1 schema](https://github.com/otland/forgottenserver/blob/1.1/schema.sql) pre-installed.
+Once the installation process is complete, you'll want to edit the `.env` file to fit your needs. Run the following command in your terminal to migrate the necessary database tables. You'll need to have an active database set up with the [TFS 1.1 schema](https://github.com/otland/forgottenserver/blob/1.1/schema.sql) pre-installed.
 
 ```bash
 php artisan migrate:pandaac
