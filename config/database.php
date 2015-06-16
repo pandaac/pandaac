@@ -98,7 +98,7 @@ return [
     |
     */
 
-    'migrations' => 'migrations',
+    'migrations' => '__pandaac_migrations',
 
     /*
     |--------------------------------------------------------------------------
