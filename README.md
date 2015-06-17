@@ -18,6 +18,7 @@ Apolune is the codename assigned to the version of _pandaac_ that utilises [Lara
 
 ##### Developers
 * If you would like to contribute to Apolune, please make sure all of your code is using the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard.
+* You may also contribute to our public [CDN](https://github.com/pandaac/cdn).
 
 ## Installation
 Change `my/path/` to wherever you want to install Apolune & run the command in your terminal.
