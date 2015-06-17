@@ -8,6 +8,9 @@ Apolune is the codename assigned to the version of _pandaac_ that utilises [Lara
 
 ## Quick Notes
 
+##### Demo Site
+[https://demo.pandaac.io](https://demo.pandaac.io)
+
 ##### Server Owners
 * Apolune is currently only being tested with [The Forgotten Server 1.1](https://github.com/otland/forgottenserver/tree/1.1).
   * Other server packages (e.g. Avesta, TFS 0.3) are planned for future releases.
