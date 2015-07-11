@@ -102,6 +102,9 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes' => [
+        'email' => 'email address',
+        'player' => 'character name',
+    ],
 
 ];
