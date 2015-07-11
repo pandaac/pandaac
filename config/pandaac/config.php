@@ -18,7 +18,7 @@ return [
     */
 
     'providers' => [
-        'Apolune\ApoluneServiceProvider',
+        Apolune\ApoluneServiceProvider::class,
     ],
 
     /*
@@ -30,6 +30,6 @@ return [
     |
     */
 
-    'theme' => 'pandaac\ThemeTibia\Providers\ThemeServiceProvider',
+    'theme' => pandaac\ThemeTibia\Providers\ThemeServiceProvider::class,
 
 ];
