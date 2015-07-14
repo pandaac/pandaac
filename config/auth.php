@@ -28,7 +28,7 @@ return [
     |
     */
 
-    'model' => 'account',
+    'model' => Apolune\Contracts\Account\Account::class,
 
     /*
     |--------------------------------------------------------------------------

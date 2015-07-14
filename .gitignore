@@ -1,5 +1,5 @@
-/workbench
 /vendor
 /node_modules
-.env
+Homestead.yaml
 composer.lock
+.env
