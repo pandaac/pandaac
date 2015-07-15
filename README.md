@@ -60,6 +60,14 @@ cd pandaac/
 php artisan migrate --package=pandaac/avesta
 ```
 
+##### reCAPTCHA
+If you would like to enable [Google's reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) for account creation, run the following command:
+```bash
+cd pandaac/
+php artisan config:publish greggilbert/recaptcha
+```
+Once it's done, traverse over to `pandaac/app/config/packages/greggilbert/recaptcha/config.php` and adjust the settings according to your demands. The `public_key` and `private_key` are both required.
+
 ---
 
 ### Issues & Feature Requests
