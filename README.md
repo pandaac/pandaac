@@ -60,6 +60,7 @@ cd pandaac/
 php artisan migrate --package=pandaac/avesta
 ```
 
+#### Optional features
 ##### reCAPTCHA
 If you would like to enable [Google's reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) for account creation, run the following command:
 ```bash
