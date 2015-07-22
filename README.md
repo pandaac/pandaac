@@ -30,5 +30,5 @@ composer create-project pandaac/pandaac my/path/ dev-apolune
 Once the installation process is complete, you'll want to edit the `.env` file to fit your needs. Run the following command in your terminal to migrate the necessary database tables. You'll need to have an active database set up with the [TFS 1.1 schema](https://github.com/otland/forgottenserver/blob/1.1/schema.sql) pre-installed.
 
 ```bash
-php artisan migrate
+php artisan migrate --seed
 ```
