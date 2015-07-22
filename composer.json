@@ -6,11 +6,15 @@
     "authors": [
         {
             "name": "Christopher Eklund",
-            "email": "eklundchristopher@gmail.com"
+            "email": "eklundchristopher@gmail.com",
+            "homepage": "https://otland.net/members/chris.13882/",
+            "role": "Head Developer"
         },
         {
             "name": "Kristoffer Eklund",
-            "email": "kristoffereklund1@gmail.com"
+            "email": "kristoffereklund1@gmail.com",
+            "homepage": "https://otland.net/members/cornex.10032/",
+            "role": "Developer"
         }
     ],
     "type": "project",
