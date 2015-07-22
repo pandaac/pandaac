@@ -18,6 +18,7 @@
         "php": ">=5.5.9",
         "laravel/framework": "~5.1",
         "filp/whoops": "~1.0",
+        "guzzlehttp/guzzle": "~5.3|~6.0",
         "apolune/core": "dev-master",
         "pandaac/theme-tibia": "dev-master"
     },
