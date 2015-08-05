@@ -20,11 +20,11 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
+        "apolune/core": "dev-master",
+        "pandaac/theme-tibia": "dev-master",
         "laravel/framework": "~5.1",
         "filp/whoops": "~1.0",
-        "guzzlehttp/guzzle": "~5.3|~6.0",
-        "apolune/core": "dev-master",
-        "pandaac/theme-tibia": "dev-master"
+        "guzzlehttp/guzzle": "~5.3|~6.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "~2.0",

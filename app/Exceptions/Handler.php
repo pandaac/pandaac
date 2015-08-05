@@ -39,9 +39,9 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Exception $e)
     {
-        if ($this->isHttpException($e)) {
-            return redirect('/');
-        }
+        // if ($this->isHttpException($e)) {
+        //     return redirect('/');
+        // }
 
         if (config('app.debug')) {
             return $this->renderExceptionWithWhoops($e);
