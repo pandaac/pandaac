@@ -3,8 +3,9 @@
 namespace App\Exceptions;
 
 use Exception;
+use Apolune\Profile\Exceptions\NotFoundPlayerException;
+use Apolune\Core\Exceptions\Handler as ExceptionHandler;
 use Symfony\Component\HttpKernel\Exception\HttpException;
-use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
 class Handler extends ExceptionHandler
 {
@@ -42,6 +43,12 @@ class Handler extends ExceptionHandler
         // if ($this->isHttpException($e)) {
         //     return redirect('/');
         // }
+
+        if ($e instanceof NotFoundPlayerException) {
+            $player = app('router')->getCurrentRoute()->getParameter('player');
+
+            return redirect('/characters')->with('name', $player);
+        }
 
         if (config('app.debug')) {
             return $this->renderExceptionWithWhoops($e);

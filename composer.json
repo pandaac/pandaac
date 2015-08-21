@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "pandaac/pandaac",
+    "description": "An automatic account creator for Open Tibia servers.",
     "keywords": ["pandaac", "apolune", "laravel", "tibia", "opentibia"],
     "license": "MIT",
     "authors": [
@@ -21,10 +21,7 @@
     "require": {
         "php": ">=5.5.9",
         "apolune/core": "dev-master",
-        "pandaac/theme-tibia": "dev-master",
-        "laravel/framework": "~5.1",
-        "filp/whoops": "~1.0",
-        "guzzlehttp/guzzle": "~5.3|~6.0"
+        "pandaac/theme-tibia": "dev-master"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "~2.0",
