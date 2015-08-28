@@ -9,6 +9,23 @@
          "ip": "127.0.0.1",
          "port": 7171,
          "flag": "se"
+      },
+      {
+         "id": 1,
+         "name": "Nika",
+         "slug": "nika",
+         "type": 0,
+         "ip": "127.0.0.1",
+         "port": 7171,
+         "flag": "ca"
+      },
+      {
+         "id": 2,
+         "name": "Test",
+         "slug": "test",
+         "type": 2,
+         "ip": "127.0.0.1",
+         "port": 7171
       }
    ],
    "genders": [
@@ -25,22 +42,22 @@
       {
          "id": 0,
          "name": "Rookgaard",
-         "starter": true
+         "starter": false
       },
       {
          "id": 1,
          "name": "Thais",
-         "starter": false
+         "starter": true
       },
       {
          "id": 2,
          "name": "Venore",
-         "starter": false
+         "starter": true
       },
       {
          "id": 3,
          "name": "Carlin",
-         "starter": false
+         "starter": true
       }
    ],
    "vocations": [
@@ -52,22 +69,22 @@
       {
          "id": 1,
          "name": "Sorcerer",
-         "starter": false
+         "starter": true
       },
       {
          "id": 2,
          "name": "Druid",
-         "starter": false
+         "starter": true
       },
       {
          "id": 3,
          "name": "Paladin",
-         "starter": false
+         "starter": true
       },
       {
          "id": 4,
          "name": "Knight",
-         "starter": false
+         "starter": true
       },
       {
          "id": 5,
