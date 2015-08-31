@@ -36,6 +36,7 @@ return [
     'timers' => [
 
         'email-change' => 10,
+        'registration-change' => 10,
 
     ],
 
