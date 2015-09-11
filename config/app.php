@@ -148,7 +148,6 @@ return [
          * pandaac Service Providers...
          */
         Apolune\Core\Providers\CoreServiceProvider::class,
-        #Barryvdh\Debugbar\ServiceProvider::class,
 
     ],
 
