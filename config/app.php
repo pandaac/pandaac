@@ -4,6 +4,19 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Application Environment
+    |--------------------------------------------------------------------------
+    |
+    | This value determines the "environment" your application is currently
+    | running in. This may determine how you prefer to configure various
+    | services your application utilizes. Set this in your ".env" file.
+    |
+    */
+
+    'env' => env('APP_ENV', 'production'),
+
+    /*
+    |--------------------------------------------------------------------------
     | Application Debug Mode
     |--------------------------------------------------------------------------
     |
@@ -17,6 +30,18 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Application Debug Bar
+    |--------------------------------------------------------------------------
+    |
+    | When your application is in debug mode, barryvdh's laravel debug bar
+    | will be shown at the bottom of every page of your application.
+    |
+    */
+
+    'debugbar' => env('APP_DEBUGBAR', false),
+
+    /*
+    |--------------------------------------------------------------------------
     | Application URL
     |--------------------------------------------------------------------------
     |
@@ -27,6 +52,18 @@ return [
     */
 
     'url' => 'http://localhost',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Application SSL
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify whether the application should force a SSL (HTTPS)
+    | mode across all pages and local URLs.
+    |
+    */
+
+    'https' => env('APP_HTTPS', false),
 
     /*
     |--------------------------------------------------------------------------
@@ -123,7 +160,6 @@ return [
         Illuminate\Encryption\EncryptionServiceProvider::class,
         Illuminate\Filesystem\FilesystemServiceProvider::class,
         Illuminate\Foundation\Providers\FoundationServiceProvider::class,
-        #Illuminate\Hashing\HashServiceProvider::class,
         Illuminate\Mail\MailServiceProvider::class,
         Illuminate\Pagination\PaginationServiceProvider::class,
         Illuminate\Pipeline\PipelineServiceProvider::class,
