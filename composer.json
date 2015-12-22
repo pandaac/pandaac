@@ -24,7 +24,7 @@
         "pandaac/theme-tibia": "dev-master"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "~2.0",
+        "barryvdh/laravel-debugbar": "~2.1",
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
