@@ -1,5 +1,5 @@
 # Apolune
-Apolune is the codename assigned to the version of _pandaac_ that utilises [Laravel 5.2](http://laravel.com/docs/5.2/). It is still in an **early** development stage, so if you're planning on using _pandaac_ for your server, please refer to the more complete & stable [master branch](https://github.com/pandaac/pandaac), which instead utilises [Laravel 4.2](http://laravel.com/docs/4.2/).
+Apolune is the codename assigned to the version of _pandaac_ that utilises [Laravel 5.2](http://laravel.com/docs/5.2/). It is still in an **early** development stage, so if you're planning on using _pandaac_ for your server, please refer to the more complete & stable [master branch](https://github.com/pandaac/pandaac/tree/master), which instead utilises [Laravel 4.2](http://laravel.com/docs/4.2/).
 
 ## Prerequisites
 * [Laravel 5.2 Requirements](https://laravel.com/docs/5.2/installation#server-requirements)
