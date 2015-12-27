@@ -1,10 +1,11 @@
 {
     "instant": {
         "Annihilation": {
+            "hidden": false,
             "words": "exori gran ico",
             "level": 110,
             "mana": 300,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -12,10 +13,11 @@
             ]
         },
         "Apprentice's Strike": {
+            "hidden": false,
             "words": "exori min flam",
             "level": 8,
             "mana": 6,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -25,10 +27,11 @@
             ]
         },
         "Berserk": {
+            "hidden": false,
             "words": "exori",
             "level": 35,
             "mana": 115,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -36,10 +39,11 @@
             ]
         },
         "Blood Rage": {
+            "hidden": false,
             "words": "utito tempo",
             "level": 60,
             "mana": 290,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Knight",
@@ -47,10 +51,11 @@
             ]
         },
         "Brutal Strike": {
+            "hidden": false,
             "words": "exori ico",
             "level": 16,
             "mana": 30,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -58,10 +63,11 @@
             ]
         },
         "Cancel Invisibility": {
+            "hidden": false,
             "words": "exana ina",
             "level": 26,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -69,20 +75,22 @@
             ]
         },
         "Challenge": {
+            "hidden": false,
             "words": "exeta res",
             "level": 20,
             "mana": 30,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Elite Knight"
             ]
         },
         "Charge": {
+            "hidden": false,
             "words": "utani tempo hur",
             "level": 25,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Knight",
@@ -90,10 +98,11 @@
             ]
         },
         "Creature Illusion": {
+            "hidden": false,
             "words": "utevo res ina",
             "level": 23,
             "mana": 100,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -103,10 +112,11 @@
             ]
         },
         "Cure Bleeding": {
+            "hidden": false,
             "words": "exana kor",
             "level": 45,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Druid",
@@ -116,10 +126,11 @@
             ]
         },
         "Cure Burning": {
+            "hidden": false,
             "words": "exana flam",
             "level": 30,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Druid",
@@ -127,10 +138,11 @@
             ]
         },
         "Cure Curse": {
+            "hidden": false,
             "words": "exana mort",
             "level": 80,
             "mana": 40,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Paladin",
@@ -138,10 +150,11 @@
             ]
         },
         "Cure Electrification": {
+            "hidden": false,
             "words": "exana vis",
             "level": 22,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Druid",
@@ -149,10 +162,11 @@
             ]
         },
         "Cure Poison": {
+            "hidden": false,
             "words": "exana pox",
             "level": 10,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Sorcerer",
@@ -166,10 +180,11 @@
             ]
         },
         "Curse": {
+            "hidden": false,
             "words": "utori mort",
             "level": 75,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -177,10 +192,11 @@
             ]
         },
         "Death Strike": {
+            "hidden": false,
             "words": "exori mort",
             "level": 16,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -188,10 +204,11 @@
             ]
         },
         "Divine Caldera": {
+            "hidden": false,
             "words": "exevo mas san",
             "level": 50,
             "mana": 160,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Paladin",
@@ -199,10 +216,11 @@
             ]
         },
         "Divine Healing": {
+            "hidden": false,
             "words": "exura san",
             "level": 35,
             "mana": 160,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Paladin",
@@ -210,10 +228,11 @@
             ]
         },
         "Divine Missile": {
+            "hidden": false,
             "words": "exori san",
             "level": 40,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Paladin",
@@ -221,10 +240,11 @@
             ]
         },
         "Electrify": {
+            "hidden": false,
             "words": "utori vis",
             "level": 34,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -232,10 +252,11 @@
             ]
         },
         "Enchant Party": {
+            "hidden": false,
             "words": "utori mas sio",
             "level": 32,
             "mana": 120,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -243,10 +264,11 @@
             ]
         },
         "Energy Beam": {
+            "hidden": false,
             "words": "exevo vis lux",
             "level": 23,
             "mana": 40,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -254,10 +276,11 @@
             ]
         },
         "Energy Strike": {
+            "hidden": false,
             "words": "exori vis",
             "level": 12,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -267,10 +290,11 @@
             ]
         },
         "Energy Wave": {
+            "hidden": false,
             "words": "exevo vis hur",
             "level": 38,
             "mana": 170,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -278,10 +302,11 @@
             ]
         },
         "Envenom": {
+            "hidden": false,
             "words": "utori pox",
             "level": 50,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -289,10 +314,11 @@
             ]
         },
         "Eternal Winter": {
+            "hidden": false,
             "words": "exevo gran mas frigo",
             "level": 60,
             "mana": 1050,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -300,10 +326,11 @@
             ]
         },
         "Ethereal Spear": {
+            "hidden": false,
             "words": "exori con",
             "level": 23,
             "mana": 25,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Paladin",
@@ -311,10 +338,11 @@
             ]
         },
         "Fierce Berserk": {
+            "hidden": false,
             "words": "exori gran",
             "level": 90,
             "mana": 340,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -322,10 +350,11 @@
             ]
         },
         "Find Person": {
+            "hidden": false,
             "words": "exiva",
             "level": 8,
             "mana": 20,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -339,10 +368,11 @@
             ]
         },
         "Fire Wave": {
+            "hidden": false,
             "words": "exevo flam hur",
             "level": 18,
             "mana": 25,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -350,10 +380,11 @@
             ]
         },
         "Flame Strike": {
+            "hidden": false,
             "words": "exori flam",
             "level": 14,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -363,10 +394,11 @@
             ]
         },
         "Food": {
+            "hidden": false,
             "words": "exevo pan",
             "level": 14,
             "mana": 120,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Druid",
@@ -374,10 +406,11 @@
             ]
         },
         "Front Sweep": {
+            "hidden": false,
             "words": "exori min",
             "level": 70,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -385,10 +418,11 @@
             ]
         },
         "Great Energy Beam": {
+            "hidden": false,
             "words": "exevo gran vis lux",
             "level": 29,
             "mana": 110,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -396,10 +430,11 @@
             ]
         },
         "Great Light": {
+            "hidden": false,
             "words": "utevo gran lux",
             "level": 13,
             "mana": 60,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -413,10 +448,11 @@
             ]
         },
         "Groundshaker": {
+            "hidden": false,
             "words": "exori mas",
             "level": 33,
             "mana": 160,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -424,10 +460,11 @@
             ]
         },
         "Haste": {
+            "hidden": false,
             "words": "utani hur",
             "level": 14,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -441,10 +478,11 @@
             ]
         },
         "Heal Friend": {
+            "hidden": false,
             "words": "exura sio",
             "level": 18,
             "mana": 140,
-            "prem": 1,
+            "premium": true,
             "group": "healing",
             "vocations": [
                 "Druid",
@@ -452,10 +490,11 @@
             ]
         },
         "Heal Party": {
+            "hidden": false,
             "words": "utura mas sio",
             "level": 32,
             "mana": 120,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Druid",
@@ -463,10 +502,11 @@
             ]
         },
         "Hell's Core": {
+            "hidden": false,
             "words": "exevo gran mas flam",
             "level": 60,
             "mana": 1100,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -474,10 +514,11 @@
             ]
         },
         "Holy Flash": {
+            "hidden": false,
             "words": "utori san",
             "level": 70,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Paladin",
@@ -485,10 +526,11 @@
             ]
         },
         "Ice Strike": {
+            "hidden": false,
             "words": "exori frigo",
             "level": 15,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -498,10 +540,11 @@
             ]
         },
         "Ice Wave": {
+            "hidden": false,
             "words": "exevo frigo hur",
             "level": 18,
             "mana": 25,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -509,10 +552,11 @@
             ]
         },
         "Ignite": {
+            "hidden": false,
             "words": "utori flam",
             "level": 26,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -520,10 +564,11 @@
             ]
         },
         "Inflict Wound": {
+            "hidden": false,
             "words": "utori kor",
             "level": 40,
             "mana": 30,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -531,10 +576,11 @@
             ]
         },
         "Intense Healing": {
+            "hidden": false,
             "words": "exura gran",
             "level": 20,
             "mana": 70,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Sorcerer",
@@ -546,10 +592,11 @@
             ]
         },
         "Intense Recovery": {
+            "hidden": false,
             "words": "utura gran",
             "level": 100,
             "mana": 165,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Paladin",
@@ -559,10 +606,11 @@
             ]
         },
         "Intense Wound Cleansing": {
+            "hidden": false,
             "words": "exura gran ico",
             "level": 80,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": "healing",
             "vocations": [
                 "Knight",
@@ -570,10 +618,11 @@
             ]
         },
         "Invisibility": {
+            "hidden": false,
             "words": "utana vid",
             "level": 35,
             "mana": 440,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -583,10 +632,11 @@
             ]
         },
         "Levitate": {
+            "hidden": false,
             "words": "exani hur",
             "level": 12,
             "mana": 50,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -600,10 +650,11 @@
             ]
         },
         "Light": {
+            "hidden": false,
             "words": "utevo lux",
             "level": 8,
             "mana": 20,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -617,10 +668,11 @@
             ]
         },
         "Light Healing": {
+            "hidden": false,
             "words": "exura",
             "level": 8,
             "mana": 20,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Sorcerer",
@@ -632,10 +684,11 @@
             ]
         },
         "Lightning": {
+            "hidden": false,
             "words": "exori amp vis",
             "level": 55,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -643,10 +696,11 @@
             ]
         },
         "Magic Rope": {
+            "hidden": false,
             "words": "exani tera",
             "level": 9,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -660,10 +714,11 @@
             ]
         },
         "Magic Shield": {
+            "hidden": false,
             "words": "utamo vita",
             "level": 14,
             "mana": 50,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -673,10 +728,11 @@
             ]
         },
         "Mass Healing": {
+            "hidden": false,
             "words": "exura gran mas res",
             "level": 36,
             "mana": 150,
-            "prem": 1,
+            "premium": true,
             "group": "healing",
             "vocations": [
                 "Druid",
@@ -684,10 +740,11 @@
             ]
         },
         "Physical Strike": {
+            "hidden": false,
             "words": "exori moe ico",
             "level": 16,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -695,30 +752,33 @@
             ]
         },
         "Practise Fire Wave": {
+            "hidden": false,
             "words": "exevo dis flam hur",
             "level": 1,
             "mana": 5,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "None"
             ]
         },
         "Practise Healing": {
+            "hidden": false,
             "words": "exura dis",
             "level": 1,
             "mana": 5,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "None"
             ]
         },
         "Protect Party": {
+            "hidden": false,
             "words": "utamo mas sio",
             "level": 32,
             "mana": 90,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -726,10 +786,11 @@
             ]
         },
         "Protector": {
+            "hidden": false,
             "words": "utamo tempo",
             "level": 55,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Knight",
@@ -737,10 +798,11 @@
             ]
         },
         "Rage of the Skies": {
+            "hidden": false,
             "words": "exevo gran mas vis",
             "level": 55,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -748,10 +810,11 @@
             ]
         },
         "Recovery": {
+            "hidden": false,
             "words": "utura",
             "level": 50,
             "mana": 75,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Paladin",
@@ -761,10 +824,11 @@
             ]
         },
         "Salvation": {
+            "hidden": false,
             "words": "exura gran san",
             "level": 60,
             "mana": 210,
-            "prem": 1,
+            "premium": true,
             "group": "healing",
             "vocations": [
                 "Paladin",
@@ -772,10 +836,11 @@
             ]
         },
         "Sharpshooter": {
+            "hidden": false,
             "words": "utito tempo san",
             "level": 60,
             "mana": 450,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -783,10 +848,11 @@
             ]
         },
         "Strong Energy Strike": {
+            "hidden": false,
             "words": "exori gran vis",
             "level": 80,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -794,10 +860,11 @@
             ]
         },
         "Strong Ethereal Spear": {
+            "hidden": false,
             "words": "exori gran con",
             "level": 90,
             "mana": 55,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Paladin",
@@ -805,10 +872,11 @@
             ]
         },
         "Strong Flame Strike": {
+            "hidden": false,
             "words": "exori gran flam",
             "level": 70,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -816,10 +884,11 @@
             ]
         },
         "Strong Haste": {
+            "hidden": false,
             "words": "utani gran hur",
             "level": 20,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -829,10 +898,11 @@
             ]
         },
         "Strong Ice Strike": {
+            "hidden": false,
             "words": "exori gran frigo",
             "level": 80,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -840,10 +910,11 @@
             ]
         },
         "Strong Ice Wave": {
+            "hidden": false,
             "words": "exevo gran frigo hur",
             "level": 40,
             "mana": 170,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -851,10 +922,11 @@
             ]
         },
         "Strong Terra Strike": {
+            "hidden": false,
             "words": "exori gran tera",
             "level": 70,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -862,10 +934,11 @@
             ]
         },
         "Summon Creature": {
+            "hidden": false,
             "words": "utevo res",
             "level": 25,
             "mana": 0,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -875,10 +948,11 @@
             ]
         },
         "Swift Foot": {
+            "hidden": false,
             "words": "utamo tempo san",
             "level": 55,
             "mana": 400,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -886,10 +960,11 @@
             ]
         },
         "Terra Strike": {
+            "hidden": false,
             "words": "exori tera",
             "level": 13,
             "mana": 20,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -899,10 +974,11 @@
             ]
         },
         "Terra Wave": {
+            "hidden": false,
             "words": "exevo tera hur",
             "level": 38,
             "mana": 210,
-            "prem": 0,
+            "premium": false,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -910,10 +986,11 @@
             ]
         },
         "Train Party": {
+            "hidden": false,
             "words": "utito mas sio",
             "level": 32,
             "mana": 60,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Knight",
@@ -921,10 +998,11 @@
             ]
         },
         "Ultimate Energy Strike": {
+            "hidden": false,
             "words": "exori max vis",
             "level": 100,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -932,10 +1010,11 @@
             ]
         },
         "Ultimate Flame Strike": {
+            "hidden": false,
             "words": "exori max flam",
             "level": 90,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Sorcerer",
@@ -943,10 +1022,11 @@
             ]
         },
         "Ultimate Healing": {
+            "hidden": false,
             "words": "exura vita",
             "level": 30,
             "mana": 160,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Sorcerer",
@@ -956,10 +1036,11 @@
             ]
         },
         "Ultimate Ice Strike": {
+            "hidden": false,
             "words": "exori max frigo",
             "level": 100,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -967,10 +1048,11 @@
             ]
         },
         "Ultimate Light": {
+            "hidden": false,
             "words": "utevo vis lux",
             "level": 26,
             "mana": 140,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Sorcerer",
@@ -980,10 +1062,11 @@
             ]
         },
         "Ultimate Terra Strike": {
+            "hidden": false,
             "words": "exori max tera",
             "level": 90,
             "mana": 100,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -991,10 +1074,11 @@
             ]
         },
         "Wound Cleansing": {
+            "hidden": false,
             "words": "exura ico",
             "level": 10,
             "mana": 40,
-            "prem": 0,
+            "premium": false,
             "group": "healing",
             "vocations": [
                 "Knight",
@@ -1002,10 +1086,11 @@
             ]
         },
         "Whirlwind Throw": {
+            "hidden": false,
             "words": "exori hur",
             "level": 28,
             "mana": 40,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Knight",
@@ -1013,10 +1098,11 @@
             ]
         },
         "Wrath of Nature": {
+            "hidden": false,
             "words": "exevo gran mas tera",
             "level": 55,
             "mana": 700,
-            "prem": 1,
+            "premium": true,
             "group": "attack",
             "vocations": [
                 "Druid",
@@ -1024,40 +1110,45 @@
             ]
         },
         "House Guest List": {
+            "hidden": false,
             "words": "aleta sio",
             "level": 0,
             "mana": 0,
-            "prem": 0,
+            "premium": false,
             "group": false
         },
         "House Subowner List": {
+            "hidden": false,
             "words": "aleta som",
             "level": 0,
             "mana": 0,
-            "prem": 0,
+            "premium": false,
             "group": false
         },
         "House Door List": {
+            "hidden": false,
             "words": "aleta grav",
             "level": 0,
             "mana": 0,
-            "prem": 0,
+            "premium": false,
             "group": false
         },
         "House Kick": {
+            "hidden": false,
             "words": "alana sio",
             "level": 0,
             "mana": 0,
-            "prem": 0,
+            "premium": false,
             "group": false
         }
     },
     "conjure": {
         "Blank Rune": {
+            "hidden": false,
             "words": "adori blank",
             "level": 20,
             "mana": 50,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Druid",
@@ -1069,10 +1160,11 @@
             ]
         },
         "Conjure Arrow": {
+            "hidden": false,
             "words": "exevo con",
             "level": 13,
             "mana": 100,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1080,10 +1172,11 @@
             ]
         },
         "Conjure Poisoned Arrow": {
+            "hidden": false,
             "words": "exevo con pox",
             "level": 16,
             "mana": 130,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1091,10 +1184,11 @@
             ]
         },
         "Conjure Bolt": {
+            "hidden": false,
             "words": "exevo con mort",
             "level": 17,
             "mana": 140,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1102,10 +1196,11 @@
             ]
         },
         "Conjure Sniper Arrow": {
+            "hidden": false,
             "words": "exevo con hur",
             "level": 24,
             "mana": 160,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1113,10 +1208,11 @@
             ]
         },
         "Conjure Explosive Arrow": {
+            "hidden": false,
             "words": "exevo con flam",
             "level": 25,
             "mana": 290,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1124,10 +1220,11 @@
             ]
         },
         "Conjure Piercing Bolt": {
+            "hidden": false,
             "words": "exevo con grav",
             "level": 33,
             "mana": 180,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1135,20 +1232,22 @@
             ]
         },
         "Enchant Staff": {
+            "hidden": false,
             "words": "exeta vis",
             "level": 41,
             "mana": 80,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Master Sorcerer"
             ]
         },
         "Enchant Spear": {
+            "hidden": false,
             "words": "exeta con",
             "level": 45,
             "mana": 350,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Paladin",
@@ -1156,20 +1255,22 @@
             ]
         },
         "Conjure Power Bolt": {
+            "hidden": false,
             "words": "exevo con vis",
             "level": 59,
             "mana": 700,
-            "prem": 1,
+            "premium": true,
             "group": "support",
             "vocations": [
                 "Royal Paladin"
             ]
         },
         "Poison Field": {
+            "hidden": false,
             "words": "adevo grav pox",
             "level": 14,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1179,10 +1280,11 @@
             ]
         },
         "Light Magic Missile": {
+            "hidden": false,
             "words": "adori min vis",
             "level": 15,
             "mana": 120,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1192,10 +1294,11 @@
             ]
         },
         "Fire Field": {
+            "hidden": false,
             "words": "adevo grav flam",
             "level": 15,
             "mana": 240,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1205,10 +1308,11 @@
             ]
         },
         "Fireball": {
+            "hidden": false,
             "words": "adori flam",
             "level": 27,
             "mana": 460,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1216,10 +1320,11 @@
             ]
         },
         "Energy Field": {
+            "hidden": false,
             "words": "adevo grav vis",
             "level": 18,
             "mana": 320,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1229,10 +1334,11 @@
             ]
         },
         "Stalagmite": {
+            "hidden": false,
             "words": "adori tera",
             "level": 24,
             "mana": 400,
-            "prem": 2,
+            "premium": 2,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1242,10 +1348,11 @@
             ]
         },
         "Great Fireball": {
+            "hidden": false,
             "words": "adori mas flam",
             "level": 30,
             "mana": 530,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1253,10 +1360,11 @@
             ]
         },
         "Heavy Magic Missile": {
+            "hidden": false,
             "words": "adori vis",
             "level": 25,
             "mana": 350,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1266,10 +1374,11 @@
             ]
         },
         "Poison Bomb": {
+            "hidden": false,
             "words": "adevo mas pox",
             "level": 25,
             "mana": 520,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1277,10 +1386,11 @@
             ]
         },
         "Firebomb": {
+            "hidden": false,
             "words": "adevo mas flam",
             "level": 27,
             "mana": 600,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1290,10 +1400,11 @@
             ]
         },
         "Soulfire": {
+            "hidden": false,
             "words": "adevo res flam",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1303,10 +1414,11 @@
             ]
         },
         "Poison Wall": {
+            "hidden": false,
             "words": "adevo mas grav pox",
             "level": 29,
             "mana": 640,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1316,10 +1428,11 @@
             ]
         },
         "Explosion": {
+            "hidden": false,
             "words": "adevo mas hur",
             "level": 31,
             "mana": 570,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1329,10 +1442,11 @@
             ]
         },
         "Fire Wall": {
+            "hidden": false,
             "words": "adevo mas grav flam",
             "level": 33,
             "mana": 780,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1342,10 +1456,11 @@
             ]
         },
         "Energybomb": {
+            "hidden": false,
             "words": "adevo mas vis",
             "level": 37,
             "mana": 880,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1353,10 +1468,11 @@
             ]
         },
         "Energy Wall": {
+            "hidden": false,
             "words": "adevo mas grav vis",
             "level": 41,
             "mana": 1000,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1366,10 +1482,11 @@
             ]
         },
         "Sudden Death": {
+            "hidden": false,
             "words": "adori gran mort",
             "level": 45,
             "mana": 985,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1377,10 +1494,11 @@
             ]
         },
         "Antidote Rune": {
+            "hidden": false,
             "words": "adana pox",
             "level": 15,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1388,10 +1506,11 @@
             ]
         },
         "Intense Healing Rune": {
+            "hidden": false,
             "words": "adura gran",
             "level": 15,
             "mana": 240,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1399,10 +1518,11 @@
             ]
         },
         "Ultimate Healing Rune": {
+            "hidden": false,
             "words": "adura vita",
             "level": 24,
             "mana": 400,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1410,10 +1530,11 @@
             ]
         },
         "Convince Creature": {
+            "hidden": false,
             "words": "adeta sio",
             "level": 16,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1421,10 +1542,11 @@
             ]
         },
         "Animate Dead": {
+            "hidden": false,
             "words": "adana mort",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1434,10 +1556,11 @@
             ]
         },
         "Chameleon": {
+            "hidden": false,
             "words": "adevo ina",
             "level": 27,
             "mana": 600,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1445,10 +1568,11 @@
             ]
         },
         "Destroy Field": {
+            "hidden": false,
             "words": "adito grav",
             "level": 17,
             "mana": 120,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1460,10 +1584,11 @@
             ]
         },
         "Desintegrate": {
+            "hidden": false,
             "words": "adito tera",
             "level": 21,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1475,10 +1600,11 @@
             ]
         },
         "Magic Wall": {
+            "hidden": false,
             "words": "adevo grav tera",
             "level": 32,
             "mana": 750,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1486,10 +1612,11 @@
             ]
         },
         "Wild Growth": {
+            "hidden": false,
             "words": "adevo grav vita",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1497,10 +1624,11 @@
             ]
         },
         "Paralyze": {
+            "hidden": false,
             "words": "adana ani",
             "level": 54,
             "mana": 1400,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1508,10 +1636,11 @@
             ]
         },
         "Icicle": {
+            "hidden": false,
             "words": "adori frigo",
             "level": 28,
             "mana": 460,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1519,10 +1648,11 @@
             ]
         },
         "Avalanche": {
+            "hidden": false,
             "words": "adori mas frigo",
             "level": 30,
             "mana": 530,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1530,10 +1660,11 @@
             ]
         },
         "Stone Shower": {
+            "hidden": false,
             "words": "adori mas tera",
             "level": 28,
             "mana": 430,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1541,10 +1672,11 @@
             ]
         },
         "Thunderstorm": {
+            "hidden": false,
             "words": "adori mas vis",
             "level": 28,
             "mana": 430,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1552,10 +1684,11 @@
             ]
         },
         "Holy Missile": {
+            "hidden": false,
             "words": "adori san",
             "level": 27,
             "mana": 350,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Paladin",
@@ -1563,12 +1696,13 @@
             ]
         }
     },
-    "runes": {
+    "rune": {
         "Blank Rune": {
+            "hidden": false,
             "words": "adori blank",
             "level": 20,
             "mana": 50,
-            "prem": 0,
+            "premium": false,
             "group": "support",
             "vocations": [
                 "Druid",
@@ -1580,10 +1714,11 @@
             ]
         },
         "Poison Field": {
+            "hidden": false,
             "words": "adevo grav pox",
             "level": 14,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1593,10 +1728,11 @@
             ]
         },
         "Light Magic Missile": {
+            "hidden": false,
             "words": "adori min vis",
             "level": 15,
             "mana": 120,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1606,10 +1742,11 @@
             ]
         },
         "Fire Field": {
+            "hidden": false,
             "words": "adevo grav flam",
             "level": 15,
             "mana": 240,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1619,10 +1756,11 @@
             ]
         },
         "Fireball": {
+            "hidden": false,
             "words": "adori flam",
             "level": 27,
             "mana": 460,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1630,10 +1768,11 @@
             ]
         },
         "Energy Field": {
+            "hidden": false,
             "words": "adevo grav vis",
             "level": 18,
             "mana": 320,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1643,10 +1782,11 @@
             ]
         },
         "Stalagmite": {
+            "hidden": false,
             "words": "adori tera",
             "level": 24,
             "mana": 400,
-            "prem": 2,
+            "premium": 2,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1656,10 +1796,11 @@
             ]
         },
         "Great Fireball": {
+            "hidden": false,
             "words": "adori mas flam",
             "level": 30,
             "mana": 530,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1667,10 +1808,11 @@
             ]
         },
         "Heavy Magic Missile": {
+            "hidden": false,
             "words": "adori vis",
             "level": 25,
             "mana": 350,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1680,10 +1822,11 @@
             ]
         },
         "Poison Bomb": {
+            "hidden": false,
             "words": "adevo mas pox",
             "level": 25,
             "mana": 520,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1691,10 +1834,11 @@
             ]
         },
         "Firebomb": {
+            "hidden": false,
             "words": "adevo mas flam",
             "level": 27,
             "mana": 600,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1704,10 +1848,11 @@
             ]
         },
         "Soulfire": {
+            "hidden": false,
             "words": "adevo res flam",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1717,10 +1862,11 @@
             ]
         },
         "Poison Wall": {
+            "hidden": false,
             "words": "adevo mas grav pox",
             "level": 29,
             "mana": 640,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1730,10 +1876,11 @@
             ]
         },
         "Explosion": {
+            "hidden": false,
             "words": "adevo mas hur",
             "level": 31,
             "mana": 570,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1743,10 +1890,11 @@
             ]
         },
         "Fire Wall": {
+            "hidden": false,
             "words": "adevo mas grav flam",
             "level": 33,
             "mana": 780,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1756,10 +1904,11 @@
             ]
         },
         "Energybomb": {
+            "hidden": false,
             "words": "adevo mas vis",
             "level": 37,
             "mana": 880,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1767,10 +1916,11 @@
             ]
         },
         "Energy Wall": {
+            "hidden": false,
             "words": "adevo mas grav vis",
             "level": 41,
             "mana": 1000,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1780,10 +1930,11 @@
             ]
         },
         "Sudden Death": {
+            "hidden": false,
             "words": "adori gran mort",
             "level": 45,
             "mana": 985,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1791,10 +1942,11 @@
             ]
         },
         "Antidote Rune": {
+            "hidden": false,
             "words": "adana pox",
             "level": 15,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1802,10 +1954,11 @@
             ]
         },
         "Intense Healing Rune": {
+            "hidden": false,
             "words": "adura gran",
             "level": 15,
             "mana": 240,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1813,10 +1966,11 @@
             ]
         },
         "Ultimate Healing Rune": {
+            "hidden": false,
             "words": "adura vita",
             "level": 24,
             "mana": 400,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1824,10 +1978,11 @@
             ]
         },
         "Convince Creature": {
+            "hidden": false,
             "words": "adeta sio",
             "level": 16,
             "mana": 200,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1835,10 +1990,11 @@
             ]
         },
         "Animate Dead": {
+            "hidden": false,
             "words": "adana mort",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1848,10 +2004,11 @@
             ]
         },
         "Chameleon": {
+            "hidden": false,
             "words": "adevo ina",
             "level": 27,
             "mana": 600,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1859,10 +2016,11 @@
             ]
         },
         "Destroy Field": {
+            "hidden": false,
             "words": "adito grav",
             "level": 17,
             "mana": 120,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1874,10 +2032,11 @@
             ]
         },
         "Desintegrate": {
+            "hidden": false,
             "words": "adito tera",
             "level": 21,
             "mana": 200,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1889,10 +2048,11 @@
             ]
         },
         "Magic Wall": {
+            "hidden": false,
             "words": "adevo grav tera",
             "level": 32,
             "mana": 750,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1900,10 +2060,11 @@
             ]
         },
         "Wild Growth": {
+            "hidden": false,
             "words": "adevo grav vita",
             "level": 27,
             "mana": 600,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1911,10 +2072,11 @@
             ]
         },
         "Paralyze": {
+            "hidden": false,
             "words": "adana ani",
             "level": 54,
             "mana": 1400,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1922,10 +2084,11 @@
             ]
         },
         "Icicle": {
+            "hidden": false,
             "words": "adori frigo",
             "level": 28,
             "mana": 460,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1933,10 +2096,11 @@
             ]
         },
         "Avalanche": {
+            "hidden": false,
             "words": "adori mas frigo",
             "level": 30,
             "mana": 530,
-            "prem": 0,
+            "premium": false,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1944,10 +2108,11 @@
             ]
         },
         "Stone Shower": {
+            "hidden": false,
             "words": "adori mas tera",
             "level": 28,
             "mana": 430,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Druid",
@@ -1955,10 +2120,11 @@
             ]
         },
         "Thunderstorm": {
+            "hidden": false,
             "words": "adori mas vis",
             "level": 28,
             "mana": 430,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Sorcerer",
@@ -1966,10 +2132,11 @@
             ]
         },
         "Holy Missile": {
+            "hidden": false,
             "words": "adori san",
             "level": 27,
             "mana": 350,
-            "prem": 1,
+            "premium": true,
             "group": false,
             "vocations": [
                 "Paladin",
