@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "name": "Antica",
+        "slug": "antica",
+        "type": 1,
+        "ip": "127.0.0.1",
+        "port": 7171,
+        "flag": "se",
+        "online": true
+    },
+    {
+        "id": 1,
+        "name": "Nika",
+        "slug": "nika",
+        "type": 0,
+        "ip": "127.0.0.1",
+        "port": 7171,
+        "flag": "ca",
+        "online": false
+    },
+    {
+        "id": 2,
+        "name": "Test",
+        "slug": "test",
+        "type": 2,
+        "ip": "127.0.0.1",
+        "port": 7171,
+        "online": true
+    }
+]

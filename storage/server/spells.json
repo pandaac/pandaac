@@ -1,0 +1,1980 @@
+{
+    "instant": {
+        "Annihilation": {
+            "words": "exori gran ico",
+            "level": 110,
+            "mana": 300,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Apprentice's Strike": {
+            "words": "exori min flam",
+            "level": 8,
+            "mana": 6,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Berserk": {
+            "words": "exori",
+            "level": 35,
+            "mana": 115,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Blood Rage": {
+            "words": "utito tempo",
+            "level": 60,
+            "mana": 290,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Brutal Strike": {
+            "words": "exori ico",
+            "level": 16,
+            "mana": 30,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Cancel Invisibility": {
+            "words": "exana ina",
+            "level": 26,
+            "mana": 200,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Challenge": {
+            "words": "exeta res",
+            "level": 20,
+            "mana": 30,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Elite Knight"
+            ]
+        },
+        "Charge": {
+            "words": "utani tempo hur",
+            "level": 25,
+            "mana": 100,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Creature Illusion": {
+            "words": "utevo res ina",
+            "level": 23,
+            "mana": 100,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Cure Bleeding": {
+            "words": "exana kor",
+            "level": 45,
+            "mana": 30,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Druid",
+                "Knight",
+                "Elder Druid",
+                "Elite Knight"
+            ]
+        },
+        "Cure Burning": {
+            "words": "exana flam",
+            "level": 30,
+            "mana": 30,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Cure Curse": {
+            "words": "exana mort",
+            "level": 80,
+            "mana": 40,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Cure Electrification": {
+            "words": "exana vis",
+            "level": 22,
+            "mana": 30,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Cure Poison": {
+            "words": "exana pox",
+            "level": 10,
+            "mana": 30,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Curse": {
+            "words": "utori mort",
+            "level": 75,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Death Strike": {
+            "words": "exori mort",
+            "level": 16,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Divine Caldera": {
+            "words": "exevo mas san",
+            "level": 50,
+            "mana": 160,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Divine Healing": {
+            "words": "exura san",
+            "level": 35,
+            "mana": 160,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Divine Missile": {
+            "words": "exori san",
+            "level": 40,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Electrify": {
+            "words": "utori vis",
+            "level": 34,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Enchant Party": {
+            "words": "utori mas sio",
+            "level": 32,
+            "mana": 120,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Beam": {
+            "words": "exevo vis lux",
+            "level": 23,
+            "mana": 40,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Strike": {
+            "words": "exori vis",
+            "level": 12,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Energy Wave": {
+            "words": "exevo vis hur",
+            "level": 38,
+            "mana": 170,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Envenom": {
+            "words": "utori pox",
+            "level": 50,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Eternal Winter": {
+            "words": "exevo gran mas frigo",
+            "level": 60,
+            "mana": 1050,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ethereal Spear": {
+            "words": "exori con",
+            "level": 23,
+            "mana": 25,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Fierce Berserk": {
+            "words": "exori gran",
+            "level": 90,
+            "mana": 340,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Find Person": {
+            "words": "exiva",
+            "level": 8,
+            "mana": 20,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Fire Wave": {
+            "words": "exevo flam hur",
+            "level": 18,
+            "mana": 25,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Flame Strike": {
+            "words": "exori flam",
+            "level": 14,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Food": {
+            "words": "exevo pan",
+            "level": 14,
+            "mana": 120,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Front Sweep": {
+            "words": "exori min",
+            "level": 70,
+            "mana": 200,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Great Energy Beam": {
+            "words": "exevo gran vis lux",
+            "level": 29,
+            "mana": 110,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Great Light": {
+            "words": "utevo gran lux",
+            "level": 13,
+            "mana": 60,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Groundshaker": {
+            "words": "exori mas",
+            "level": 33,
+            "mana": 160,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Haste": {
+            "words": "utani hur",
+            "level": 14,
+            "mana": 60,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Heal Friend": {
+            "words": "exura sio",
+            "level": 18,
+            "mana": 140,
+            "prem": 1,
+            "group": "healing",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Heal Party": {
+            "words": "utura mas sio",
+            "level": 32,
+            "mana": 120,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Hell's Core": {
+            "words": "exevo gran mas flam",
+            "level": 60,
+            "mana": 1100,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Holy Flash": {
+            "words": "utori san",
+            "level": 70,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Ice Strike": {
+            "words": "exori frigo",
+            "level": 15,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ice Wave": {
+            "words": "exevo frigo hur",
+            "level": 18,
+            "mana": 25,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ignite": {
+            "words": "utori flam",
+            "level": 26,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Inflict Wound": {
+            "words": "utori kor",
+            "level": 40,
+            "mana": 30,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Intense Healing": {
+            "words": "exura gran",
+            "level": 20,
+            "mana": 70,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Intense Recovery": {
+            "words": "utura gran",
+            "level": 100,
+            "mana": 165,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Paladin",
+                "Knight",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Intense Wound Cleansing": {
+            "words": "exura gran ico",
+            "level": 80,
+            "mana": 200,
+            "prem": 1,
+            "group": "healing",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Invisibility": {
+            "words": "utana vid",
+            "level": 35,
+            "mana": 440,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Levitate": {
+            "words": "exani hur",
+            "level": 12,
+            "mana": 50,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Light": {
+            "words": "utevo lux",
+            "level": 8,
+            "mana": 20,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Light Healing": {
+            "words": "exura",
+            "level": 8,
+            "mana": 20,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Lightning": {
+            "words": "exori amp vis",
+            "level": 55,
+            "mana": 60,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Magic Rope": {
+            "words": "exani tera",
+            "level": 9,
+            "mana": 20,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Knight",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Magic Shield": {
+            "words": "utamo vita",
+            "level": 14,
+            "mana": 50,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Mass Healing": {
+            "words": "exura gran mas res",
+            "level": 36,
+            "mana": 150,
+            "prem": 1,
+            "group": "healing",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Physical Strike": {
+            "words": "exori moe ico",
+            "level": 16,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Practise Fire Wave": {
+            "words": "exevo dis flam hur",
+            "level": 1,
+            "mana": 5,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "None"
+            ]
+        },
+        "Practise Healing": {
+            "words": "exura dis",
+            "level": 1,
+            "mana": 5,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "None"
+            ]
+        },
+        "Protect Party": {
+            "words": "utamo mas sio",
+            "level": 32,
+            "mana": 90,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Protector": {
+            "words": "utamo tempo",
+            "level": 55,
+            "mana": 200,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Rage of the Skies": {
+            "words": "exevo gran mas vis",
+            "level": 55,
+            "mana": 600,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Recovery": {
+            "words": "utura",
+            "level": 50,
+            "mana": 75,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Paladin",
+                "Knight",
+                "Royal Paladin",
+                "Elite Knight"
+            ]
+        },
+        "Salvation": {
+            "words": "exura gran san",
+            "level": 60,
+            "mana": 210,
+            "prem": 1,
+            "group": "healing",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Sharpshooter": {
+            "words": "utito tempo san",
+            "level": 60,
+            "mana": 450,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Strong Energy Strike": {
+            "words": "exori gran vis",
+            "level": 80,
+            "mana": 60,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Strong Ethereal Spear": {
+            "words": "exori gran con",
+            "level": 90,
+            "mana": 55,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Strong Flame Strike": {
+            "words": "exori gran flam",
+            "level": 70,
+            "mana": 60,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Strong Haste": {
+            "words": "utani gran hur",
+            "level": 20,
+            "mana": 100,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Strong Ice Strike": {
+            "words": "exori gran frigo",
+            "level": 80,
+            "mana": 60,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Strong Ice Wave": {
+            "words": "exevo gran frigo hur",
+            "level": 40,
+            "mana": 170,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Strong Terra Strike": {
+            "words": "exori gran tera",
+            "level": 70,
+            "mana": 60,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Summon Creature": {
+            "words": "utevo res",
+            "level": 25,
+            "mana": 0,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Swift Foot": {
+            "words": "utamo tempo san",
+            "level": 55,
+            "mana": 400,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Terra Strike": {
+            "words": "exori tera",
+            "level": 13,
+            "mana": 20,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Terra Wave": {
+            "words": "exevo tera hur",
+            "level": 38,
+            "mana": 210,
+            "prem": 0,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Train Party": {
+            "words": "utito mas sio",
+            "level": 32,
+            "mana": 60,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Ultimate Energy Strike": {
+            "words": "exori max vis",
+            "level": 100,
+            "mana": 100,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Ultimate Flame Strike": {
+            "words": "exori max flam",
+            "level": 90,
+            "mana": 100,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Ultimate Healing": {
+            "words": "exura vita",
+            "level": 30,
+            "mana": 160,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Ultimate Ice Strike": {
+            "words": "exori max frigo",
+            "level": 100,
+            "mana": 100,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ultimate Light": {
+            "words": "utevo vis lux",
+            "level": 26,
+            "mana": 140,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Ultimate Terra Strike": {
+            "words": "exori max tera",
+            "level": 90,
+            "mana": 100,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Wound Cleansing": {
+            "words": "exura ico",
+            "level": 10,
+            "mana": 40,
+            "prem": 0,
+            "group": "healing",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Whirlwind Throw": {
+            "words": "exori hur",
+            "level": 28,
+            "mana": 40,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Knight",
+                "Elite Knight"
+            ]
+        },
+        "Wrath of Nature": {
+            "words": "exevo gran mas tera",
+            "level": 55,
+            "mana": 700,
+            "prem": 1,
+            "group": "attack",
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "House Guest List": {
+            "words": "aleta sio",
+            "level": 0,
+            "mana": 0,
+            "prem": 0,
+            "group": false
+        },
+        "House Subowner List": {
+            "words": "aleta som",
+            "level": 0,
+            "mana": 0,
+            "prem": 0,
+            "group": false
+        },
+        "House Door List": {
+            "words": "aleta grav",
+            "level": 0,
+            "mana": 0,
+            "prem": 0,
+            "group": false
+        },
+        "House Kick": {
+            "words": "alana sio",
+            "level": 0,
+            "mana": 0,
+            "prem": 0,
+            "group": false
+        }
+    },
+    "conjure": {
+        "Blank Rune": {
+            "words": "adori blank",
+            "level": 20,
+            "mana": 50,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Druid",
+                "Elder Druid",
+                "Paladin",
+                "Royal Paladin",
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Conjure Arrow": {
+            "words": "exevo con",
+            "level": 13,
+            "mana": 100,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Poisoned Arrow": {
+            "words": "exevo con pox",
+            "level": 16,
+            "mana": 130,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Bolt": {
+            "words": "exevo con mort",
+            "level": 17,
+            "mana": 140,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Sniper Arrow": {
+            "words": "exevo con hur",
+            "level": 24,
+            "mana": 160,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Explosive Arrow": {
+            "words": "exevo con flam",
+            "level": 25,
+            "mana": 290,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Piercing Bolt": {
+            "words": "exevo con grav",
+            "level": 33,
+            "mana": 180,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Enchant Staff": {
+            "words": "exeta vis",
+            "level": 41,
+            "mana": 80,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Master Sorcerer"
+            ]
+        },
+        "Enchant Spear": {
+            "words": "exeta con",
+            "level": 45,
+            "mana": 350,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        },
+        "Conjure Power Bolt": {
+            "words": "exevo con vis",
+            "level": 59,
+            "mana": 700,
+            "prem": 1,
+            "group": "support",
+            "vocations": [
+                "Royal Paladin"
+            ]
+        },
+        "Poison Field": {
+            "words": "adevo grav pox",
+            "level": 14,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Light Magic Missile": {
+            "words": "adori min vis",
+            "level": 15,
+            "mana": 120,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fire Field": {
+            "words": "adevo grav flam",
+            "level": 15,
+            "mana": 240,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fireball": {
+            "words": "adori flam",
+            "level": 27,
+            "mana": 460,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Field": {
+            "words": "adevo grav vis",
+            "level": 18,
+            "mana": 320,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Stalagmite": {
+            "words": "adori tera",
+            "level": 24,
+            "mana": 400,
+            "prem": 2,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Great Fireball": {
+            "words": "adori mas flam",
+            "level": 30,
+            "mana": 530,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Heavy Magic Missile": {
+            "words": "adori vis",
+            "level": 25,
+            "mana": 350,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Poison Bomb": {
+            "words": "adevo mas pox",
+            "level": 25,
+            "mana": 520,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Firebomb": {
+            "words": "adevo mas flam",
+            "level": 27,
+            "mana": 600,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Soulfire": {
+            "words": "adevo res flam",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Poison Wall": {
+            "words": "adevo mas grav pox",
+            "level": 29,
+            "mana": 640,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Explosion": {
+            "words": "adevo mas hur",
+            "level": 31,
+            "mana": 570,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fire Wall": {
+            "words": "adevo mas grav flam",
+            "level": 33,
+            "mana": 780,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Energybomb": {
+            "words": "adevo mas vis",
+            "level": 37,
+            "mana": 880,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Wall": {
+            "words": "adevo mas grav vis",
+            "level": 41,
+            "mana": 1000,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Sudden Death": {
+            "words": "adori gran mort",
+            "level": 45,
+            "mana": 985,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Antidote Rune": {
+            "words": "adana pox",
+            "level": 15,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Intense Healing Rune": {
+            "words": "adura gran",
+            "level": 15,
+            "mana": 240,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ultimate Healing Rune": {
+            "words": "adura vita",
+            "level": 24,
+            "mana": 400,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Convince Creature": {
+            "words": "adeta sio",
+            "level": 16,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Animate Dead": {
+            "words": "adana mort",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Chameleon": {
+            "words": "adevo ina",
+            "level": 27,
+            "mana": 600,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Destroy Field": {
+            "words": "adito grav",
+            "level": 17,
+            "mana": 120,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Desintegrate": {
+            "words": "adito tera",
+            "level": 21,
+            "mana": 200,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Magic Wall": {
+            "words": "adevo grav tera",
+            "level": 32,
+            "mana": 750,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Wild Growth": {
+            "words": "adevo grav vita",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Paralyze": {
+            "words": "adana ani",
+            "level": 54,
+            "mana": 1400,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Icicle": {
+            "words": "adori frigo",
+            "level": 28,
+            "mana": 460,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Avalanche": {
+            "words": "adori mas frigo",
+            "level": 30,
+            "mana": 530,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Stone Shower": {
+            "words": "adori mas tera",
+            "level": 28,
+            "mana": 430,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Thunderstorm": {
+            "words": "adori mas vis",
+            "level": 28,
+            "mana": 430,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Holy Missile": {
+            "words": "adori san",
+            "level": 27,
+            "mana": 350,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        }
+    },
+    "runes": {
+        "Blank Rune": {
+            "words": "adori blank",
+            "level": 20,
+            "mana": 50,
+            "prem": 0,
+            "group": "support",
+            "vocations": [
+                "Druid",
+                "Elder Druid",
+                "Paladin",
+                "Royal Paladin",
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Poison Field": {
+            "words": "adevo grav pox",
+            "level": 14,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Light Magic Missile": {
+            "words": "adori min vis",
+            "level": 15,
+            "mana": 120,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fire Field": {
+            "words": "adevo grav flam",
+            "level": 15,
+            "mana": 240,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fireball": {
+            "words": "adori flam",
+            "level": 27,
+            "mana": 460,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Field": {
+            "words": "adevo grav vis",
+            "level": 18,
+            "mana": 320,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Stalagmite": {
+            "words": "adori tera",
+            "level": 24,
+            "mana": 400,
+            "prem": 2,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Great Fireball": {
+            "words": "adori mas flam",
+            "level": 30,
+            "mana": 530,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Heavy Magic Missile": {
+            "words": "adori vis",
+            "level": 25,
+            "mana": 350,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer",
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Poison Bomb": {
+            "words": "adevo mas pox",
+            "level": 25,
+            "mana": 520,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Firebomb": {
+            "words": "adevo mas flam",
+            "level": 27,
+            "mana": 600,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Soulfire": {
+            "words": "adevo res flam",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Poison Wall": {
+            "words": "adevo mas grav pox",
+            "level": 29,
+            "mana": 640,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Explosion": {
+            "words": "adevo mas hur",
+            "level": 31,
+            "mana": 570,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Fire Wall": {
+            "words": "adevo mas grav flam",
+            "level": 33,
+            "mana": 780,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Energybomb": {
+            "words": "adevo mas vis",
+            "level": 37,
+            "mana": 880,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Energy Wall": {
+            "words": "adevo mas grav vis",
+            "level": 41,
+            "mana": 1000,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Sudden Death": {
+            "words": "adori gran mort",
+            "level": 45,
+            "mana": 985,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Antidote Rune": {
+            "words": "adana pox",
+            "level": 15,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Intense Healing Rune": {
+            "words": "adura gran",
+            "level": 15,
+            "mana": 240,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Ultimate Healing Rune": {
+            "words": "adura vita",
+            "level": 24,
+            "mana": 400,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Convince Creature": {
+            "words": "adeta sio",
+            "level": 16,
+            "mana": 200,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Animate Dead": {
+            "words": "adana mort",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Master Sorcerer",
+                "Elder Druid"
+            ]
+        },
+        "Chameleon": {
+            "words": "adevo ina",
+            "level": 27,
+            "mana": 600,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Destroy Field": {
+            "words": "adito grav",
+            "level": 17,
+            "mana": 120,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Desintegrate": {
+            "words": "adito tera",
+            "level": 21,
+            "mana": 200,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Druid",
+                "Paladin",
+                "Master Sorcerer",
+                "Elder Druid",
+                "Royal Paladin"
+            ]
+        },
+        "Magic Wall": {
+            "words": "adevo grav tera",
+            "level": 32,
+            "mana": 750,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Wild Growth": {
+            "words": "adevo grav vita",
+            "level": 27,
+            "mana": 600,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Paralyze": {
+            "words": "adana ani",
+            "level": 54,
+            "mana": 1400,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Icicle": {
+            "words": "adori frigo",
+            "level": 28,
+            "mana": 460,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Avalanche": {
+            "words": "adori mas frigo",
+            "level": 30,
+            "mana": 530,
+            "prem": 0,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Stone Shower": {
+            "words": "adori mas tera",
+            "level": 28,
+            "mana": 430,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Druid",
+                "Elder Druid"
+            ]
+        },
+        "Thunderstorm": {
+            "words": "adori mas vis",
+            "level": 28,
+            "mana": 430,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Sorcerer",
+                "Master Sorcerer"
+            ]
+        },
+        "Holy Missile": {
+            "words": "adori san",
+            "level": 27,
+            "mana": 350,
+            "prem": 1,
+            "group": false,
+            "vocations": [
+                "Paladin",
+                "Royal Paladin"
+            ]
+        }
+    }
+}

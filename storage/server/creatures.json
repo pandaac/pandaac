@@ -1,0 +1,4076 @@
+[
+    {
+        "name": "Amazon",
+        "slug": "amazon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Valkyrie",
+        "slug": "valkyrie",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Carrion Worm",
+        "slug": "carrion-worm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Drillworm",
+        "slug": "drillworm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Rotworm",
+        "slug": "rotworm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Rift Worm",
+        "slug": "rift-worm",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Kongra",
+        "slug": "kongra",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Merlkin",
+        "slug": "merlkin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Sibang",
+        "slug": "sibang",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Yeti",
+        "slug": "yeti",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crystal Spider",
+        "slug": "crystal-spider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Giant Spider",
+        "slug": "giant-spider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Giant Spider Wyda",
+        "slug": "giant-spider-wyda",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Poison Spider",
+        "slug": "poison-spider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Sacred Spider",
+        "slug": "sacred-spider",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Sandstone Scorpion",
+        "slug": "sandstone-scorpion",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Scorpion",
+        "slug": "scorpion",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Spider",
+        "slug": "spider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tarantula",
+        "slug": "tarantula",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wailing Widow",
+        "slug": "wailing-widow",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Achad",
+        "slug": "achad",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Axeitus Headbanger",
+        "slug": "axeitus-headbanger",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bloodpaw",
+        "slug": "bloodpaw",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bovinus",
+        "slug": "bovinus",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Colerian The Barbarian",
+        "slug": "colerian-the-barbarian",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Cursed Gladiator",
+        "slug": "cursed-gladiator",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Frostfur",
+        "slug": "frostfur",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Orcus the Cruel",
+        "slug": "orcus-the-cruel",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rocky",
+        "slug": "rocky",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Hairy One",
+        "slug": "the-hairy-one",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Avalanche",
+        "slug": "avalanche",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Drasilla",
+        "slug": "drasilla",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Grimgor Guteater",
+        "slug": "grimgor-guteater",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Kreebosh the Exile",
+        "slug": "kreebosh-the-exile",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Slim",
+        "slug": "slim",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spirit of Earth",
+        "slug": "spirit-of-earth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spirit of Fire",
+        "slug": "spirit-of-fire",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spirit of Water",
+        "slug": "spirit-of-water",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Dark Dancer",
+        "slug": "the-dark-dancer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Hag",
+        "slug": "the-hag",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Darakan the Executioner",
+        "slug": "darakan-the-executioner",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deathbringer",
+        "slug": "deathbringer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fallen Mooh'tah Master Ghar",
+        "slug": "fallen-moohtah-master-ghar",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gnorre Chyllson",
+        "slug": "gnorre-chyllson",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Norgle Glacierbeard",
+        "slug": "norgle-glacierbeard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Svoren the Mad",
+        "slug": "svoren-the-mad",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Masked Marauder",
+        "slug": "the-masked-marauder",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Obliverator",
+        "slug": "the-obliverator",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Pit Lord",
+        "slug": "the-pit-lord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Webster",
+        "slug": "webster",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Barbarian Bloodwalker",
+        "slug": "barbarian-bloodwalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Barbarian Brutetamer",
+        "slug": "barbarian-brutetamer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Barbarian Headsplitter",
+        "slug": "barbarian-headsplitter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Barbarian Skullhunter",
+        "slug": "barbarian-skullhunter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bear",
+        "slug": "bear",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Panda",
+        "slug": "panda",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Polar Bear",
+        "slug": "polar-bear",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Undead Cavebear",
+        "slug": "undead-cavebear",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bane Bringer",
+        "slug": "bane-bringer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bog Raider",
+        "slug": "bog-raider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Carniphila",
+        "slug": "carniphila",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Defiler",
+        "slug": "defiler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Diseased Bill",
+        "slug": "diseased-bill",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Diseased Dan",
+        "slug": "diseased-dan",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Diseased Fred",
+        "slug": "diseased-fred",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Haunted Treeling",
+        "slug": "haunted-treeling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hideous Fungus",
+        "slug": "hideous-fungus",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Humongous Fungus",
+        "slug": "humongous-fungus",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Humorless Fungus",
+        "slug": "humorless-fungus",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Leaf Golem",
+        "slug": "leaf-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mechanical Fighter",
+        "slug": "mechanical-fighter",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Slime",
+        "slug": "slime",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Son of Verminor",
+        "slug": "son-of-verminor",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Spit Nettle",
+        "slug": "spit-nettle",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Strange Slime",
+        "slug": "strange-slime",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Swampling",
+        "slug": "swampling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wilting Leaf Golem",
+        "slug": "wilting-leaf-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Berserker Chicken",
+        "slug": "berserker-chicken",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Chicken",
+        "slug": "chicken",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Demon Parrot",
+        "slug": "demon-parrot",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dire Penguin",
+        "slug": "dire-penguin",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Flamingo",
+        "slug": "flamingo",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Marsh Stalker",
+        "slug": "marsh-stalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Parrot",
+        "slug": "parrot",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Penguin",
+        "slug": "penguin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pigeon",
+        "slug": "pigeon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Seagull",
+        "slug": "seagull",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Terror Bird",
+        "slug": "terror-bird",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Acid Blob",
+        "slug": "acid-blob",
+        "description": "<p>Highly destructive and corrosive, the Acid Blob has little in common with the ordinary slime. They are much better in finding and pursuing a target than their distant cousins. While the ordinary slime is driven by the primal urge to get food, the Acid Blob is out for destruction. It is indeed a frightening sight when a bunch of these creatures crawls towards a single target with the intention to completely destroy it.<br>Some researchers speculate that Acid Blobs share their intelligence with blobs all over the world. As Acid Blobs reproduce themselves by splitting into two entities, this thesis might have an element of truth.<br>Be it as it may, the Acid Blob is a constant threat particularly to the environment. Since living creatures are often smart and quick enough to avoid the attacks of the blobs, any kind of plants, constructions and the like are usually not that lucky and are annihilated by their attacks.<br>In the past, some eccentric madmen used Acid Blobs as waste disposal, which was considered to be somewhat stylish. However, after the Acid Blobs had digested a certain amount of waste, they started reproducing themselves multiple times which started to become a real problem. After several unpleasant incidents, this way of waste disposal was stopped, however, the results of such folly can still be seen at various places.</p>",
+        "hidden": false
+    },
+    {
+        "name": "Death Blob",
+        "slug": "death-blob",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Essence of Darkness",
+        "slug": "essence-of-darkness",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Floor Blob",
+        "slug": "floor-blob",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mercury Blob",
+        "slug": "mercury-blob",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Midnight Spawn",
+        "slug": "midnight-spawn",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bonelord",
+        "slug": "bonelord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Braindeath",
+        "slug": "braindeath",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Elder Beholder",
+        "slug": "elder-beholder",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Gazer",
+        "slug": "gazer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Beholder",
+        "slug": "beholder",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Elder Bonelord",
+        "slug": "elder-bonelord",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Eye of the Seven",
+        "slug": "eye-of-the-seven",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Abyssador",
+        "slug": "abyssador",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Annihilon",
+        "slug": "annihilon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Apocalypse",
+        "slug": "apocalypse",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Apprentice Sheng",
+        "slug": "apprentice-sheng",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Arachir the Ancient One",
+        "slug": "arachir-the-ancient-one",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Barbaria",
+        "slug": "barbaria",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Baron Brute",
+        "slug": "baron-brute",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bazir",
+        "slug": "bazir",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Big Boss Trolliver",
+        "slug": "big-boss-trolliver",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bones",
+        "slug": "bones",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Boogey",
+        "slug": "boogey",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Brutus Bloodbeard",
+        "slug": "brutus-bloodbeard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Chizzoron the Distorter",
+        "slug": "chizzoron-the-distorter",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Coldheart",
+        "slug": "coldheart",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Countess Sorrow",
+        "slug": "countess-sorrow",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deadeye Devious",
+        "slug": "deadeye-devious",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deathbine",
+        "slug": "deathbine",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Demodras",
+        "slug": "demodras",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dharalion",
+        "slug": "dharalion",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Diblis the Fair",
+        "slug": "diblis-the-fair",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dirtbeard",
+        "slug": "dirtbeard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Doomhowl",
+        "slug": "doomhowl",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dracola",
+        "slug": "dracola",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dreadwing",
+        "slug": "dreadwing",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Esmeralda",
+        "slug": "esmeralda",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Evil Mastermind",
+        "slug": "evil-mastermind",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fatality",
+        "slug": "fatality",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fernfang",
+        "slug": "fernfang",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ferumbras",
+        "slug": "ferumbras",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fluffy",
+        "slug": "fluffy",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Foreman Kneebiter",
+        "slug": "foreman-kneebiter",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Freegoiz",
+        "slug": "freegoiz",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fury of the Emperor",
+        "slug": "fury-of-the-emperor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Gaz'haragoth",
+        "slug": "gazharagoth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "General Murius",
+        "slug": "general-murius",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Glitterscale",
+        "slug": "glitterscale",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Gnomevil",
+        "slug": "gnomevil",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Golgordan",
+        "slug": "golgordan",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Grand Mother Foulscale",
+        "slug": "grand-mother-foulscale",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Groam",
+        "slug": "groam",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Grorlam",
+        "slug": "grorlam",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hairman the Huge",
+        "slug": "hairman-the-huge",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Handmaiden",
+        "slug": "handmaiden",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Haunter",
+        "slug": "haunter",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hellgorak",
+        "slug": "hellgorak",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Heoni",
+        "slug": "heoni",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hide",
+        "slug": "hide",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Incineron",
+        "slug": "incineron",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Infernatil",
+        "slug": "infernatil",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Inky",
+        "slug": "inky",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Jaul",
+        "slug": "jaul",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Koshei The Deathless",
+        "slug": "koshei-the-deathless",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Kraknaknork Demon",
+        "slug": "kraknaknork-demon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Kraknaknork",
+        "slug": "kraknaknork",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Latrivan",
+        "slug": "latrivan",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lethal Lissy",
+        "slug": "lethal-lissy",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Leviathan",
+        "slug": "leviathan",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mad Mage",
+        "slug": "mad-mage",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mad Technomancer",
+        "slug": "mad-technomancer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Madareth",
+        "slug": "madareth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Man In The Cave",
+        "slug": "man-in-the-cave",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Massacre",
+        "slug": "massacre",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mawhawk",
+        "slug": "mawhawk",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Menace",
+        "slug": "menace",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mephiles",
+        "slug": "mephiles",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Minishabaal",
+        "slug": "minishabaal",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Monstor",
+        "slug": "monstor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mr. Punish",
+        "slug": "mr.-punish",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Munster",
+        "slug": "munster",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Necropharus",
+        "slug": "necropharus",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Obujos",
+        "slug": "obujos",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Pythius The Rotten",
+        "slug": "pythius-the-rotten",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rocko",
+        "slug": "rocko",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ron the Ripper",
+        "slug": "ron-the-ripper",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rottie the Rotworm",
+        "slug": "rottie-the-rotworm",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rotworm Queen",
+        "slug": "rotworm-queen",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Scorn of the Emperor",
+        "slug": "scorn-of-the-emperor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shardhead",
+        "slug": "shardhead",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Sharptooth",
+        "slug": "sharptooth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Sir Valorcrest",
+        "slug": "sir-valorcrest",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Snake God Essence",
+        "slug": "snake-god-essence",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Snake Thing",
+        "slug": "snake-thing",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spider Queen",
+        "slug": "spider-queen",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spite of the Emperor",
+        "slug": "spite-of-the-emperor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Splasher",
+        "slug": "splasher",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Stonecracker",
+        "slug": "stonecracker",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Tanjis",
+        "slug": "tanjis",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Terofar",
+        "slug": "terofar",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Abomination",
+        "slug": "the-abomination",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Axeorcist",
+        "slug": "the-axeorcist",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Blightfather",
+        "slug": "the-blightfather",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Bloodtusk",
+        "slug": "the-bloodtusk",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Bloodweb",
+        "slug": "the-bloodweb",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Count",
+        "slug": "the-count",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Dreadorian",
+        "slug": "the-dreadorian",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Evil Eye",
+        "slug": "the-evil-eye",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Frog Prince",
+        "slug": "the-frog-prince",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Handmaiden",
+        "slug": "the-handmaiden",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Horned Fox",
+        "slug": "the-horned-fox",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Imperor",
+        "slug": "the-imperor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Many",
+        "slug": "the-many",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Noxious Spawn",
+        "slug": "the-noxious-spawn",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Old Widow",
+        "slug": "the-old-widow",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Plasmother",
+        "slug": "the-plasmother",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Snapper",
+        "slug": "the-snapper",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Thul",
+        "slug": "thul",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Tiquandas Revenge",
+        "slug": "tiquandas-revenge",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Tirecz",
+        "slug": "tirecz",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Tremorak",
+        "slug": "tremorak",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ungreez",
+        "slug": "ungreez",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ushuriel",
+        "slug": "ushuriel",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Verminor",
+        "slug": "verminor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Versperoth",
+        "slug": "versperoth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Warlord Ruzad",
+        "slug": "warlord-ruzad",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Wrath of the Emperor",
+        "slug": "wrath-of-the-emperor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Xenia",
+        "slug": "xenia",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Yaga The Crone",
+        "slug": "yaga-the-crone",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Yakchal",
+        "slug": "yakchal",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zevelon Duskbringer",
+        "slug": "zevelon-duskbringer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zomba",
+        "slug": "zomba",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zoralurk",
+        "slug": "zoralurk",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zugurosh",
+        "slug": "zugurosh",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zulazza the Corruptor",
+        "slug": "zulazza-the-corruptor",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crystal Wolf",
+        "slug": "crystal-wolf",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dog",
+        "slug": "dog",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hellhound",
+        "slug": "hellhound",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hot Dog",
+        "slug": "hot-dog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Husky",
+        "slug": "husky",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Poodle",
+        "slug": "poodle",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Starving Wolf",
+        "slug": "starving-wolf",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Thornfire Wolf",
+        "slug": "thornfire-wolf",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "War wolf",
+        "slug": "war-wolf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Werewolf",
+        "slug": "werewolf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wild Dog",
+        "slug": "wild-dog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Winter wolf",
+        "slug": "winter-wolf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wolf",
+        "slug": "wolf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gnarlhound",
+        "slug": "gnarlhound",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Chakoya Toolshaper",
+        "slug": "chakoya-toolshaper",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Chakoya Tribewarden",
+        "slug": "chakoya-tribewarden",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Chakoya Windcaller",
+        "slug": "chakoya-windcaller",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Jellyfish",
+        "slug": "jellyfish",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Corym Charlatan",
+        "slug": "corym-charlatan",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Corym Skirmisher",
+        "slug": "corym-skirmisher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Corym Vanguard",
+        "slug": "corym-vanguard",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Little Corym Charlatan",
+        "slug": "little-corym-charlatan",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Blood Crab",
+        "slug": "blood-crab",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blood Crab Underwater",
+        "slug": "blood-crab-underwater",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crab",
+        "slug": "crab",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Crustacea Gigantica",
+        "slug": "crustacea-gigantica",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ice Golem",
+        "slug": "ice-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "The Collector",
+        "slug": "the-collector",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deepling Brawler",
+        "slug": "deepling-brawler",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deepling Elite",
+        "slug": "deepling-elite",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deepling Guard",
+        "slug": "deepling-guard",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Deepling Master Librarian",
+        "slug": "deepling-master-librarian",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deepling Scout",
+        "slug": "deepling-scout",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Deepling Spellsinger",
+        "slug": "deepling-spellsinger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Deepling Tyrant",
+        "slug": "deepling-tyrant",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deepling Warrior",
+        "slug": "deepling-warrior",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Deepling worker",
+        "slug": "deepling-worker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orshabaal",
+        "slug": "orshabaal",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Askarak Demon",
+        "slug": "askarak-demon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Askarak Lord",
+        "slug": "askarak-lord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Askarak Prince",
+        "slug": "askarak-prince",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dark Torturer",
+        "slug": "dark-torturer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Demon",
+        "slug": "demon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Destroyer",
+        "slug": "destroyer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Diabolic Imp",
+        "slug": "diabolic-imp",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Fire Devil",
+        "slug": "fire-devil",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gozzler",
+        "slug": "gozzler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Grave Guard",
+        "slug": "grave-guard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Gravedigger",
+        "slug": "gravedigger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hand of Cursed Fate",
+        "slug": "hand-of-cursed-fate",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hellhound",
+        "slug": "hellhound",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hellspawn",
+        "slug": "hellspawn",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Herald of Gloom",
+        "slug": "herald-of-gloom",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Juggernaut",
+        "slug": "juggernaut",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Kraknaknork's Demon",
+        "slug": "kraknaknorks-demon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Nightmare Scion",
+        "slug": "nightmare-scion",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Nightmare",
+        "slug": "nightmare",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Nightstalker",
+        "slug": "nightstalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Plaguesmith",
+        "slug": "plaguesmith",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Rift Brood",
+        "slug": "rift-brood",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rift Scythe",
+        "slug": "rift-scythe",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shaburak Demon",
+        "slug": "shaburak-demon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shaburak Lord",
+        "slug": "shaburak-lord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shaburak Prince",
+        "slug": "shaburak-prince",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shadow Hound",
+        "slug": "shadow-hound",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Yielothax",
+        "slug": "yielothax",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Zavarash",
+        "slug": "zavarash",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Blue Djinn",
+        "slug": "blue-djinn",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Efreet",
+        "slug": "efreet",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Green Djinn",
+        "slug": "green-djinn",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Marid",
+        "slug": "marid",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dragon Lord",
+        "slug": "dragon-lord",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dragon Lord Hatchling",
+        "slug": "dragon-lord-hatchling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dragon",
+        "slug": "dragon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dragonling",
+        "slug": "dragonling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dragon Hatchling",
+        "slug": "dragon-hatchling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Elder Wyrm",
+        "slug": "elder-wyrm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Frost Dragon",
+        "slug": "frost-dragon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Frost Dragon Hatchling",
+        "slug": "frost-dragon-hatchling",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Undead Dragon",
+        "slug": "undead-dragon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wyrm",
+        "slug": "wyrm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ghastly Dragon",
+        "slug": "ghastly-dragon",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Draptor",
+        "slug": "draptor",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bad Dream",
+        "slug": "bad-dream",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Choking Fear",
+        "slug": "choking-fear",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Demon Outcast",
+        "slug": "demon-outcast",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Feversleep",
+        "slug": "feversleep",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Frazzlemaw",
+        "slug": "frazzlemaw",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gaz'haragoth",
+        "slug": "gazharagoth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Guzzlemaw",
+        "slug": "guzzlemaw",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mawhawk",
+        "slug": "mawhawk",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Minion of Gaz'haragoth",
+        "slug": "minion-of-gazharagoth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Nightmare of Gaz'haragoth",
+        "slug": "nightmare-of-gazharagoth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Retching Horror",
+        "slug": "retching-horror",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Shiversleep",
+        "slug": "shiversleep",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shock Head",
+        "slug": "shock-head",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Sight of Surrender",
+        "slug": "sight-of-surrender",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Silencer",
+        "slug": "silencer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Terrorsleep",
+        "slug": "terrorsleep",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dwarf Geomancer",
+        "slug": "dwarf-geomancer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dwarf Guard",
+        "slug": "dwarf-guard",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dwarf Miner",
+        "slug": "dwarf-miner",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dwarf Soldier",
+        "slug": "dwarf-soldier",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dwarf",
+        "slug": "dwarf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Enslaved Dwarf",
+        "slug": "enslaved-dwarf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lost Basher",
+        "slug": "lost-basher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lost Berserker",
+        "slug": "lost-berserker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lost Husher",
+        "slug": "lost-husher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lost Thrower",
+        "slug": "lost-thrower",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dworc Fleshhunter",
+        "slug": "dworc-fleshhunter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dworc Venomsniper",
+        "slug": "dworc-venomsniper",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dworc Voodoomaster",
+        "slug": "dworc-voodoomaster",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hacker",
+        "slug": "hacker",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spectral Scum",
+        "slug": "spectral-scum",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Elf",
+        "slug": "elf",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Elf Arcanist",
+        "slug": "elf-arcanist",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Elf Scout",
+        "slug": "elf-scout",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Firestarter",
+        "slug": "firestarter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Charged Energy Elemental",
+        "slug": "charged-energy-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Energy Elemental",
+        "slug": "energy-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Massive Energy Elemental",
+        "slug": "massive-energy-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Overcharged Energy Elemental",
+        "slug": "overcharged-energy-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Earth Overlord",
+        "slug": "earth-overlord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Energy Overlord",
+        "slug": "energy-overlord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fire Overlord",
+        "slug": "fire-overlord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ice Overlord",
+        "slug": "ice-overlord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lord of the Elements",
+        "slug": "lord-of-the-elements",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Cat",
+        "slug": "cat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lion",
+        "slug": "lion",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tiger",
+        "slug": "tiger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Midnight Panther",
+        "slug": "midnight-panther",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Fish",
+        "slug": "fish",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Manta Ray",
+        "slug": "manta-ray",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Northern Pike",
+        "slug": "northern-pike",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Shark",
+        "slug": "shark",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Azure Frog",
+        "slug": "azure-frog",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bog Frog",
+        "slug": "bog-frog",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Infernal Frog",
+        "slug": "infernal-frog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Coral Frog",
+        "slug": "coral-frog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crimson Frog",
+        "slug": "crimson-frog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deathspawn",
+        "slug": "deathspawn",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Filth Toad",
+        "slug": "filth-toad",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Green Frog",
+        "slug": "green-frog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Orchid Frog",
+        "slug": "orchid-frog",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Toad",
+        "slug": "toad",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Cave Rat",
+        "slug": "cave-rat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "The Halloween Hare",
+        "slug": "the-halloween-hare",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rabbit",
+        "slug": "rabbit",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Rat",
+        "slug": "rat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Silver Rabbit",
+        "slug": "silver-rabbit",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Squirrel",
+        "slug": "squirrel",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Killer Rabbit",
+        "slug": "killer-rabbit",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Armadile",
+        "slug": "armadile",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Clay Guardian",
+        "slug": "clay-guardian",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Cliff Strider",
+        "slug": "cliff-strider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Crystalcrusher",
+        "slug": "crystalcrusher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Damaged Crystal Golem",
+        "slug": "damaged-crystal-golem",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Damaged Worker Golem",
+        "slug": "damaged-worker-golem",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deathstrike",
+        "slug": "deathstrike",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Diamond Servant",
+        "slug": "diamond-servant",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Earth Elemental",
+        "slug": "earth-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Enraged Crystal Golem",
+        "slug": "enraged-crystal-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Eternal Guardian",
+        "slug": "eternal-guardian",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Forest Fury",
+        "slug": "forest-fury",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gargoyle",
+        "slug": "gargoyle",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Golden Servant",
+        "slug": "golden-servant",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Iron Servant",
+        "slug": "iron-servant",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ironblight",
+        "slug": "ironblight",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Jagged Earth Elemental",
+        "slug": "jagged-earth-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Massive Earth Elemental",
+        "slug": "massive-earth-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Medusa",
+        "slug": "medusa",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Muddy Earth Elemental",
+        "slug": "muddy-earth-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Stone Devourer",
+        "slug": "stone-devourer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Stone Golem",
+        "slug": "stone-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Vulcongra",
+        "slug": "vulcongra",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "War Golem",
+        "slug": "war-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Worker Golem",
+        "slug": "worker-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ghost",
+        "slug": "ghost",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Phantasm Summon",
+        "slug": "phantasm-summon",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Souleater",
+        "slug": "souleater",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Phantasm",
+        "slug": "phantasm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Spectre",
+        "slug": "spectre",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tarnished Spirit",
+        "slug": "tarnished-spirit",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tormented Ghost",
+        "slug": "tormented-ghost",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "White Shade",
+        "slug": "white-shade",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wisp",
+        "slug": "wisp",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Behemoth",
+        "slug": "behemoth",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Cyclops",
+        "slug": "cyclops",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Cyclops Drone",
+        "slug": "cyclops-drone",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Cyclops Smith",
+        "slug": "cyclops-smith",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Frost Giant",
+        "slug": "frost-giant",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Frost Giantess",
+        "slug": "frost-giantess",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Goblin",
+        "slug": "goblin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Goblin Assassin",
+        "slug": "goblin-assassin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Goblin Leader",
+        "slug": "goblin-leader",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Goblin Scavenger",
+        "slug": "goblin-scavenger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Grynch Clan Goblin",
+        "slug": "grynch-clan-goblin",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Demon (Goblin)",
+        "slug": "demon-(goblin)",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Massive Water Elemental",
+        "slug": "massive-water-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Roaring Water Elemental",
+        "slug": "roaring-water-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Slick Water Elemental",
+        "slug": "slick-water-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Water Elemental",
+        "slug": "water-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ancient Scarab",
+        "slug": "ancient-scarab",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blue Butterfly",
+        "slug": "blue-butterfly",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Brimstone Bug",
+        "slug": "brimstone-bug",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bug",
+        "slug": "bug",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Butterfly",
+        "slug": "butterfly",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Cockroach",
+        "slug": "cockroach",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Emerald Damselfly",
+        "slug": "emerald-damselfly",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Fleshslicer",
+        "slug": "fleshslicer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hive Overseer",
+        "slug": "hive-overseer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Insect Swarm",
+        "slug": "insect-swarm",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Insectoid Scout",
+        "slug": "insectoid-scout",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Insectoid Worker",
+        "slug": "insectoid-worker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Kollos",
+        "slug": "kollos",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lady Bug",
+        "slug": "lady-bug",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lancer Beetle",
+        "slug": "lancer-beetle",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Larva",
+        "slug": "larva",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lesser Swarmer",
+        "slug": "lesser-swarmer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Parasite",
+        "slug": "parasite",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Pink Butterfly",
+        "slug": "pink-butterfly",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Purple Butterfly",
+        "slug": "purple-butterfly",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Red Butterfly",
+        "slug": "red-butterfly",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Sandcrawler",
+        "slug": "sandcrawler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Scarab",
+        "slug": "scarab",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Spidris Elite",
+        "slug": "spidris-elite",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Spidris",
+        "slug": "spidris",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Spitter",
+        "slug": "spitter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Swarmer Hatchling",
+        "slug": "swarmer-hatchling",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Swarmer",
+        "slug": "swarmer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Terramite",
+        "slug": "terramite",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wasp",
+        "slug": "wasp",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Waspoid",
+        "slug": "waspoid",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Yellow Butterfly",
+        "slug": "yellow-butterfly",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Battlemaster Zunzu",
+        "slug": "battlemaster-zunzu",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Draken Abomination",
+        "slug": "draken-abomination",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Draken Elite",
+        "slug": "draken-elite",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Draken Spellweaver",
+        "slug": "draken-spellweaver",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Draken Warmaster",
+        "slug": "draken-warmaster",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Abomination",
+        "slug": "lizard-abomination",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lizard Chosen",
+        "slug": "lizard-chosen",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Dragon Priest",
+        "slug": "lizard-dragon-priest",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard High Guard",
+        "slug": "lizard-high-guard",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Legionnaire",
+        "slug": "lizard-legionnaire",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Magistratus",
+        "slug": "lizard-magistratus",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lizard Noble",
+        "slug": "lizard-noble",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lizard Sentinel",
+        "slug": "lizard-sentinel",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Snakecharmer",
+        "slug": "lizard-snakecharmer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Templar",
+        "slug": "lizard-templar",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lizard Zaogun",
+        "slug": "lizard-zaogun",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wyvern",
+        "slug": "wyvern",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Minotaur Archer",
+        "slug": "minotaur-archer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Minotaur Guard",
+        "slug": "minotaur-guard",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Minotaur Mage",
+        "slug": "minotaur-mage",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Minotaur",
+        "slug": "minotaur",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Badger",
+        "slug": "badger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bat",
+        "slug": "bat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ghoulish Hyaena",
+        "slug": "ghoulish-hyaena",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hyaena",
+        "slug": "hyaena",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Skunk",
+        "slug": "skunk",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Water Buffalo",
+        "slug": "water-buffalo",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Donkey",
+        "slug": "donkey",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Incredibly Old Witch",
+        "slug": "incredibly-old-witch",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Modified Gnarlhound",
+        "slug": "modified-gnarlhound",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crocodile",
+        "slug": "crocodile",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hydra",
+        "slug": "hydra",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Killer Caiman",
+        "slug": "killer-caiman",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Thornback Tortoise",
+        "slug": "thornback-tortoise",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tortoise",
+        "slug": "tortoise",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Calamary",
+        "slug": "calamary",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Slug",
+        "slug": "slug",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dark Monk",
+        "slug": "dark-monk",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Monk",
+        "slug": "monk",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mutated Bat",
+        "slug": "mutated-bat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mutated Human",
+        "slug": "mutated-human",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mutated Rat",
+        "slug": "mutated-rat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mutated Tiger",
+        "slug": "mutated-tiger",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Centipede",
+        "slug": "centipede",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Crawler",
+        "slug": "crawler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wiggler",
+        "slug": "wiggler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blood Hand",
+        "slug": "blood-hand",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blood Priest",
+        "slug": "blood-priest",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Necromancer",
+        "slug": "necromancer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Necromancer Servant",
+        "slug": "necromancer-servant",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Priestess",
+        "slug": "priestess",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Shadow Pupil",
+        "slug": "shadow-pupil",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Furious Orc Berserker",
+        "slug": "furious-orc-berserker",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Orc Berserker",
+        "slug": "orc-berserker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Leader",
+        "slug": "orc-leader",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Rider",
+        "slug": "orc-rider",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Shaman",
+        "slug": "orc-shaman",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Spearman",
+        "slug": "orc-spearman",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Warlord",
+        "slug": "orc-warlord",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Warrior",
+        "slug": "orc-warrior",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc",
+        "slug": "orc",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orc Marauder",
+        "slug": "orc-marauder",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Rorc",
+        "slug": "rorc",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Adventurer",
+        "slug": "adventurer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Angry Adventurer",
+        "slug": "angry-adventurer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Asassin",
+        "slug": "asassin",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Assassin",
+        "slug": "assassin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bandit",
+        "slug": "bandit",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Black Knight",
+        "slug": "black-knight",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Crazed Beggar",
+        "slug": "crazed-beggar",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gang Member",
+        "slug": "gang-member",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Gladiator",
+        "slug": "gladiator",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Grave Robber",
+        "slug": "grave-robber",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hero",
+        "slug": "hero",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hunter",
+        "slug": "hunter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Morik the Gladiator",
+        "slug": "morik-the-gladiator",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Nomad",
+        "slug": "nomad",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Poacher",
+        "slug": "poacher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Primitive",
+        "slug": "primitive",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Smuggler",
+        "slug": "smuggler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Stalker",
+        "slug": "stalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wild Warrior",
+        "slug": "wild-warrior",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Feverish Citizen",
+        "slug": "feverish-citizen",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Crypt Defiler",
+        "slug": "crypt-defiler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ashmunrah",
+        "slug": "ashmunrah",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dipthrah",
+        "slug": "dipthrah",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Horestis",
+        "slug": "horestis",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mahrdis",
+        "slug": "mahrdis",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Morguthis",
+        "slug": "morguthis",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Omruc",
+        "slug": "omruc",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Rahemos",
+        "slug": "rahemos",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Thalas",
+        "slug": "thalas",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Vashresamun",
+        "slug": "vashresamun",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Pirate Buccaneer",
+        "slug": "pirate-buccaneer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pirate Corsair",
+        "slug": "pirate-corsair",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pirate Cutthroat",
+        "slug": "pirate-cutthroat",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pirate Ghost",
+        "slug": "pirate-ghost",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pirate Marauder",
+        "slug": "pirate-marauder",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Pirate Skeleton",
+        "slug": "pirate-skeleton",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blazing Fire Elemental",
+        "slug": "blazing-fire-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Blistering Fire Elemental",
+        "slug": "blistering-fire-elemental",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fire Elemental",
+        "slug": "fire-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Hellfire Fighter",
+        "slug": "hellfire-fighter",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Infected Weeper",
+        "slug": "infected-weeper",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lava Golem",
+        "slug": "lava-golem",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Magma Crawler",
+        "slug": "magma-crawler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Massive Fire Elemental",
+        "slug": "massive-fire-elemental",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Orewalker",
+        "slug": "orewalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Weeper",
+        "slug": "weeper",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Constrictor",
+        "slug": "quara-constrictor",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Constrictor Scout",
+        "slug": "quara-constrictor-scout",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Quara Hydromancer",
+        "slug": "quara-hydromancer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Hydromancer Scout",
+        "slug": "quara-hydromancer-scout",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Quara Mantassin",
+        "slug": "quara-mantassin",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Mantassin Scout",
+        "slug": "quara-mantassin-scout",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Quara Pincher",
+        "slug": "quara-pincher",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Pincher Scout",
+        "slug": "quara-pincher-scout",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Quara Predator",
+        "slug": "quara-predator",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Quara Predator Scout",
+        "slug": "quara-predator-scout",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Salamander",
+        "slug": "salamander",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Cobra",
+        "slug": "cobra",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Sea Serpent",
+        "slug": "sea-serpent",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Serpent Spawn",
+        "slug": "serpent-spawn",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Snake",
+        "slug": "snake",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Young Sea Serpent",
+        "slug": "young-sea-serpent",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mimic",
+        "slug": "mimic",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Betrayed Wraith",
+        "slug": "betrayed-wraith",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Bonebeast",
+        "slug": "bonebeast",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Bone Beast",
+        "slug": "bone-beast",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Demon Skeleton",
+        "slug": "demon-skeleton",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dreadbeast",
+        "slug": "dreadbeast",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Honour Guard",
+        "slug": "honour-guard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lost Soul",
+        "slug": "lost-soul",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Party Skeleton",
+        "slug": "party-skeleton",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Skeleton",
+        "slug": "skeleton",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Skeleton Warrior",
+        "slug": "skeleton-warrior",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Undead Gladiator",
+        "slug": "undead-gladiator",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Undead Minion",
+        "slug": "undead-minion",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Undead Mine Worker",
+        "slug": "undead-mine-worker",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ghazbaran",
+        "slug": "ghazbaran",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Morgaroth",
+        "slug": "morgaroth",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Azerus",
+        "slug": "azerus",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dark Apprentice",
+        "slug": "dark-apprentice",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Dark Magician",
+        "slug": "dark-magician",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Energized Raging Mage",
+        "slug": "energized-raging-mage",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Fury",
+        "slug": "fury",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Ice Witch",
+        "slug": "ice-witch",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Incredibly Old Witch",
+        "slug": "incredibly-old-witch",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Infernalist",
+        "slug": "infernalist",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mad Mage",
+        "slug": "mad-mage",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mad Scientist",
+        "slug": "mad-scientist",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Raging Mage",
+        "slug": "raging-mage",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Warlock",
+        "slug": "warlock",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Witch",
+        "slug": "witch",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Yalahari",
+        "slug": "yalahari",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Deathslicer",
+        "slug": "deathslicer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Flamethrower",
+        "slug": "flamethrower",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Hive Pore",
+        "slug": "hive-pore",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Lavahole",
+        "slug": "lavahole",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Magic Pillar",
+        "slug": "magic-pillar",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Magicthrower",
+        "slug": "magicthrower",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Plaguethrower",
+        "slug": "plaguethrower",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Shredderthrower",
+        "slug": "shredderthrower",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Frost Troll",
+        "slug": "frost-troll",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Furious Troll",
+        "slug": "furious-troll",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Island Troll",
+        "slug": "island-troll",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Swamp Troll",
+        "slug": "swamp-troll",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Troll",
+        "slug": "troll",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Troll Champion",
+        "slug": "troll-champion",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Troll Guard",
+        "slug": "troll-guard",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Troll Legionnaire",
+        "slug": "troll-legionnaire",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Young Troll",
+        "slug": "young-troll",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Armenius",
+        "slug": "armenius",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Banshee",
+        "slug": "banshee",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Blightwalker",
+        "slug": "blightwalker",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Crypt Shambler",
+        "slug": "crypt-shambler",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Death Priest",
+        "slug": "death-priest",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Elder Mummy",
+        "slug": "elder-mummy",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Ghoul",
+        "slug": "ghoul",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Grim Reaper",
+        "slug": "grim-reaper",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Lich",
+        "slug": "lich",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mummy",
+        "slug": "mummy",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Vampire",
+        "slug": "vampire",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Vampire Bride",
+        "slug": "vampire-bride",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Vampire Viscount",
+        "slug": "vampire-viscount",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Vicious Manbat",
+        "slug": "vicious-manbat",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Zombie",
+        "slug": "zombie",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Undead Prospector",
+        "slug": "undead-prospector",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Nightfiend",
+        "slug": "nightfiend",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Tomb Servant",
+        "slug": "tomb-servant",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "The Pale Count",
+        "slug": "the-pale-count",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Black Sheep",
+        "slug": "black-sheep",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Boar",
+        "slug": "boar",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Deer",
+        "slug": "deer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Desperate White Deer",
+        "slug": "desperate-white-deer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Doom Deer",
+        "slug": "doom-deer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Dromedary",
+        "slug": "dromedary",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Elephant",
+        "slug": "elephant",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Enraged White Deer",
+        "slug": "enraged-white-deer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Evil Sheep Lord",
+        "slug": "evil-sheep-lord",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Evil Sheep",
+        "slug": "evil-sheep",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Horse",
+        "slug": "horse",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Horse1",
+        "slug": "horse1",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Horse2",
+        "slug": "horse2",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Horse3",
+        "slug": "horse3",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Mammoth",
+        "slug": "mammoth",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Mushroom Sniffer",
+        "slug": "mushroom-sniffer",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Pig",
+        "slug": "pig",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Sheep",
+        "slug": "sheep",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Stampor",
+        "slug": "stampor",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Terrified Elephant",
+        "slug": "terrified-elephant",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Vampire Pig",
+        "slug": "vampire-pig",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "White Deer",
+        "slug": "white-deer",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Acolyte of the Cult",
+        "slug": "acolyte-of-the-cult",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Adept of the Cult",
+        "slug": "adept-of-the-cult",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Enlightened of the Cult",
+        "slug": "enlightened-of-the-cult",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Novice of the Cult",
+        "slug": "novice-of-the-cult",
+        "description": "",
+        "hidden": false
+    },
+    {
+        "name": "Wild Fire Magic",
+        "slug": "wild-fire-magic",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Wild Fury Magic",
+        "slug": "wild-fury-magic",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Wild Nature Magic",
+        "slug": "wild-nature-magic",
+        "description": "",
+        "hidden": true
+    },
+    {
+        "name": "Wild Water Magic",
+        "slug": "wild-water-magic",
+        "description": "",
+        "hidden": true
+    }
+]

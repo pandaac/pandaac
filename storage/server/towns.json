@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "Rookgaard",
+        "starter": false
+    },
+    {
+        "id": 1,
+        "name": "Thais",
+        "starter": true
+    },
+    {
+        "id": 2,
+        "name": "Venore",
+        "starter": true
+    },
+    {
+        "id": 3,
+        "name": "Carlin",
+        "starter": true
+    }
+]

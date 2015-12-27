@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "name": "No Vocation",
+        "starter": false
+    },
+    {
+        "id": 1,
+        "name": "Sorcerer",
+        "starter": true
+    },
+    {
+        "id": 2,
+        "name": "Druid",
+        "starter": true
+    },
+    {
+        "id": 3,
+        "name": "Paladin",
+        "starter": true
+    },
+    {
+        "id": 4,
+        "name": "Knight",
+        "starter": true
+    },
+    {
+        "id": 5,
+        "name": "Master Sorcerer",
+        "starter": false
+    },
+    {
+        "id": 6,
+        "name": "Elder Druid",
+        "starter": false
+    },
+    {
+        "id": 7,
+        "name": "Royal Paladin",
+        "starter": false
+    },
+    {
+        "id": 8,
+        "name": "Elite Knight",
+        "starter": false
+    }
+]
