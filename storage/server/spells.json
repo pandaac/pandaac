@@ -1,6 +1,7 @@
 {
     "instant": {
         "Annihilation": {
+            "slug": "annihilation",
             "hidden": false,
             "words": "exori gran ico",
             "level": 110,
@@ -13,6 +14,7 @@
             ]
         },
         "Apprentice's Strike": {
+            "slug": "apprentices-strike",
             "hidden": false,
             "words": "exori min flam",
             "level": 8,
@@ -27,6 +29,7 @@
             ]
         },
         "Berserk": {
+            "slug": "berserk",
             "hidden": false,
             "words": "exori",
             "level": 35,
@@ -39,6 +42,7 @@
             ]
         },
         "Blood Rage": {
+            "slug": "blood-rage",
             "hidden": false,
             "words": "utito tempo",
             "level": 60,
@@ -51,6 +55,7 @@
             ]
         },
         "Brutal Strike": {
+            "slug": "brutal-strike",
             "hidden": false,
             "words": "exori ico",
             "level": 16,
@@ -63,6 +68,7 @@
             ]
         },
         "Cancel Invisibility": {
+            "slug": "cancel-invisibility",
             "hidden": false,
             "words": "exana ina",
             "level": 26,
@@ -75,6 +81,7 @@
             ]
         },
         "Challenge": {
+            "slug": "challenge",
             "hidden": false,
             "words": "exeta res",
             "level": 20,
@@ -86,6 +93,7 @@
             ]
         },
         "Charge": {
+            "slug": "charge",
             "hidden": false,
             "words": "utani tempo hur",
             "level": 25,
@@ -98,6 +106,7 @@
             ]
         },
         "Creature Illusion": {
+            "slug": "creature-illusion",
             "hidden": false,
             "words": "utevo res ina",
             "level": 23,
@@ -112,6 +121,7 @@
             ]
         },
         "Cure Bleeding": {
+            "slug": "cure-bleeding",
             "hidden": false,
             "words": "exana kor",
             "level": 45,
@@ -126,6 +136,7 @@
             ]
         },
         "Cure Burning": {
+            "slug": "cure-burning",
             "hidden": false,
             "words": "exana flam",
             "level": 30,
@@ -138,6 +149,7 @@
             ]
         },
         "Cure Curse": {
+            "slug": "cure-curse",
             "hidden": false,
             "words": "exana mort",
             "level": 80,
@@ -150,6 +162,7 @@
             ]
         },
         "Cure Electrification": {
+            "slug": "cure-electrification",
             "hidden": false,
             "words": "exana vis",
             "level": 22,
@@ -162,6 +175,7 @@
             ]
         },
         "Cure Poison": {
+            "slug": "cure-poison",
             "hidden": false,
             "words": "exana pox",
             "level": 10,
@@ -180,6 +194,7 @@
             ]
         },
         "Curse": {
+            "slug": "curse",
             "hidden": false,
             "words": "utori mort",
             "level": 75,
@@ -192,6 +207,7 @@
             ]
         },
         "Death Strike": {
+            "slug": "death-strike",
             "hidden": false,
             "words": "exori mort",
             "level": 16,
@@ -204,6 +220,7 @@
             ]
         },
         "Divine Caldera": {
+            "slug": "divine-caldera",
             "hidden": false,
             "words": "exevo mas san",
             "level": 50,
@@ -216,6 +233,7 @@
             ]
         },
         "Divine Healing": {
+            "slug": "divine-healing",
             "hidden": false,
             "words": "exura san",
             "level": 35,
@@ -228,6 +246,7 @@
             ]
         },
         "Divine Missile": {
+            "slug": "divine-missile",
             "hidden": false,
             "words": "exori san",
             "level": 40,
@@ -240,6 +259,7 @@
             ]
         },
         "Electrify": {
+            "slug": "electrify",
             "hidden": false,
             "words": "utori vis",
             "level": 34,
@@ -252,6 +272,7 @@
             ]
         },
         "Enchant Party": {
+            "slug": "enchant-party",
             "hidden": false,
             "words": "utori mas sio",
             "level": 32,
@@ -264,6 +285,7 @@
             ]
         },
         "Energy Beam": {
+            "slug": "energy-beam",
             "hidden": false,
             "words": "exevo vis lux",
             "level": 23,
@@ -276,6 +298,7 @@
             ]
         },
         "Energy Strike": {
+            "slug": "energy-strike",
             "hidden": false,
             "words": "exori vis",
             "level": 12,
@@ -290,6 +313,7 @@
             ]
         },
         "Energy Wave": {
+            "slug": "energy-wave",
             "hidden": false,
             "words": "exevo vis hur",
             "level": 38,
@@ -302,6 +326,7 @@
             ]
         },
         "Envenom": {
+            "slug": "envenom",
             "hidden": false,
             "words": "utori pox",
             "level": 50,
@@ -314,6 +339,7 @@
             ]
         },
         "Eternal Winter": {
+            "slug": "eternal-winter",
             "hidden": false,
             "words": "exevo gran mas frigo",
             "level": 60,
@@ -326,6 +352,7 @@
             ]
         },
         "Ethereal Spear": {
+            "slug": "ethereal-spear",
             "hidden": false,
             "words": "exori con",
             "level": 23,
@@ -338,6 +365,7 @@
             ]
         },
         "Fierce Berserk": {
+            "slug": "fierce-berserk",
             "hidden": false,
             "words": "exori gran",
             "level": 90,
@@ -350,6 +378,7 @@
             ]
         },
         "Find Person": {
+            "slug": "find-person",
             "hidden": false,
             "words": "exiva",
             "level": 8,
@@ -368,6 +397,7 @@
             ]
         },
         "Fire Wave": {
+            "slug": "fire-wave",
             "hidden": false,
             "words": "exevo flam hur",
             "level": 18,
@@ -380,6 +410,7 @@
             ]
         },
         "Flame Strike": {
+            "slug": "flame-strike",
             "hidden": false,
             "words": "exori flam",
             "level": 14,
@@ -394,6 +425,7 @@
             ]
         },
         "Food": {
+            "slug": "food",
             "hidden": false,
             "words": "exevo pan",
             "level": 14,
@@ -406,6 +438,7 @@
             ]
         },
         "Front Sweep": {
+            "slug": "front-sweep",
             "hidden": false,
             "words": "exori min",
             "level": 70,
@@ -418,6 +451,7 @@
             ]
         },
         "Great Energy Beam": {
+            "slug": "great-energy-beam",
             "hidden": false,
             "words": "exevo gran vis lux",
             "level": 29,
@@ -430,6 +464,7 @@
             ]
         },
         "Great Light": {
+            "slug": "great-light",
             "hidden": false,
             "words": "utevo gran lux",
             "level": 13,
@@ -448,6 +483,7 @@
             ]
         },
         "Groundshaker": {
+            "slug": "groundshaker",
             "hidden": false,
             "words": "exori mas",
             "level": 33,
@@ -460,6 +496,7 @@
             ]
         },
         "Haste": {
+            "slug": "haste",
             "hidden": false,
             "words": "utani hur",
             "level": 14,
@@ -478,6 +515,7 @@
             ]
         },
         "Heal Friend": {
+            "slug": "heal-friend",
             "hidden": false,
             "words": "exura sio",
             "level": 18,
@@ -490,6 +528,7 @@
             ]
         },
         "Heal Party": {
+            "slug": "heal-party",
             "hidden": false,
             "words": "utura mas sio",
             "level": 32,
@@ -502,6 +541,7 @@
             ]
         },
         "Hell's Core": {
+            "slug": "hells-core",
             "hidden": false,
             "words": "exevo gran mas flam",
             "level": 60,
@@ -514,6 +554,7 @@
             ]
         },
         "Holy Flash": {
+            "slug": "holy-flash",
             "hidden": false,
             "words": "utori san",
             "level": 70,
@@ -526,6 +567,7 @@
             ]
         },
         "Ice Strike": {
+            "slug": "ice-strike",
             "hidden": false,
             "words": "exori frigo",
             "level": 15,
@@ -540,6 +582,7 @@
             ]
         },
         "Ice Wave": {
+            "slug": "ice-wave",
             "hidden": false,
             "words": "exevo frigo hur",
             "level": 18,
@@ -552,6 +595,7 @@
             ]
         },
         "Ignite": {
+            "slug": "ignite",
             "hidden": false,
             "words": "utori flam",
             "level": 26,
@@ -564,6 +608,7 @@
             ]
         },
         "Inflict Wound": {
+            "slug": "inflict-wound",
             "hidden": false,
             "words": "utori kor",
             "level": 40,
@@ -576,6 +621,7 @@
             ]
         },
         "Intense Healing": {
+            "slug": "intense-healing",
             "hidden": false,
             "words": "exura gran",
             "level": 20,
@@ -592,6 +638,7 @@
             ]
         },
         "Intense Recovery": {
+            "slug": "intense-recovery",
             "hidden": false,
             "words": "utura gran",
             "level": 100,
@@ -606,6 +653,7 @@
             ]
         },
         "Intense Wound Cleansing": {
+            "slug": "intense-wound-cleansing",
             "hidden": false,
             "words": "exura gran ico",
             "level": 80,
@@ -618,6 +666,7 @@
             ]
         },
         "Invisibility": {
+            "slug": "invisibility",
             "hidden": false,
             "words": "utana vid",
             "level": 35,
@@ -632,6 +681,7 @@
             ]
         },
         "Levitate": {
+            "slug": "levitate",
             "hidden": false,
             "words": "exani hur",
             "level": 12,
@@ -650,6 +700,7 @@
             ]
         },
         "Light": {
+            "slug": "light",
             "hidden": false,
             "words": "utevo lux",
             "level": 8,
@@ -668,6 +719,7 @@
             ]
         },
         "Light Healing": {
+            "slug": "light-healing",
             "hidden": false,
             "words": "exura",
             "level": 8,
@@ -684,6 +736,7 @@
             ]
         },
         "Lightning": {
+            "slug": "lightning",
             "hidden": false,
             "words": "exori amp vis",
             "level": 55,
@@ -696,6 +749,7 @@
             ]
         },
         "Magic Rope": {
+            "slug": "magic-rope",
             "hidden": false,
             "words": "exani tera",
             "level": 9,
@@ -714,6 +768,7 @@
             ]
         },
         "Magic Shield": {
+            "slug": "magic-shield",
             "hidden": false,
             "words": "utamo vita",
             "level": 14,
@@ -728,6 +783,7 @@
             ]
         },
         "Mass Healing": {
+            "slug": "mass-healing",
             "hidden": false,
             "words": "exura gran mas res",
             "level": 36,
@@ -740,6 +796,7 @@
             ]
         },
         "Physical Strike": {
+            "slug": "physical-strike",
             "hidden": false,
             "words": "exori moe ico",
             "level": 16,
@@ -752,6 +809,7 @@
             ]
         },
         "Practise Fire Wave": {
+            "slug": "practise-fire-wave",
             "hidden": false,
             "words": "exevo dis flam hur",
             "level": 1,
@@ -763,6 +821,7 @@
             ]
         },
         "Practise Healing": {
+            "slug": "practise-healing",
             "hidden": false,
             "words": "exura dis",
             "level": 1,
@@ -774,6 +833,7 @@
             ]
         },
         "Protect Party": {
+            "slug": "protect-party",
             "hidden": false,
             "words": "utamo mas sio",
             "level": 32,
@@ -786,6 +846,7 @@
             ]
         },
         "Protector": {
+            "slug": "protector",
             "hidden": false,
             "words": "utamo tempo",
             "level": 55,
@@ -798,6 +859,7 @@
             ]
         },
         "Rage of the Skies": {
+            "slug": "rage-of-the-skies",
             "hidden": false,
             "words": "exevo gran mas vis",
             "level": 55,
@@ -810,6 +872,7 @@
             ]
         },
         "Recovery": {
+            "slug": "recovery",
             "hidden": false,
             "words": "utura",
             "level": 50,
@@ -824,6 +887,7 @@
             ]
         },
         "Salvation": {
+            "slug": "salvation",
             "hidden": false,
             "words": "exura gran san",
             "level": 60,
@@ -836,6 +900,7 @@
             ]
         },
         "Sharpshooter": {
+            "slug": "sharpshooter",
             "hidden": false,
             "words": "utito tempo san",
             "level": 60,
@@ -848,6 +913,7 @@
             ]
         },
         "Strong Energy Strike": {
+            "slug": "strong-energy-strike",
             "hidden": false,
             "words": "exori gran vis",
             "level": 80,
@@ -860,6 +926,7 @@
             ]
         },
         "Strong Ethereal Spear": {
+            "slug": "strong-ethereal-spear",
             "hidden": false,
             "words": "exori gran con",
             "level": 90,
@@ -872,6 +939,7 @@
             ]
         },
         "Strong Flame Strike": {
+            "slug": "strong-flame-strike",
             "hidden": false,
             "words": "exori gran flam",
             "level": 70,
@@ -884,6 +952,7 @@
             ]
         },
         "Strong Haste": {
+            "slug": "strong-haste",
             "hidden": false,
             "words": "utani gran hur",
             "level": 20,
@@ -898,6 +967,7 @@
             ]
         },
         "Strong Ice Strike": {
+            "slug": "strong-ice-strike",
             "hidden": false,
             "words": "exori gran frigo",
             "level": 80,
@@ -910,6 +980,7 @@
             ]
         },
         "Strong Ice Wave": {
+            "slug": "strong-ice-wave",
             "hidden": false,
             "words": "exevo gran frigo hur",
             "level": 40,
@@ -922,6 +993,7 @@
             ]
         },
         "Strong Terra Strike": {
+            "slug": "strong-terra-strike",
             "hidden": false,
             "words": "exori gran tera",
             "level": 70,
@@ -934,6 +1006,7 @@
             ]
         },
         "Summon Creature": {
+            "slug": "summon-creature",
             "hidden": false,
             "words": "utevo res",
             "level": 25,
@@ -948,6 +1021,7 @@
             ]
         },
         "Swift Foot": {
+            "slug": "swift-foot",
             "hidden": false,
             "words": "utamo tempo san",
             "level": 55,
@@ -960,6 +1034,7 @@
             ]
         },
         "Terra Strike": {
+            "slug": "terra-strike",
             "hidden": false,
             "words": "exori tera",
             "level": 13,
@@ -974,6 +1049,7 @@
             ]
         },
         "Terra Wave": {
+            "slug": "terra-wave",
             "hidden": false,
             "words": "exevo tera hur",
             "level": 38,
@@ -986,6 +1062,7 @@
             ]
         },
         "Train Party": {
+            "slug": "train-party",
             "hidden": false,
             "words": "utito mas sio",
             "level": 32,
@@ -998,6 +1075,7 @@
             ]
         },
         "Ultimate Energy Strike": {
+            "slug": "ultimate-energy-strike",
             "hidden": false,
             "words": "exori max vis",
             "level": 100,
@@ -1010,6 +1088,7 @@
             ]
         },
         "Ultimate Flame Strike": {
+            "slug": "ultimate-flame-strike",
             "hidden": false,
             "words": "exori max flam",
             "level": 90,
@@ -1022,6 +1101,7 @@
             ]
         },
         "Ultimate Healing": {
+            "slug": "ultimate-healing",
             "hidden": false,
             "words": "exura vita",
             "level": 30,
@@ -1036,6 +1116,7 @@
             ]
         },
         "Ultimate Ice Strike": {
+            "slug": "ultimate-ice-strike",
             "hidden": false,
             "words": "exori max frigo",
             "level": 100,
@@ -1048,6 +1129,7 @@
             ]
         },
         "Ultimate Light": {
+            "slug": "ultimate-light",
             "hidden": false,
             "words": "utevo vis lux",
             "level": 26,
@@ -1062,6 +1144,7 @@
             ]
         },
         "Ultimate Terra Strike": {
+            "slug": "ultimate-terra-strike",
             "hidden": false,
             "words": "exori max tera",
             "level": 90,
@@ -1074,6 +1157,7 @@
             ]
         },
         "Wound Cleansing": {
+            "slug": "wound-cleansing",
             "hidden": false,
             "words": "exura ico",
             "level": 10,
@@ -1086,6 +1170,7 @@
             ]
         },
         "Whirlwind Throw": {
+            "slug": "whirlwind-throw",
             "hidden": false,
             "words": "exori hur",
             "level": 28,
@@ -1098,6 +1183,7 @@
             ]
         },
         "Wrath of Nature": {
+            "slug": "wrath-of-nature",
             "hidden": false,
             "words": "exevo gran mas tera",
             "level": 55,
@@ -1110,6 +1196,7 @@
             ]
         },
         "House Guest List": {
+            "slug": "house-guest-list",
             "hidden": false,
             "words": "aleta sio",
             "level": 0,
@@ -1118,6 +1205,7 @@
             "group": false
         },
         "House Subowner List": {
+            "slug": "house-subowner-list",
             "hidden": false,
             "words": "aleta som",
             "level": 0,
@@ -1126,6 +1214,7 @@
             "group": false
         },
         "House Door List": {
+            "slug": "house-door-list",
             "hidden": false,
             "words": "aleta grav",
             "level": 0,
@@ -1134,6 +1223,7 @@
             "group": false
         },
         "House Kick": {
+            "slug": "house-kick",
             "hidden": false,
             "words": "alana sio",
             "level": 0,
@@ -1144,6 +1234,7 @@
     },
     "conjure": {
         "Blank Rune": {
+            "slug": "blank-rune",
             "hidden": false,
             "words": "adori blank",
             "level": 20,
@@ -1160,6 +1251,7 @@
             ]
         },
         "Conjure Arrow": {
+            "slug": "conjure-arrow",
             "hidden": false,
             "words": "exevo con",
             "level": 13,
@@ -1172,6 +1264,7 @@
             ]
         },
         "Conjure Poisoned Arrow": {
+            "slug": "conjure-poisoned-arrow",
             "hidden": false,
             "words": "exevo con pox",
             "level": 16,
@@ -1184,6 +1277,7 @@
             ]
         },
         "Conjure Bolt": {
+            "slug": "conjure-bolt",
             "hidden": false,
             "words": "exevo con mort",
             "level": 17,
@@ -1196,6 +1290,7 @@
             ]
         },
         "Conjure Sniper Arrow": {
+            "slug": "conjure-sniper-arrow",
             "hidden": false,
             "words": "exevo con hur",
             "level": 24,
@@ -1208,6 +1303,7 @@
             ]
         },
         "Conjure Explosive Arrow": {
+            "slug": "conjure-explosive-arrow",
             "hidden": false,
             "words": "exevo con flam",
             "level": 25,
@@ -1220,6 +1316,7 @@
             ]
         },
         "Conjure Piercing Bolt": {
+            "slug": "conjure-piercing-bolt",
             "hidden": false,
             "words": "exevo con grav",
             "level": 33,
@@ -1232,6 +1329,7 @@
             ]
         },
         "Enchant Staff": {
+            "slug": "enchant-staff",
             "hidden": false,
             "words": "exeta vis",
             "level": 41,
@@ -1243,6 +1341,7 @@
             ]
         },
         "Enchant Spear": {
+            "slug": "enchant-spear",
             "hidden": false,
             "words": "exeta con",
             "level": 45,
@@ -1255,6 +1354,7 @@
             ]
         },
         "Conjure Power Bolt": {
+            "slug": "conjure-power-bolt",
             "hidden": false,
             "words": "exevo con vis",
             "level": 59,
@@ -1266,6 +1366,7 @@
             ]
         },
         "Poison Field": {
+            "slug": "poison-field",
             "hidden": false,
             "words": "adevo grav pox",
             "level": 14,
@@ -1280,6 +1381,7 @@
             ]
         },
         "Light Magic Missile": {
+            "slug": "light-magic-missile",
             "hidden": false,
             "words": "adori min vis",
             "level": 15,
@@ -1294,6 +1396,7 @@
             ]
         },
         "Fire Field": {
+            "slug": "fire-field",
             "hidden": false,
             "words": "adevo grav flam",
             "level": 15,
@@ -1308,6 +1411,7 @@
             ]
         },
         "Fireball": {
+            "slug": "fireball",
             "hidden": false,
             "words": "adori flam",
             "level": 27,
@@ -1320,6 +1424,7 @@
             ]
         },
         "Energy Field": {
+            "slug": "energy-field",
             "hidden": false,
             "words": "adevo grav vis",
             "level": 18,
@@ -1334,6 +1439,7 @@
             ]
         },
         "Stalagmite": {
+            "slug": "stalagmite",
             "hidden": false,
             "words": "adori tera",
             "level": 24,
@@ -1348,6 +1454,7 @@
             ]
         },
         "Great Fireball": {
+            "slug": "great-fireball",
             "hidden": false,
             "words": "adori mas flam",
             "level": 30,
@@ -1360,6 +1467,7 @@
             ]
         },
         "Heavy Magic Missile": {
+            "slug": "heavy-magic-missile",
             "hidden": false,
             "words": "adori vis",
             "level": 25,
@@ -1374,6 +1482,7 @@
             ]
         },
         "Poison Bomb": {
+            "slug": "poison-bomb",
             "hidden": false,
             "words": "adevo mas pox",
             "level": 25,
@@ -1386,6 +1495,7 @@
             ]
         },
         "Firebomb": {
+            "slug": "firebomb",
             "hidden": false,
             "words": "adevo mas flam",
             "level": 27,
@@ -1400,6 +1510,7 @@
             ]
         },
         "Soulfire": {
+            "slug": "soulfire",
             "hidden": false,
             "words": "adevo res flam",
             "level": 27,
@@ -1414,6 +1525,7 @@
             ]
         },
         "Poison Wall": {
+            "slug": "poison-wall",
             "hidden": false,
             "words": "adevo mas grav pox",
             "level": 29,
@@ -1428,6 +1540,7 @@
             ]
         },
         "Explosion": {
+            "slug": "explosion",
             "hidden": false,
             "words": "adevo mas hur",
             "level": 31,
@@ -1442,6 +1555,7 @@
             ]
         },
         "Fire Wall": {
+            "slug": "fire-wall",
             "hidden": false,
             "words": "adevo mas grav flam",
             "level": 33,
@@ -1456,6 +1570,7 @@
             ]
         },
         "Energybomb": {
+            "slug": "energybomb",
             "hidden": false,
             "words": "adevo mas vis",
             "level": 37,
@@ -1468,6 +1583,7 @@
             ]
         },
         "Energy Wall": {
+            "slug": "energy-wall",
             "hidden": false,
             "words": "adevo mas grav vis",
             "level": 41,
@@ -1482,6 +1598,7 @@
             ]
         },
         "Sudden Death": {
+            "slug": "sudden-death",
             "hidden": false,
             "words": "adori gran mort",
             "level": 45,
@@ -1494,6 +1611,7 @@
             ]
         },
         "Antidote Rune": {
+            "slug": "antidote-rune",
             "hidden": false,
             "words": "adana pox",
             "level": 15,
@@ -1506,6 +1624,7 @@
             ]
         },
         "Intense Healing Rune": {
+            "slug": "intense-healing-rune",
             "hidden": false,
             "words": "adura gran",
             "level": 15,
@@ -1518,6 +1637,7 @@
             ]
         },
         "Ultimate Healing Rune": {
+            "slug": "ultimate-healing-rune",
             "hidden": false,
             "words": "adura vita",
             "level": 24,
@@ -1530,6 +1650,7 @@
             ]
         },
         "Convince Creature": {
+            "slug": "convince-creature",
             "hidden": false,
             "words": "adeta sio",
             "level": 16,
@@ -1542,6 +1663,7 @@
             ]
         },
         "Animate Dead": {
+            "slug": "animate-dead",
             "hidden": false,
             "words": "adana mort",
             "level": 27,
@@ -1556,6 +1678,7 @@
             ]
         },
         "Chameleon": {
+            "slug": "chameleon",
             "hidden": false,
             "words": "adevo ina",
             "level": 27,
@@ -1568,6 +1691,7 @@
             ]
         },
         "Destroy Field": {
+            "slug": "destroy-field",
             "hidden": false,
             "words": "adito grav",
             "level": 17,
@@ -1584,6 +1708,7 @@
             ]
         },
         "Desintegrate": {
+            "slug": "desintegrate",
             "hidden": false,
             "words": "adito tera",
             "level": 21,
@@ -1600,6 +1725,7 @@
             ]
         },
         "Magic Wall": {
+            "slug": "magic-wall",
             "hidden": false,
             "words": "adevo grav tera",
             "level": 32,
@@ -1612,6 +1738,7 @@
             ]
         },
         "Wild Growth": {
+            "slug": "wild-growth",
             "hidden": false,
             "words": "adevo grav vita",
             "level": 27,
@@ -1624,6 +1751,7 @@
             ]
         },
         "Paralyze": {
+            "slug": "paralyze",
             "hidden": false,
             "words": "adana ani",
             "level": 54,
@@ -1636,6 +1764,7 @@
             ]
         },
         "Icicle": {
+            "slug": "icicle",
             "hidden": false,
             "words": "adori frigo",
             "level": 28,
@@ -1648,6 +1777,7 @@
             ]
         },
         "Avalanche": {
+            "slug": "avalanche",
             "hidden": false,
             "words": "adori mas frigo",
             "level": 30,
@@ -1660,6 +1790,7 @@
             ]
         },
         "Stone Shower": {
+            "slug": "stone-shower",
             "hidden": false,
             "words": "adori mas tera",
             "level": 28,
@@ -1672,6 +1803,7 @@
             ]
         },
         "Thunderstorm": {
+            "slug": "thunderstorm",
             "hidden": false,
             "words": "adori mas vis",
             "level": 28,
@@ -1684,6 +1816,7 @@
             ]
         },
         "Holy Missile": {
+            "slug": "holy-missile",
             "hidden": false,
             "words": "adori san",
             "level": 27,
@@ -1698,6 +1831,7 @@
     },
     "rune": {
         "Blank Rune": {
+            "slug": "blank-rune",
             "hidden": false,
             "words": "adori blank",
             "level": 20,
@@ -1714,6 +1848,7 @@
             ]
         },
         "Poison Field": {
+            "slug": "poison-field",
             "hidden": false,
             "words": "adevo grav pox",
             "level": 14,
@@ -1728,6 +1863,7 @@
             ]
         },
         "Light Magic Missile": {
+            "slug": "light-magic-missile",
             "hidden": false,
             "words": "adori min vis",
             "level": 15,
@@ -1742,6 +1878,7 @@
             ]
         },
         "Fire Field": {
+            "slug": "fire-field",
             "hidden": false,
             "words": "adevo grav flam",
             "level": 15,
@@ -1756,6 +1893,7 @@
             ]
         },
         "Fireball": {
+            "slug": "fireball",
             "hidden": false,
             "words": "adori flam",
             "level": 27,
@@ -1768,6 +1906,7 @@
             ]
         },
         "Energy Field": {
+            "slug": "energy-field",
             "hidden": false,
             "words": "adevo grav vis",
             "level": 18,
@@ -1782,6 +1921,7 @@
             ]
         },
         "Stalagmite": {
+            "slug": "stalagmite",
             "hidden": false,
             "words": "adori tera",
             "level": 24,
@@ -1796,6 +1936,7 @@
             ]
         },
         "Great Fireball": {
+            "slug": "great-fireball",
             "hidden": false,
             "words": "adori mas flam",
             "level": 30,
@@ -1808,6 +1949,7 @@
             ]
         },
         "Heavy Magic Missile": {
+            "slug": "heavy-magic-missile",
             "hidden": false,
             "words": "adori vis",
             "level": 25,
@@ -1822,6 +1964,7 @@
             ]
         },
         "Poison Bomb": {
+            "slug": "poison-bomb",
             "hidden": false,
             "words": "adevo mas pox",
             "level": 25,
@@ -1834,6 +1977,7 @@
             ]
         },
         "Firebomb": {
+            "slug": "firebomb",
             "hidden": false,
             "words": "adevo mas flam",
             "level": 27,
@@ -1848,6 +1992,7 @@
             ]
         },
         "Soulfire": {
+            "slug": "soulfire",
             "hidden": false,
             "words": "adevo res flam",
             "level": 27,
@@ -1862,6 +2007,7 @@
             ]
         },
         "Poison Wall": {
+            "slug": "poison-wall",
             "hidden": false,
             "words": "adevo mas grav pox",
             "level": 29,
@@ -1876,6 +2022,7 @@
             ]
         },
         "Explosion": {
+            "slug": "explosion",
             "hidden": false,
             "words": "adevo mas hur",
             "level": 31,
@@ -1890,6 +2037,7 @@
             ]
         },
         "Fire Wall": {
+            "slug": "fire-wall",
             "hidden": false,
             "words": "adevo mas grav flam",
             "level": 33,
@@ -1904,6 +2052,7 @@
             ]
         },
         "Energybomb": {
+            "slug": "energybomb",
             "hidden": false,
             "words": "adevo mas vis",
             "level": 37,
@@ -1916,6 +2065,7 @@
             ]
         },
         "Energy Wall": {
+            "slug": "energy-wall",
             "hidden": false,
             "words": "adevo mas grav vis",
             "level": 41,
@@ -1930,6 +2080,7 @@
             ]
         },
         "Sudden Death": {
+            "slug": "sudden-death",
             "hidden": false,
             "words": "adori gran mort",
             "level": 45,
@@ -1942,6 +2093,7 @@
             ]
         },
         "Antidote Rune": {
+            "slug": "antidote-rune",
             "hidden": false,
             "words": "adana pox",
             "level": 15,
@@ -1954,6 +2106,7 @@
             ]
         },
         "Intense Healing Rune": {
+            "slug": "intense-healing-rune",
             "hidden": false,
             "words": "adura gran",
             "level": 15,
@@ -1966,6 +2119,7 @@
             ]
         },
         "Ultimate Healing Rune": {
+            "slug": "ultimate-healing-rune",
             "hidden": false,
             "words": "adura vita",
             "level": 24,
@@ -1978,6 +2132,7 @@
             ]
         },
         "Convince Creature": {
+            "slug": "convince-creature",
             "hidden": false,
             "words": "adeta sio",
             "level": 16,
@@ -1990,6 +2145,7 @@
             ]
         },
         "Animate Dead": {
+            "slug": "animate-dead",
             "hidden": false,
             "words": "adana mort",
             "level": 27,
@@ -2004,6 +2160,7 @@
             ]
         },
         "Chameleon": {
+            "slug": "chameleon",
             "hidden": false,
             "words": "adevo ina",
             "level": 27,
@@ -2016,6 +2173,7 @@
             ]
         },
         "Destroy Field": {
+            "slug": "destroy-field",
             "hidden": false,
             "words": "adito grav",
             "level": 17,
@@ -2032,6 +2190,7 @@
             ]
         },
         "Desintegrate": {
+            "slug": "desintegrate",
             "hidden": false,
             "words": "adito tera",
             "level": 21,
@@ -2048,6 +2207,7 @@
             ]
         },
         "Magic Wall": {
+            "slug": "magic-wall",
             "hidden": false,
             "words": "adevo grav tera",
             "level": 32,
@@ -2060,6 +2220,7 @@
             ]
         },
         "Wild Growth": {
+            "slug": "wild-growth",
             "hidden": false,
             "words": "adevo grav vita",
             "level": 27,
@@ -2072,6 +2233,7 @@
             ]
         },
         "Paralyze": {
+            "slug": "paralyze",
             "hidden": false,
             "words": "adana ani",
             "level": 54,
@@ -2084,6 +2246,7 @@
             ]
         },
         "Icicle": {
+            "slug": "icicle",
             "hidden": false,
             "words": "adori frigo",
             "level": 28,
@@ -2096,6 +2259,7 @@
             ]
         },
         "Avalanche": {
+            "slug": "avalanche",
             "hidden": false,
             "words": "adori mas frigo",
             "level": 30,
@@ -2108,6 +2272,7 @@
             ]
         },
         "Stone Shower": {
+            "slug": "stone-shower",
             "hidden": false,
             "words": "adori mas tera",
             "level": 28,
@@ -2120,6 +2285,7 @@
             ]
         },
         "Thunderstorm": {
+            "slug": "thunderstorm",
             "hidden": false,
             "words": "adori mas vis",
             "level": 28,
@@ -2132,6 +2298,7 @@
             ]
         },
         "Holy Missile": {
+            "slug": "holy-missile",
             "hidden": false,
             "words": "adori san",
             "level": 27,
