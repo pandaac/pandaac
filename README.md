@@ -14,7 +14,8 @@ Apolune is the codename assigned to the version of _pandaac_ that utilises [Lara
 ##### Server Owners
 * Apolune is currently only being tested with [The Forgotten Server 1.1](https://github.com/otland/forgottenserver/tree/1.1).
   * Other server packages (e.g. Avesta, TFS 0.3) are planned for future releases.
-* As a temporary solution, we use the `dummydata.json` file for anything server related.
+* ~~As a temporary solution, we use the `dummydata.json` file for anything server related.~~
+  * The `dummydata.json` file is no longer in effect. It has instead been split up into several separate files for easier management. They may be found within the `storage` folder ([here](https://github.com/pandaac/pandaac/tree/apolune/storage/server)).
 
 ##### Developers
 * If you would like to contribute to Apolune, please make sure all of your code is using the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard.
