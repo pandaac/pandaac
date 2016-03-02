@@ -1610,8 +1610,8 @@
                 "Master Sorcerer"
             ]
         },
-        "Antidote Rune": {
-            "slug": "antidote-rune",
+        "Cure Poison Rune": {
+            "slug": "cure-poison-rune",
             "hidden": false,
             "words": "adana pox",
             "level": 15,
