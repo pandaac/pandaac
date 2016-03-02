@@ -2092,19 +2092,6 @@
                 "Master Sorcerer"
             ]
         },
-        "Antidote Rune": {
-            "slug": "antidote-rune",
-            "hidden": false,
-            "words": "adana pox",
-            "level": 15,
-            "mana": 200,
-            "premium": false,
-            "group": false,
-            "vocations": [
-                "Druid",
-                "Elder Druid"
-            ]
-        },
         "Intense Healing Rune": {
             "slug": "intense-healing-rune",
             "hidden": false,
