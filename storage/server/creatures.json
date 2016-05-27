@@ -2,7 +2,7 @@
     {
         "name": "Amazon",
         "slug": "amazon",
-        "description": "",
+        "description": "<p>Amazons are communities of martial women who have erected some hideouts in the swamps in the east of Tibia. They attack every intruder of their sphere vigorously and cut off the heads of their victims in order to keep them as some kind of trophies. They are not only quite strong in close combat but are also able to throw knives with deadly precision.</p>",
         "hidden": false
     },
     {
@@ -14,7 +14,7 @@
     {
         "name": "Carrion Worm",
         "slug": "carrion-worm",
-        "description": "",
+        "description": "<p>It is said that even rotworms cannot survive their disgusting diet forever. Sooner or later a rotworm falls prey to all the rot and decay it consumes. However, people tell that some of them prove extremely resistant to all the poisons they devour in their life. They seem to be immortal and therefore, grow stronger and bigger than the rest of their kind, reaching even the size of an ox or a small barn.<br>Perhaps these stories hold a grain of truth because now and then really huge rotworms are spotted amongst their kind. These so-called Carrion Worms seem to be no species of their own but indeed just older, bigger and meaner rotworms. Their capabilities seem to exceed the ones of the smaller rotworms in all means although they seem to have no special position in the mindless society of worms. Carrion Worms are usually accompanied by a host of smaller worms which makes them even more dangerous. They have some sort of tusks that can easily penetrate a good armor. In fights they are protected by a hide which has grown pretty thick during many decades.</p>",
         "hidden": false
     },
     {
@@ -62,7 +62,7 @@
     {
         "name": "Crystal Spider",
         "slug": "crystal-spider",
-        "description": "",
+        "description": "<p>Crystal Spiders are a rare breed. Just like the frost dragons, the Crystal Spiders are also the results of a transformation, probably being descendants of Giant Spiders. However, the Crystal Spider was affected much more heavily than the frost dragon. Its body drastically changed to a crystalline or rather icy consistence, emitting an enormous cold. Its spiderwebs are not made of silk but of concentrated ice which is extremely cold. The cold alone is sufficient to freeze most creatures to the web which therefore does not need a gluey coating. The poison of the spider is like an injection of pure ice. It painfully freezes the flesh and numbs the extremities. The good resistance to cold that many creatures on the Ice Islands possess makes such advantage, however, redundant. For this reason, Crystal Spiders have specialised in hunting warm blooded creatures that are susceptible to their special abilities. This includes humans, elves and dwarfs. It is unknown if Crystal Spiders can survive in warmer climates. If they were able to adapt to warmer environment where much more prey is available that is susceptible to their attacks, they would easily spread through the lands like a plague.</p>",
         "hidden": false
     },
     {
@@ -302,31 +302,31 @@
     {
         "name": "Barbarian Bloodwalker",
         "slug": "barbarian-bloodwalker",
-        "description": "",
+        "description": "<p>The Barbarian Bloodwalkers did surely not receive their name for their diplomatic talent. A Bloodwalker first strikes and then he strikes even more. Bloodwalkers are nearly mad and always on the brink of frenzy. The constant abuse of berserker elixirs forced them into a life of mayhem and destruction.<br>Battle and carnage are the lifeblood of the Barbarian Bloodwalkers. Regarded by their tribesmen as beings touched by divinity, there is little that could restrain them. As a matter of fact, the same shamans that supplied them with berserker elixirs in the first place, now keep them drugged with potions to pacify them and to make them less prone to rampages. In times of war, however, these 'holy warriors' are set on the enemies and most of their tribesmen do their best to avoid any act that might provoke their wrath. The rage that guides the actions of a Bloodwalker leaves no room for fear, pain, surrender or mercy. With no regard for their own lives, the Bloodwalkers storm into battle and their war cries challenge everything, be it mortal, demon or god.</p>",
         "hidden": false
     },
     {
         "name": "Barbarian Brutetamer",
         "slug": "barbarian-brutetamer",
-        "description": "",
+        "description": "<p>The Barbarian Brutetamers are women who have failed the tests to become a fully-fledged shaman. Unlike the male raiders, who either are quite gifted in magic or lack this talent completely, some women show some kind of inherent magic. Their talent is not strong enough to call the more powerful spirits, but they have a special knack to handle animals and to heal wounds which can only be explained with magic. With some training they are able to conjure some animal spirits and lead them into battle. Even though their magical abilities are quite limited, they can also use their powers in several destructive ways to defend themselves. Under the shaman queen, it has become more and more common that only shamans utterly loyal to her receive a formal and extensive training. For this reason the ranks of the Barbarian Brutetamers have been boosted with some truly gifted women who will probably never be able to use the full power of their potential. Still the Barbarian Brutetamers are absolutely loyal to their clans and tribes and they will use everything at their disposal to strike down the enemies of their cold-hearted queen.</p>",
         "hidden": false
     },
     {
         "name": "Barbarian Headsplitter",
         "slug": "barbarian-headsplitter",
-        "description": "",
+        "description": "<p>The Barbarian Headsplitters are distance fighters that are shunned by the other raiders. They have failed in previous battles due to their cowardice or lack of skill and are therefore deprived the honour to challenge an enemy face to face. The harsh community of the barbarians makes it easy to fall in disgrace with their leaders. Those who are deemed unworthy have to atone for their failure by becoming second line support fighters and engaging an enemy from a distance. Only if their superiors see them fight recklessly, they might return to the ranks of the true warriors. Given the fact that distance fighting is seen as dishonourable, those barbarians have a hard time to get accepted by the tribe again. Seen as dispensable, other tribesmen do little to defend the distance fighters when they become cornered. As they rely on their own and constantly feel to have to prove themselves as worthy, the Barbarian Headsplitters fight twice as hard and fierce which makes them formidable opponents despite their low rank in their society.</p>",
         "hidden": false
     },
     {
         "name": "Barbarian Skullhunter",
         "slug": "barbarian-skullhunter",
-        "description": "",
+        "description": "<p>A young raider begins his career of warfare in the rank of a Barbarian Skullhunter. The raiders believe that skulls are the holder of an enemy's essence. It's the goal of each young raider to gather as many skulls as possible. Under the guidance of their shaman queen, it has become of little importance if this skull belongs to an animal or to a human opponent. In holy ceremonies the young barbarians are allowed to add their most worthy trophies to the holy skull collection of their tribe. It is the ultimate goal of all initiates to achieve a higher status by gaining more and more worthy offerings. For this reason, the youngsters are eager to go on a hunt or into a battle likewise. The Barbarian Skullhunters of varied ranks are the most numerous force among the barbarians. They can be found in hunting parties almost everywhere on the Ice Islands. Also, they build the majority of raiders who defend the barbarian camps. Fearlessly, they challenge even opponents much better equipped than themselves and they wield their primitive weapons with a frightening and fierce skill.</p>",
         "hidden": false
     },
     {
         "name": "Bear",
         "slug": "bear",
-        "description": "",
+        "description": "<p>Bears live in the holes and forests of Tibia. They are pacific animals, but they can get quite aggressive when you enter their habitat. Their stroke can be very strong, but as Bears are slow you should be able to flee. It is recommended to attack Bears with distance fighting weapons.</p>",
         "hidden": false
     },
     {
@@ -356,13 +356,13 @@
     {
         "name": "Bog Raider",
         "slug": "bog-raider",
-        "description": "",
+        "description": "<p>The Bog Raider is neither a living creature, nor an undead, nor a ghost. Rather, it is a ghastly mix of all of them. Whenever someone dies in the bogs, he is often in great fear or desperation. In many cases, these fears tie the spirit to the world of the living. Trapped between the worlds, these spirits become more and more desperate. They contaminate the environment by spreading their fear and desperation, and they bind rotten plants to the bones of their mortal remains. After several years, the spirit combines with its newly formed body and a new creature is born - a dreadful Bog Raider rises from the swamps. The new body consists of the skeleton that belonged to the living being the spirit used to be, wrapped round with masses of rotten plants, leaves and vines.<br>Still driven by fear and often completely mad, Bog Raiders walk the swamps. However, their mad and frightening wailing warns all creatures of their approach. Hungry for life, Bog Raiders attack every living being that crosses their way, vainly trying to gain their enemy's life force to satisfy their tormenting hunger. Bog Raiders are rather driven by madness than by intelligence which makes them to dangerous enemies. However, there are also reports of Bog Raiders who overcame their madness and actually help nearby settlements or look after their former families from a distance.</p>",
         "hidden": false
     },
     {
         "name": "Carniphila",
         "slug": "carniphila",
-        "description": "",
+        "description": "<p>This creature is neither a plant nor a beast, it is rather a mixture of both and another oddity that the Tiquandan jungle holds in store for explorers and settlers. Although plant-like in its looks and structure, it seems to be able to control its movements. It is carnivorous by nature and follows almost mindlessly its greedy appetite. Its poisonous attacks decelerate its victims and so the slow giant plant can catch up and attack with its thorny tentacles and a maw-like blossom. The dead bodies of their victims do not only serve as food but also as fertiliser for the plants seeds. Therefore it is advised to burn bodies who died by an attack of a Carniphila.</p>",
         "hidden": false
     },
     {
@@ -470,7 +470,7 @@
     {
         "name": "Chicken",
         "slug": "chicken",
-        "description": "",
+        "description": "<p>Chickens are domesticated animals that usually live on farms. Their eggs and their flesh makes them quite useful and neither the rumour of evil battle chickens nor the myth of a hidden town inhabited by talking chickens turned out to be true. Chickens have accompanied mankind and other races from the beginning and they have spread over the world as civilisation advanced.</p>",
         "hidden": false
     },
     {
@@ -566,13 +566,13 @@
     {
         "name": "Bonelord",
         "slug": "bonelord",
-        "description": "",
+        "description": "<p>Bonelords are members of an ancient race that once ruled vast parts of the world. The days of this ancient glory are long gone but unlike other races of the past, the Bonelords managed to survive the decline of their power. Parts of their former power exist along with small groups or loners who took refuge in some ruins or caves. Some reluctantly allied themselves with other races or enslaved weaker creatures to do their bidding. Using bribes or threats, some overlords managed to hire Bonelords into their rank. Such 'labour contracts' are only temporary at best and chances are that a Bonelord is more concerned about plotting revenge or betrayal on its 'master' than to do his bidding.<br>Bonelords are accomplished magicians of great intellect. The latter is rather alien to human standards and it is not easy to understand a Bonelord's motivations and philosophy. With their natural affinity to the necromantic arts, the Bonelords still claim some areas of land as their own and guard them with the help of their undead minions. They are hostile to most other races which they consider as upstarts and primitive. They fiercely defend their realms or places they claim for their own, and their interest in fresh corpses for their necromantic studies makes them a threat for each human community. Since their population grows only slowly, they envy and hate the more fertile races which, in their eyes, stole the power that rightfully belonged to the Bonelords. Seeing themselves as a superior 'conqueror race', they gather their undead forces and pursue their studies aiming at the day on which they will raise an unstoppable army of powerful undead creatures to lead them to another war to conquer the world.</p>",
         "hidden": true
     },
     {
         "name": "Braindeath",
         "slug": "braindeath",
-        "description": "",
+        "description": "<p>Some of the most ancient bonelords have gained so much power over undeath that they cross the margin between life and death. What might be considered the transformation of a living being into one of the dreaded liches, turns into something very sinister. Neither alive nor truly dead, they dwell on the border of two realms. Having mastered unspeakable techniques and twisted their own minds in ways unfathomable for other beings, they 'broke' something in their minds or rather in their souls. The part that connects each and everything to the living world is not working right in these creatures. At this step other creatures would just turn mad or wither, but some of the ancient bonelords face another fate. Through sheer will and unthinkable understanding of the thin lines between life and death, they grasp to the concept of existence. Just like they once animated their undead minions, they now keep their decaying but not really dead bodies in motion. Parts of their twisted minds are forever trapped in the realm of the dead though, captured in a constant nightmare that slowly tries to erode their sanity. To prevent the drifting off in this dream of death, they have removed parts of their skull. This way they are able to constantly stimulate their own brains with jolts of energy from their eye stalks. In a magical surgery, they have added an eye-stalklike appendage and attached a stinger to their body. It is used to leech brain fluids from helpless victims to sustain their own existence. Their central eye is sealed shut to prevent any unnecessary distraction from their inward struggle. As the central eye is normally used for bonelord communication, the Braindeath has no way to communicate with other bonelords. It relies on verbal communication which makes it disgusting even for its own kind.<br>Their mastery of death makes them formidable opponents. Luckily, they do not often meddle with the affairs of the living. Those who for some reason cross the path of a Braindeath should be prepared for a tough fight. With little regard for its own life or that of any other being, the Braindeath will attack with an array of devastating powers that outshines every other bonelord. Commanding powerful minions from beyond the grave and possessing the resilience of undeath, a Braindeath is a nearly unstoppable force if not countered with the correct tactics.</p>",
         "hidden": true
     },
     {
@@ -1430,19 +1430,19 @@
     {
         "name": "Chakoya Toolshaper",
         "slug": "chakoya-toolshaper",
-        "description": "",
+        "description": "<p>Chakoya Toolshapers are more skilled than the tribewardens but less powerful built. Provided with a bit more intelligence than the other chakoyas, they are mainly responsible for handcraft in the tribes. It is them who provide the tribes with all kinds of different weapons and who are able to handle the more complicated distance weapons in fights.<br>Since supplies are hard to gather in the northern waste, Chakoya Toolshapers often accompany the tribewardens on their hunts for food and resources. In battles they function as leaders, at least until the frenzy takes over. As running away is no option for a chakoya that does not want to end as dinner for its clanmates, Chakoya Toolshapers, unlike other distance fighters, charge an enemy with little regard of their own safety.</p>",
         "hidden": false
     },
     {
         "name": "Chakoya Tribewarden",
         "slug": "chakoya-tribewarden",
-        "description": "",
+        "description": "<p>The bulk of the chakoya tribes are the Chakoya Tribewardens. They are the hunters and gatherers of their species and it's their responsibility to protect the tribe. Chakoya Tribewardens are the most animal and wild of those little furry creatures. Everything that is not a chakoya is seen as prey. Not even other chakoyas are always safe from the ravenous bloodlust of their brethren. Survival of the fittest seems to be the principle of the Chakoya Tribewardens. When a chakoya shows some weakness, its fellows are after him to 'adjust' him to its new place in the food chain ...<br>The harsh environment has made the Chakoya Tribewardens as unforgiving as the icy land itself. They never run if they get cornered, rather their bloodthirstiness and their wrath increases and they attack their opponents with weapons, claws and fangs until either their opponents or themselves are defeated.</p>",
         "hidden": false
     },
     {
         "name": "Chakoya Windcaller",
         "slug": "chakoya-windcaller",
-        "description": "",
+        "description": "<p>The Chakoya Windcallers are a strange breed of chakoyas. Just a few of these rare and quite fragile chakoyas actually reach adulthood where they can acquire their full potential. Only if other Chakoya Windcallers recognise the ability of a child to wield magic, it may be spared from the deadly pecking order of the clans. The Chakoya Windcallers are considered as a mixture of saints and abominations, certainly nothing any sane chakoya would eat. Touched with the gift or curse of magic, a young Chakoya Windcaller usually grows up under the relative safety of a Chakoya Windcaller patron that serves as its teacher. In some rare cases, a Chakoya Windcaller survives on its own, rather relying on its instinctive magic than on its brawn. As an adult, a Chakoya Windcaller has either been recognised and raised as such or gradually begins to lose its magic abilities, mostly turning into a Chakoya Toolshaper instead.<br>The magic of the Chakoya Windcallers is rather primitive. They use the elements for protection, enhancement or damaging effects. Like every chakoya, they rely on close combat so their ability to cast distance spells is limited. Instead they use their magical skills to increase their own speed and to freeze their opponents.</p>",
         "hidden": false
     },
     {
@@ -1454,19 +1454,19 @@
     {
         "name": "Corym Charlatan",
         "slug": "corym-charlatan",
-        "description": "",
+        "description": "<p>The Charlatans are the scouts and spies of the Corym. They are formidable diggers and unsurpassed in agility by any other Corym. They are able to crawl through even the smallest and most twisted tunnels, and reach places where other Corym can not go. As opportunity makes thieves, other races consider the Charlatans to be the worst of thieves, but by other Corym, they are held in regard as daring heroes. Their campfire stories are full of the exploits of the Charlatans, and detail how they outsmarted and outran their enemies. In combat, the Charlatans like to fight dirty. What they lack in strength they make up for in agility, and their attacks are often aimed at vulnerable spots and accompanied by feints, to catch their opponents off guard. The more Charlatans are involved in a fight to overpower an enemy, the bolder their attacks. Although they generally tend to be rather cowardly, most Charlatans are so convinced of the superiority of the numerous talismans and fetishes they wear that they will not back away even from a fight with more powerful opponents; and the Corym believe that through their talismans, a kind of supernatural power is bestowed upon them as well. They fervently pose as healers, diviners and magicians, utterly trusting their charms and ignoring all facts that might contradict their conviction.<br>Charlatans are usually the first to be encountered if Corym move into an area, and if a single Corym is encountered, it is usually a Charlatan. On the other hand, as a saying goes, for one Charlatan you see there are always two more in hiding, and indeed Charlatans generally travel in packs. The death rate of the Charlatans is incredibly high and only the immense reproduction rate of the Corym still keeps them in existence. Oddly enough, most Corym that are born are found suitable by the Skirmishers to belong to the Charlatans. This is even more true in times of war. The Corym see this as a sign of their gods' favour.</p>",
         "hidden": false
     },
     {
         "name": "Corym Skirmisher",
         "slug": "corym-skirmisher",
-        "description": "",
+        "description": "<p>The Skirmishers are the leaders, priests and oracles of the Corym. They divine the will of their gods, interpret omen and are responsible for the laws of the Corym civilisation. Oddly enough, the abilities of the Skirmishers are quite similar to that of others, regardless of whether they serve as justice squeakers, priests of their Snake God of Death, or mushroom-eating diviners of future events. They claim to gain knowledge by consuming books of all kind. Consuming here actually means eating the books. It is deemed a fact that a Skirmisher who has eaten a lot of books is more powerful than his brethren; but whether these two circumstances are truly linked to each other is still unknown. Skirmishers employ a lot of tricks that they claim are magic, together with simple forms of alchemy and medicine, and most notably poisons. It is verified that Skirmishers use a lot of alcohol to 'magically' make Corym warriors fearless and 'mighty'. It is the Skirmishers who create the numerous charms and fetishes that are highly prized by their kin; and given the superstition common throughout the Corym society, the superior status of the Skirmishers is absolutely undisputed. Admittedly only the most cunning of the Corym make up the ranks of the Skirmishers. As their attitude is to 'support their brethren from behind the lines' and to let others finish all dirty and dangerous work, while they have the authority over the best Corym resources, they attain great ages for the usually short-lived Corym and acquire a lot of experience and knowledge. This they only impart to their minion who are trained to become Skirmishers; and it gives them an edge over the other, often somewhat reclusive groups in Corym society and ensures their leadership. Another source of the Skirmisher's influence over other Corym is their secret knowledge of cheese production. Given to them by the gods, this sacred knowledge enables the Skirmishers to work the 'wonder of cheese' and supposedly gives them access to special cheese magic. The ritual of divining the future by the smell of the sacred cheese and the devouring of the cheese by the oracle is a spiritual experience for the Corym community... and a free first-class meal for the oracle.</p>",
         "hidden": false
     },
     {
         "name": "Corym Vanguard",
         "slug": "corym-vanguard",
-        "description": "",
+        "description": "<p>The Vanguards are the gatherers, tinkerers and craftsmen of the Corym. Usually of a build somewhat more muscular and hardy than the regular Corym, they have many responsibilities in the Corym society. They are the guards that keep vigil over the den and all resources. They craft the crude but mean weaponry of the Corym, and repair stolen or found goods to render them suitable for Corym usage. Most importantly, certain Vanguards are responsible for keeping the slime tunnel system running. The slime tunnels are a well-kept secret of the Corym and work with specially prepared slime and swamp gases to provide long-range transport between remote Corym dens, in a way everyone else would consider rather disgusting as well as insanely dangerous. The gruesome accidents in the tunnel system are usually discarded as the failure of a charm the deceased, or crippled user had been wearing.<br>There is nothing a Vanguard cannot put to good use. They collect all kinds of stuff, broken or new, and stockpile it for later use. It is a great disgrace for a Vanguard not to have something somewhere, for to at least temporally fix something or rather, everything - aside from their ordinary tasks, most Vanguards consider themselves inventors. Whenever possible, they mix and match the pieces of their collection with each other, often with no clue as to what it is they are working on. Most of the time, the outcome is completely unreliable or unusable; a fact no Vanguard would ever admit. Inasmuch as possible, they convince others to wear, use or try out their inventions. Given the fact that there are only very few volunteers, this is usually handled by a complex system of 'I owe you'. When someone accepts a favour from a Vanguard, he should expect to become a test subject of some kind of invention at a future point.<br>The Vanguards are more robust, better trained and far better equipped than their kin. In times of war, they are therefore found in the front lines of battle; and even in combat, the Vanguards like to try out something new. As this is not merely limited to weapons, but includes all kinds of tactics and attacks, the Vanguard is quite an unpredictable opponent always full of nasty surprises.</p>",
         "hidden": false
     },
     {
@@ -1478,7 +1478,7 @@
     {
         "name": "Blood Crab",
         "slug": "blood-crab",
-        "description": "",
+        "description": "<p>It is not known why the Blood Crab is so aggressive and hostile, but since it is confirmed that those crabs are carnivorous it is not that surprising. Heavily armored and incredibly strong, their only weakness seems to be their relative slowness. Still they are fast enough to catch up with a careless victim and everybody is well advised to avoid any closer encounter with those beasts. A lucky person sees them roaming the shores and can prepare for their attacks. The more unfortunate ones do not see them before it is too late. What is more, try to avoid meeting Blood Crabs underwater as they are much stronger when they can cavort in their favourite element.<br>Blood Crabs seem to appear out of nothing when they quickly ascend from the depth of the sea. Sometimes they wait motionlessly for a victim to approach, a strategy which works quite well because their shells can easily be mistaken for stones. It is rumoured that from time to time the quara tame Blood Crabs and use them as watchdogs, but since none of them was ever seen in a raid, this rumour is not confirmed yet.</p>",
         "hidden": false
     },
     {
@@ -1490,13 +1490,13 @@
     {
         "name": "Crab",
         "slug": "crab",
-        "description": "",
+        "description": "<p>Sailors often call the Crabs the 'knights of the sea', on the other hand, sailors drink plenty and no one should care much about what they have to say. In fact Crabs live on the beach or in the sea. Their natural armour is very thick and their pinchers are suited to crush shells. Obviously, Crabs are well prepared to defend themselves and they surely will if they feel threatened. Usually they try to scare away intruders from their territory, but they do not pursuit trespassers for long. The taste of their flesh is rather unusual but not bad, some call it even a delicacy.</p>",
         "hidden": false
     },
     {
         "name": "Crustacea Gigantica",
         "slug": "crustacea-gigantica",
-        "description": "",
+        "description": "<p>The discovery of the Crustacea Gigantica came to the scientific community like a thunderbolt. A creature like that was not even assumed to exist. Neither did it match any description of mythical creatures. All the more it is astonishing that considering their formerly unknown status sightings of Crustaceae Giganticae have become more and more common nowadays. These dwellers of the deep seem to leave their ancient habitats for unknown reasons and seek new areas to live in. Given the warlike nature of the Crustacea Gigantica it is somewhat unsettling to think what might have driven them away from their old realms. As of today, there are no valid theories about this occurrence, and although the quara are often mentioned as a possible cause, it seems more likely that the real cause is a new threat that lurks in the depths of the ocean.<br>The Crustacea Gigantica itself is not necessarily destructive but very territorial. When something enters their habitat, the simple-minded beasts distinguish only between food and robber. Both are to be eliminated by their powerful pincers. Their armoured shell serves for more than adequate defence in such cases.</p>",
         "hidden": false
     },
     {
@@ -1748,7 +1748,7 @@
     {
         "name": "Blue Djinn",
         "slug": "blue-djinn",
-        "description": "",
+        "description": "<p>Although the Blue Djinns are considered entities of goodness they tend to guard their secrets well from nosy explorers, diligently performing any task they accepted. Being highly magical creatures, they are masters of illusion and transformation. Djinns are known for their witchcraft and fairy-tales commonly narrate about djinns granting people wishes. Magicians often mock this idea, arguing that only djinns bound by powerful magic feel obliged to such duties. Be that as it may, Blue Djinns are the weakest of their kind. Searching the world for the servants of evil and their eternal nemesis, the green djinns, they still pose a threat for all those they suspect of being in league with evil.</p>",
         "hidden": false
     },
     {
@@ -1850,7 +1850,7 @@
     {
         "name": "Choking Fear",
         "slug": "choking-fear",
-        "description": "",
+        "description": "<p>Like a giant, gaunt goblin, cunning and swift-footed with slender, long arms that are fearfully strong, the Choking Fear searches for anything to throttle. It has no head, but loves to twist heads off. A Choking Fear will always chase after opponents, trying to get close, eager to have his long cold fingers around their necks. It enjoys the sound and feel of the dying and delights in feeling their death rattle. It is surmised that somewhere, in a dark prison cell, horrible pains and fears had been inflicted to the father of all Choking Fears, maddening him beyond belief until his rage took a ghastly form and he escaped. Any Choking Fear will always see all that breathes as its enemy, and chase them relentlessly while taunting them about their nearing end. Choking Fears love to tease and toy with their victims, prolonging their death; and they tie up their victims in their hemp ropes as a ghastly dangling trophy attached to high trees or roof beams.</p>",
         "hidden": false
     },
     {
@@ -2108,7 +2108,7 @@
     {
         "name": "Cat",
         "slug": "cat",
-        "description": "",
+        "description": "<p>The Tibian Cats were bred from a huge, tiger-like species. It took many centuries and the help of alchemy and magic until the domestic Cat started to take shape. The first Cats that were small enough not to devour their owners were highly prized. For a long time, only the highest nobility could afford a Cat as a pet. In the following centuries wars, misfortunes and the independent spirit of the Cats led to several escapes of this furry pet. In freedom, the Cats could rely on their old predatory instincts and though, they survived and prospered. Over the years, Cats became more and more common. Nowadays, it is not unusual that a farmer has one or two Cats on his property. Some loners even spend their lives on the city streets on their own. The Cats of the nobility are still highly prized and some pure breed can boast a more impressive and elaborate family tree than its owner.</p>",
         "hidden": false
     },
     {
@@ -2156,13 +2156,13 @@
     {
         "name": "Azure Frog",
         "slug": "azure-frog",
-        "description": "",
+        "description": "<p>Frogs come in many shapes, colours and sizes. The most common, the green Frog can be found on almost every lake or any other body of water as long as the climate is not too cold. While the green frog is harmless and only a threat to flies and other insects, the aggressive flora and fauna in the South has bred several subspecies of the frog. Distinguishable by eye-catching colours to warn their opponents, they possess a mild but annoying poisonous spittle. Usually they are harmless even if they appear in great numbers, but wounded adventurers who run out of resources face a real threat when stumbling upon a breeding ground of the little amphibians.</p>",
         "hidden": false
     },
     {
         "name": "Bog Frog",
         "slug": "bog-frog",
-        "description": "",
+        "description": "<p>Bog Frogs came with the rise of the bog temple in Shadowthorn. Formerly normal animals, these vicious little critters have transformed into an abomination of the bog. They are quick and ugly but should not pose a much greater threat than normal frogs. They usually appear in swarms in close vicinity to swamps and lakes.</p>",
         "hidden": false
     },
     {
@@ -2216,7 +2216,7 @@
     {
         "name": "Cave Rat",
         "slug": "cave-rat",
-        "description": "",
+        "description": "<p>Cave Rats live in deep holes and in dungeons. As they are bigger and more vicious than normal rats, they can be quite dangerous for badly equipped adventurers, especially when they crop up in packs.</p>",
         "hidden": false
     },
     {
@@ -2258,7 +2258,7 @@
     {
         "name": "Armadile",
         "slug": "armadile",
-        "description": "",
+        "description": "<p>The gnomes tell stories that the armadile once lived in deep enclosed caverns with other creatures in a form of harmony. Due to seismic activity their natural habitat was destroyed, but they managed to escape into an underground tunnel that had opened up. In the new environment they were able to escape their natural predators more easily and had less competition for nourishment. And so they prospered and became a plague for the depths of the earth, mainly invading gnomish holdings for their abundance of what the armadile consider food. As omnivores the armadile are a nuisance when encountered alone, but a threat when run into in greater numbers. Not only do they attack other creatures to devour them or destroy their food sources, their aimless digging and mineral eating often completely destroys the stability of caves and tunnels. Since there are no means to drive the Armadile out, the only solution is to exterminate them or to abandon areas with severe Armadile infestation. The main approach to identify natural competitors or threats to the Armadile have yet to meet with success. It is likely that whatever scares the Armadile off will probably be even worse itself.</p>",
         "hidden": false
     },
     {
@@ -2270,7 +2270,7 @@
     {
         "name": "Cliff Strider",
         "slug": "cliff-strider",
-        "description": "",
+        "description": "<p>It is yet unknown if the Cliff Strider is some sort of elemental, a golem, an organic life-form, or a strange hybrid. Usually only encountered in the hottest places of the world, they were rarely seen in the past. Recently, though, there have been more and more sightings in the depths of Tibia. When they are encountered, they are usually in liaison with 'those below'. It can only be speculated what this means for the Cliff Strider race as a whole. While they were formerly seen as some strange life-form that was only dangerous when it was disturbed in its unbearably hot and hostile living spaces, it is now speculated that the Cliff Striders are some form of cattle for 'those below' that are also commonly used in their wars as some kind of weapon. Still, there are relatively peaceful and territorial enclaves of Cliff Striders that seem to pose no threat to outward communities. In the light of the connection to 'those below' there are furious debates how to handle such known enclaves. While there are voices to eradicate them all before the enemy can employ them, the majority is still voting to monitor the situation and get more solid information before any preemptive action is taken.</p>",
         "hidden": false
     },
     {
@@ -2462,7 +2462,7 @@
     {
         "name": "Behemoth",
         "slug": "behemoth",
-        "description": "",
+        "description": "<p>Behemoths are giant monsters that live in the ancient town deep below Edron. They look a bit like cross-breeds of humans and bulls and even talk in human language, but nobody knows yet where they come from. Although they are of minor intelligence, they are very strong fighters and throw huge stones at their opponents.</p>",
         "hidden": false
     },
     {
@@ -2558,7 +2558,7 @@
     {
         "name": "Ancient Scarab",
         "slug": "ancient-scarab",
-        "description": "",
+        "description": "<p>The Ancient Scarab is ancient indeed - it is said that there are specimens that are aeons old. Rumours say that unless killed, a scarab will not die of old age but continue to grow and grow to enormous proportions. Their usual pace of movement is not impressively fast, but they are capable of doing sudden charges to catch their opponents off guard. Even more dangerous, their poison is strong enough to allow these creatures to emit large clouds of stinking death and mayhem around themselves. Ancient Scarabs are said to be the keepers of mysterious secrets swallowed by the sands long time ago. So don't be surprised if some of them might display even more cunning tactics and devastating magic.</p>",
         "hidden": false
     },
     {
@@ -2570,19 +2570,19 @@
     {
         "name": "Brimstone Bug",
         "slug": "brimstone-bug",
-        "description": "",
+        "description": "<p>Some insects are incredibly resistant to poison, diseases, and extreme climates. The Brimstone Bug seems to be the paragon of such resilience. It is argued whether this bug is the product of corruption or rather drawn to it. As a matter of fact the Brimstone Bug actually feeds on the corrupted essence of the world regardless of its source. They are drawn to places of dark magic or magical devastation. They are also known to devour residues of undead and demonic excrements without hesitation. Like certain flies are drawn to physically rotten things, the Brimstone Bug is attracted by things that are spiritually rotten. Not only does such matter no harm to them, it also seems to fuel several unusual powers of the Brimstone Bug. Only occasionally though, they display their magical powers which are unpredictable but harmful. Even though corruption is their preferred kind of nourishment, the Brimstone Bugs are not above attacking uncorrupted beings. If not starving, the bug will carry its dead or helpless prey to a place of great corruption and wait for the victim to become contaminated by the taint. Then it will finally devour it.<br>Brimstone Bugs live in swarms of different sizes even though they are quite aggressive among each other and fights are common, brutal, and often lethal. The Brimstone Bug is cannibalistic and will devour any fallen swarm member. However, if they can choose, they will devour corrupted prey first, which makes those theories less likely which claim that the Brimstone Bug itself is a result of corruption.<br>Sometimes colonies of Brimstone Bugs form in seemingly uncorrupted areas. The truth is, however, that the bugs only eat the corruption faster than it can grow back. So exterminating a colony might prove even worse than the bugs itself because without the bugs the corruption might spread even further through the land.</p>",
         "hidden": false
     },
     {
         "name": "Bug",
         "slug": "bug",
-        "description": "",
+        "description": "<p>Bugs live in the forests of Tibia and are nourished mainly by carrion. However, they do not shrink back from killing other animals. When they crop up in packs, they can even become dangerous for badly equipped adventurers.</p>",
         "hidden": false
     },
     {
         "name": "Butterfly",
         "slug": "butterfly",
-        "description": "",
+        "description": "<p>For a long time it was thought that the Butterfly had extinct on the Tibian continent. Only recently, the Tiquanda Butterfly has been discovered. So finally generations, who have known those beautiful creatures only from paintings and stories, have now a chance to see them first-hand. Somehow they have managed lately to migrate from the jungle to other areas and have begun to spread all over the world again.</p>",
         "hidden": true
     },
     {
@@ -2876,13 +2876,13 @@
     {
         "name": "Badger",
         "slug": "badger",
-        "description": "",
+        "description": "<p>These creatures are a common sight in Tibian forests and plains. Although they are usually quite shy, these animals are extremely territorial. Ready to attack any intruders regardless of their size, the Badger can easily become a nasty surprise to the unsuspecting traveller.</p>",
         "hidden": false
     },
     {
         "name": "Bat",
         "slug": "bat",
-        "description": "",
+        "description": "<p>Often encountered in caves and ruins, Bats are often seen as a bad omen. Being little stronger than a rat, they are rather a nuisance than a threat to an experienced adventurer. Their diet usually consists of small animals and their rare attacks on people mainly happen out of self-defence. Bats often form large swarms, and it is slightly more dangerous to face such a swarm than a single exemplar. Bats can be found almost everywhere as long as there is some dark place close-by where they can breed and sleep.</p>",
         "hidden": false
     },
     {
@@ -2930,7 +2930,7 @@
     {
         "name": "Crocodile",
         "slug": "crocodile",
-        "description": "",
+        "description": "<p>Crocodiles lurk in the murky waters of swamps or lie seemingly lazy at the shores of rivers and seas. They are astonishing agile when they are catching their prey though, and many were misled by their otherwise slow motions. The strength of their jaws is incredible and they hunt animals much larger than themselves with ease. For hours they can wait motionlessly for the unwary to approach and then to strike at complete surprise. If they manage to catch some mammal in water, there is almost no escape. On land, their claws and their thick scale skin makes it an impressive fighter and a threat to everything alive. You are advised to stay away from shores or to go there only with utmost caution.</p>",
         "hidden": false
     },
     {
@@ -2960,7 +2960,7 @@
     {
         "name": "Calamary",
         "slug": "calamary",
-        "description": "",
+        "description": "<p>Often rather seen as food by other inhabitants of the seas than as what they really are: intelligent and cunning hunters with an amazing ability to blend in with their surroundings. They are a true menace to smaller fish and their very shape induces fear in many creatures beneath and above sea level. This undoubtedly would not shake any other calamary, however, as they have three hearts to conveniently absorb such a shock.</p>",
         "hidden": false
     },
     {
@@ -3008,13 +3008,13 @@
     {
         "name": "Centipede",
         "slug": "centipede",
-        "description": "",
+        "description": "<p>The poisonous Centipede is a pest that is native of the Tiquandan jungle. Somehow a few of the creatures managed to sneak on ships and spread all over the world. Being mainly a scavenger, the Centipede rarely hunts actively for prey; but if it runs into a creature, it will attack it nonetheless. Given the fact that it does not have to kill for a living, the Centipede is astonishingly tough and challenging in combat. Being fast and poisonous, the Centipede can be quite dangerous, and its fertility causes its appearance in large numbers. This creature seems ineradicable, several extermination campaigns have already failed. Wherever a carrion is laying, a Centipede is close. However, it prefers to live in caves and narrow tunnels. Mould and decay seem to attract it and not little made their homes in the sewers of the cities.</p>",
         "hidden": false
     },
     {
         "name": "Crawler",
         "slug": "crawler",
-        "description": "",
+        "description": "<p>The Crawler seems to be less specialised than its hive brethren. It has been observed that they fill in any role that is needed. They even change their given role so quickly sometimes that an observer might come to the conclusion that Crawlers could make decisions consciously. Still, this is disputed and it seems more likely that they are only extremely sensitive to the commands or needs of the hive. Be it as it may, the Crawler can be encountered in each part of the hive and on the battlefield. They fight less aggressive and more coordinated than their brethren, though, they lack somewhat the strength of the others. They are even known for their retreats in a battle, just to regroup and attack again. Crawlers are swift and seem never to get tired. Even in futile tasks, they will not give up. Their tireless persistence is one of their most notable traits. They seem to be able to exist for an incredible long time without any form of nourishment and are one of the few Hive Born that can operate a significant amount of time underwater. As allrounder, they often aid their brethren in battles and seem to be capable fighters on their own.<br>Speed and effectiveness are the hallmarks of the Crawlers. Their true status in the hive, however, is somewhat enigmatic. Their use for the war against the Deeplings is somewhat limited. Although some of them accompany the marching armies of the hive, most of them stay back as rear guards and to expand hive structures in gained territory. However, groups of them also accompany greater armies to harass their opponents and particularly to single out weakened targets.</p>",
         "hidden": false
     },
     {
@@ -3026,13 +3026,13 @@
     {
         "name": "Blood Hand",
         "slug": "blood-hand",
-        "description": "",
+        "description": "<p>Nobody is quite sure how the blood priest cult recruits its pupils, the blood hands, and if they join of their own free will. Rumours have it that blood hands have artificially enhanced blood in their veins, making them ruthless tools that do the bidding of their masters.<br>Blood hands are named after the red gloves they wear, but the name is not merely a metaphor: blood hands have to pass several years of training and killing in the field to prove worthy of ascending into the ranks of the priests. Though the initiation takes place behind securely closed doors, there are hints of blood rage visions, brain washing, grotesque rituals and blood transfusions during the final trial, and only those who live through these ordeals are entitled to call themselves blood priests, and receive a new name. Blood hands are often sent abroad to fulfil a mission of their master's or assisting him, and may return with strange devices, samples and stains. On the upside, blood hands are also skilled surgeons, and many an unhappy necromancer has relied on their skill to prolong his life or sew a limb back on, even if he had to pledge his services to theirs in return.<br>In combat, blood hands use what their masters have taught them, and summon minions they managed to pressure into a blood bond, which usually means fellow necromancers who owed them a favour or two.</p>",
         "hidden": false
     },
     {
         "name": "Blood Priest",
         "slug": "blood-priest",
-        "description": "",
+        "description": "<p>Over time, different groups of dark summoners developed in Drefia who each follow their own path in using and worshipping the dark powers, loosely allying themselves, or feuding viciously, with another group from time to time.<br>The Blood Priests are a more recent order that reveres the fluids of life and death - above all blood, which they amass in horrendous quantities. Blood priests devote their lives to the study of blood and so-called lesser fluids. They attribute the most stupefying qualities to blood, and experiment extensively with it, using strange devices in their blood hall caverns. This requires a constant supply of fresh fluids and bodies and therefore blood priests and their henchmen are avoided even by their fellow Dark Summoners for fear of their lives. Even their names reflect their love for everything associated with blood and it is said they do not exactly dye their robes blood red.<br>Blood Priests love extravaganza in speech and habit, but they also favour symmetrical shapes and figures - nets, crosses, or abstract tree shapes - shapes that favour a flow and distribution of fluids. Their single-minded extravaganza extends to their love for other species as well. Though rats are usually preferred animals of Urgith and abound in Drefia, blood priests dote on bats, ticks and leeches, and it is even rumoured they have some kind of agreement with the vampires - though nobody dares to imagine to what purpose, and certainly will not ask.</p>",
         "hidden": false
     },
     {
@@ -3152,19 +3152,19 @@
     {
         "name": "Bandit",
         "slug": "bandit",
-        "description": "",
+        "description": "<p>The tale of the noble bandit that takes from the rich and gives to the poor is far away from reality. The usual Bandit does not care whom he is robbing as long as he is able to gain something of value for himself. Actually in most cases, the poor are those that are worst prepared to defend themselves and so have become the preferred victims of bandits. Bandits are armed with a variety of weapons, their armour has usually been plundered somewhere. Always avoiding the city guards, they set up their hideouts in the wilderness, often close to streets where they are feared as highwaymen. Involved in all kinds of illegal activities, they can be found in the service of all kind of persons that want some dirty work performed. Some even stand in the service of some head Bandit who has managed to suppress some remote area or village.</p>",
         "hidden": false
     },
     {
         "name": "Black Knight",
         "slug": "black-knight",
-        "description": "",
+        "description": "<p>The Black Knight is a deserted knight of the King's army. He lives deep in the swamps of Tibia and attacks every intruder of his sphere. Well-equipped, he is very strong in close combat and uses his spear for distance fighting.</p>",
         "hidden": false
     },
     {
         "name": "Crazed Beggar",
         "slug": "crazed-beggar",
-        "description": "",
+        "description": "<p>Crazed Beggars are victims of disease, hunger and desperation. They have fled from their hopeless, dark lives into insanity. Their twisted vision and mind result from dangerous home-brewed alcohol and make them a threat to everybody, including themselves, when they roam the dark alleys of the cities they live in. They are neither impressive fighters nor do they have good equipment, but their madness gives their gaunt bodies frightening physical power and resilience. They become particularly dangerous to travellers when they appear in a group led by an invisible hand. Even though, an adventurer might rather want to mourn these pitiful beings, he will quickly raise his weapon when he is attacked with sticks, clubs, stones and teeth. Regardless of their own safety and with the fury of a madman, they might not pose a real threat to an experienced fighter, but their attacks can be fatal for an ordinary citizen.<br>In their few sane moments, they travel much, so they can be encountered almost everywhere. Some cultures, which are usually hostile towards humans, praise Crazed Beggars as blessed beings. In rare cases, it has also been reported that one of them started to see his madness as divine providence and start to form small cults of equally mad cultists. Created by a mad mind, such cults can be devoted to almost anything, from mundane objects to completely deranged philosophies that only a madman can understand.<br>Even without a leader or a common goal, Crazed Beggars often team up led by an instinctive need for protection and company. Astonishing enough, they seem to get along with each other quite well, most likely as they are all absorbed in their own mad worlds.</p>",
         "hidden": false
     },
     {
@@ -3248,7 +3248,7 @@
     {
         "name": "Crypt Defiler",
         "slug": "crypt-defiler",
-        "description": "",
+        "description": "<p>Only a few grave robbers live to see the day to get the renown and experience needed to be known as crypt defilers. Most members of their trade die soon by traps, ancient guardians of the tombs or blades of adventurers. Only those cunning and tough enough to survive those perils become the dreaded and despised crypt defilers. They have gathered a meagre fortune to be able to afford better armor and weaponry and some of them even learned to turn the parts of buried creatures into toxins. They are responsible for leading bands of grave robbers out of their customary regions and finance expeditions to seek fortune in far lands. It is due to their dubious courtesy that parties of grave robbers can be encountered almost everywhere in the known world. They and their henchmen are often drawn to a newly discovered crypt like flies to a cadaver. Though some of the crypt defilers are in the employment of eccentric collectors or dealers of stolen goods, most of them are just unscrupulous thieves. Some of them have learned that strength comes in numbers and band together for a common goal, often employing a bunch of less experienced grave robbers. Such alliances usually don't last for long though, as these individuals are prone to betray or sacrifice each other in the face of even the slightest danger. Still it is not unheard of that some of these gangs last long enough to acquire a name for themselves, others have some form of 'representative' in the more dubious parts of the larger cities that can help in the acquiring of 'long lost objects' - for a price of course.</p>",
         "hidden": false
     },
     {
@@ -3470,7 +3470,7 @@
     {
         "name": "Cobra",
         "slug": "cobra",
-        "description": "",
+        "description": "<p>The desert-creeping Cobra has become a symbol of assassination and venom throughout the world. Contrary to the slithery green snakes which dwell the swamps and in general prefer a moist surrounding, Cobras have well adapted to the dry and hostile environment of the desert. The silent killers usually prey on smaller animals and even insects, digging their bodies into a sandy dune until they are almost not visible anymore to the unaware eye. As soon as a potential victim passes by, the Cobra will perform a fast and surprising strike, injecting its highly dangerous poison into the prey. Usually only chasing for nurture, Cobras can be easily provoked or irritated and might consider any encounter a threat, fearlessly attacking everything regardless of its size. Although the tales of the fatality of its poison and its toughness are wildly exaggerated, they still pose a significant threat to all unaware wanderers and explorers.</p>",
         "hidden": false
     },
     {
@@ -3506,13 +3506,13 @@
     {
         "name": "Betrayed Wraith",
         "slug": "betrayed-wraith",
-        "description": "",
+        "description": "<p>Revenge is the drive of a Betrayed Wraith, revenge whose cause is long forgotten and whose source has likely died decades ago. Still trapped in their lust for revenge, they mindlessly attack everything they encounter. Mercy is no option and its futile to argue with these maddened ghosts. Their broken and twisted minds are constantly tormented by the ever-present memory of their gruesome death. Entrapped in their feelings and memories, they only find relief when inflicting some of those feelings on living beings. In an insane surge of joy, they attack the life force of others, feeding their pain and amplifying it by projecting their own agony and horror upon their victims. It is said that those who survived the attacks of a Betrayed Wraith are driven insane, they age before their time and turn into white-haired shadows of their former selves.</p>",
         "hidden": false
     },
     {
         "name": "Bonebeast",
         "slug": "bonebeast",
-        "description": "",
+        "description": "<p>The result of an unspeakable ritual that mocks the holy secrets of creation, the Bonebeast is a harbinger of doom and pestilence. It is best described as a hideous conglomerate of bones and rotten flesh vaguely resembling a bull. Bonebeasts are often created by some unscrupulous lich, and they mindlessly obey their master's orders no matter what they are. More often than not, these orders include impaling one or more hapless victims on one of the Bonebeast's massive horns.</p>",
         "hidden": true
     },
     {
@@ -3788,19 +3788,19 @@
     {
         "name": "Banshee",
         "slug": "banshee",
-        "description": "",
+        "description": "<p>The Banshee is an undead creature of sheer terror. Legend has it she once was a mortal woman of great beauty who has killed herself over some long forgotten grievance. Death refused her sacrifice and sent her back, cursed and distorted. Now the Banshee is a ghastly sight to behold. Her body is not ethereal like that of a ghost, but her burning gaze and the withering look of infinite pain in her face strike terror in every mortal's heart. Even worse than her fearsome looks, however, is her unworldly song. The Banshee's wail is a melody of pure death which drains her unfortunate victims of all life and hope. Few mortals who have encountered a Banshee have lived to tell the tale.</p>",
         "hidden": false
     },
     {
         "name": "Blightwalker",
         "slug": "blightwalker",
-        "description": "",
+        "description": "<p>The essence of death, plague and decay is indeed a powerful one as some demons quickly realised. They used their powers to gather this essence through their minions just like bees gather honey. Then they bound these disruptive powers into tangible shapes and added a little bit of demonic spirit. Filled with decay and a malicious will, the Blightwalkers were born. Whenever they find a way into the realms of the living, their steps are followed by death and decay. Everything fertile and healthy is considered as enemy and their dark instinct drives them to destroy and ruin everything they encounter. Even though demons often summon them as individuals to bring decay upon the ranks of their enemies, some enjoy to employ Blightwalkers as shock troops and footsoldiers of their armies.</p>",
         "hidden": false
     },
     {
         "name": "Crypt Shambler",
         "slug": "crypt-shambler",
-        "description": "",
+        "description": "<p>For a long time it was believed that the Crypt Shambler was a mere myth, and even though today most scholars agree that this undead abomination exists, little else is known about it. A common theory holds that Crypt Shamblers are created from the bodies of lesser necromancers and death cultists who were turned into undead creatures while they were still alive! Although this theory remains unconfirmed, it would help to explain the burning rage that seems to be a common trait of all Crypt Shamblers. Whatever the truth, Crypt Shamblers are dangerous undead that far exceed many other undead in power and ferocity.</p>",
         "hidden": false
     },
     {
@@ -3902,7 +3902,7 @@
     {
         "name": "Boar",
         "slug": "boar",
-        "description": "",
+        "description": "<p>Once an ordinary beast that was at worst victim of occasional hunts, the rise of heroes in the land signified doom for the Boar species. Hunted almost to extinction, Boars have become a rare sight indeed. As heroes moved on to more powerful foes, the Boars slowly recovered. Only the most resilient specimens had survived the massive hunting and so the new generations of Boars that slowly arose proved to be tougher, meaner and by far more dangerous their ancestors. These Boars are more than capable to defend themselves and now, they are not only retaking their former habitats.<br>Usually found in the deep woods far away from civilisation, their boldness and insatiable hunger drives them more and more to human settlements which mean easy food for them. Their foraging often leaves fields and farms devastated, however, an ordinary farmer knows better than to try fighting the fearsome beasts that usually form small flocks and are rarely encountered alone. So it is once more up to the heroes to strike the Boars down. But this time they are facing much tougher opponents on a more equal ground.</p>",
         "hidden": false
     },
     {
@@ -4028,13 +4028,13 @@
     {
         "name": "Acolyte of the Cult",
         "slug": "acolyte-of-the-cult",
-        "description": "",
+        "description": "<p>The Acolytes of the Cult received some training in the dark arts, at disposal to the cult. They are proud of their status and are usually quite fanatic about the cult. Acolytes of the Cult feel superior to outsiders and often think the powers bestowed upon them make them invincible. They only respect higher ranks of the cult whom they obey like slaves their masters. Their magic is still fairly weak and does by far not match their ego. Having gained a glimpse at the work of the cult, it is not easy to sacrifice their curiosity and so they use their whole energy to strive for the higher ranks. Acolytes of the Cult are only involved in affairs if they are considered of importance for the cult.</p>",
         "hidden": false
     },
     {
         "name": "Adept of the Cult",
         "slug": "adept-of-the-cult",
-        "description": "",
+        "description": "<p>Adept of the Cult is the highest rank that a normal cultist can dream to acquire. Strong-willed and loyal, they use the secrets of the cult to amplify their magic to a threatening degree. Ruthless and cunning, they pose a threat to every opponent. They see themselves as too valuable to the cult to be lost. For this reason, they are always accompanied by some members of lower ranks who support and protect them. Their esteem of other cultists is not very high though and they sacrifice them at their whim whenever a threat occurs. They hold important knowledge about the cult and they are so fanatic that they would rather die than to get caught alive.</p>",
         "hidden": false
     },
     {
