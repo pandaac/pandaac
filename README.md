@@ -1,8 +1,7 @@
+![Abandoned](https://raw.githubusercontent.com/eklundchristopher/resources/master/abandoned/abandoned.png)
+
 # Apolune
 Apolune is the codename assigned to the version of _pandaac_ that utilises [Laravel 5.2](http://laravel.com/docs/5.2/).
-
-## Please note
-Due to lack of motivation, I'm looking for one, or possibly more, people to take over the project. More information can be found here; [https://otland.net/threads/pandaac-finding-a-possible-suitor.244753/](https://otland.net/threads/pandaac-finding-a-possible-suitor.244753/)
 
 ## Prerequisites
 * [Laravel 5.2 Requirements](https://laravel.com/docs/5.2/installation#server-requirements)
